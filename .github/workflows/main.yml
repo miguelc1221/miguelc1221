@@ -3,7 +3,7 @@ name: README build
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 12 * * */6'
   workflow_dispatch:
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
+      - name: Checkout current repository to Main branch
         uses: actions/checkout@v2
       - name: Setup NodeJs 17.x
         uses: actions/setup-node@v2
