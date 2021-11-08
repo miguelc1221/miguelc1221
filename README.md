@@ -19,6 +19,9 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 
 <img width="100%" alt="Interests title image" src="./assets/comics.png">
 
+<details>
+  <summary>Comics (Click to expand)</summary>
+
 | Name                                                         | Publisher                      | Issue # | Date       |
 | ------------------------------------------------------------ | ------------------------------ | ------- | ---------- |
 | DIE!NAMITE Lives!                                            | Dynamite                       | 5       | 11&#x2F;10&#x2F;2021 |
@@ -107,3 +110,5 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Rick And Morty: Corporate Assets                             | Oni Press                      | 1       | 11&#x2F;10&#x2F;2021 |
 | Grimm Tales of Terror: The Bachelorette Party                | Zenescope                      | 1       | 11&#x2F;10&#x2F;2021 |
 | Archie 80th Anniversary Jumbo Comics Digest                  | Archie Comics                  | 5       | 11&#x2F;10&#x2F;2021 |
+
+</details>
