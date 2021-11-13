@@ -48,12 +48,11 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Alien                                                        | Marvel Comics                  | 8       | 11&#x2F;10&#x2F;2021 |
 | Undiscovered Country                                         | Image Comics                   | 17      | 11&#x2F;10&#x2F;2021 |
 | Avengers: Tech-On                                            | Marvel Comics                  | 4       | 11&#x2F;10&#x2F;2021 |
-| Transformers: King Grimlock                                  | IDW Publishing                 | 4       | 11&#x2F;10&#x2F;2021 |
 | What&#39;s the Furthest Place From Here?                         | Image Comics                   | 1       | 11&#x2F;10&#x2F;2021 |
 | White                                                        | Black Mask Studios             | 5       | 11&#x2F;10&#x2F;2021 |
 | Cat Shit One Vol. 3                                          | Antarctic Press                | 1       | 11&#x2F;10&#x2F;2021 |
 | I Am Batman                                                  | DC Comics                      | 3       | 11&#x2F;09&#x2F;2021 |
-| Transformers: Wreckers—Tread &amp; Circuits                      | IDW Publishing                 | 2       | 11&#x2F;10&#x2F;2021 |
+| Transformers: Wreckers - Tread &amp; Circuits                    | IDW Publishing                 | 2       | 11&#x2F;10&#x2F;2021 |
 | Justice League: Last Ride                                    | DC Comics                      | 7       | 11&#x2F;09&#x2F;2021 |
 | Mighty Morphin                                               | BOOM! Studios                  | 13      | 11&#x2F;10&#x2F;2021 |
 | Happy Hour In America                                        | Fantagraphics Books            | 2       | 11&#x2F;10&#x2F;2021 |
@@ -63,6 +62,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Wonder Woman                                                 | DC Comics                      | 78      | 11&#x2F;09&#x2F;2021 |
 | Nyx                                                          | Dynamite                       | 1       | 11&#x2F;10&#x2F;2021 |
 | Sea of Stars                                                 | Image Comics                   | 11      | 11&#x2F;10&#x2F;2021 |
+| Watch Dogs: Legion                                           | Behemoth Comics                | 1       | 11&#x2F;10&#x2F;2021 |
 | Telepaths                                                    | Artists Writers &amp; Artisans Inc | 3       | 11&#x2F;10&#x2F;2021 |
 | The Batman &amp; Scooby-Doo Mysteries                            | DC Comics                      | 8       | 11&#x2F;09&#x2F;2021 |
 | Van Helsing Return of League of Monsters                     | Zenescope                      | 1       | 11&#x2F;10&#x2F;2021 |
@@ -71,7 +71,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Stillwater                                                   | Skybound                       | 11      | 11&#x2F;10&#x2F;2021 |
 | Future State: Gotham                                         | DC Comics                      | 7       | 11&#x2F;09&#x2F;2021 |
 | Life is Strange: Settling Dust                               | Titan Books                    | 2       | 11&#x2F;10&#x2F;2021 |
-| Chicken Devil                                                | AfterShock Comics              | 2       | 11&#x2F;10&#x2F;2021 |
 | The Thing                                                    | Marvel Comics                  | 1       | 11&#x2F;10&#x2F;2021 |
 | S Factor                                                     | Action Lab Comics              | 3       | 11&#x2F;10&#x2F;2021 |
 | Batman: Urban Legends                                        | DC Comics                      | 9       | 11&#x2F;09&#x2F;2021 |
@@ -89,13 +88,12 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Strange Academy                                              | Marvel Comics                  | 13      | 11&#x2F;10&#x2F;2021 |
 | A Righteous Thirst For Vengeance                             | Image Comics                   | 2       | 11&#x2F;10&#x2F;2021 |
 | Miles Morales: Spider-Man                                    | Marvel Comics                  | 32      | 11&#x2F;10&#x2F;2021 |
+| Snelson: Comedy Is Dying                                     | Ahoy Comics                    | 4       | 11&#x2F;10&#x2F;2021 |
 | The Joker                                                    | DC Comics                      | 9       | 11&#x2F;09&#x2F;2021 |
 | Edgar Allan Poe&#39;s Snifter of Death                           | Ahoy Comics                    | 2       | 11&#x2F;10&#x2F;2021 |
 | G.I. Joe: A Real American Hero                               | IDW Publishing                 | 28      | 11&#x2F;10&#x2F;2021 |
 | Deadpool: Black, White &amp; Blood                               | Marvel Comics                  | 4       | 11&#x2F;10&#x2F;2021 |
 | Ordinary Gods                                                | Image Comics                   | 5       | 11&#x2F;10&#x2F;2021 |
-| Croak                                                        | AfterShock Comics              | 1       | 11&#x2F;10&#x2F;2021 |
-| Almost American                                              | AfterShock Comics              | 3       | 11&#x2F;10&#x2F;2021 |
 | Black Beacon                                                 | Heavy Metal                    | 4       | 11&#x2F;10&#x2F;2021 |
 | KISS: Phantom Obsession                                      | Dynamite                       | 3       | 11&#x2F;10&#x2F;2021 |
 | Witchblood                                                   | Vault Comics                   | 8       | 11&#x2F;10&#x2F;2021 |
