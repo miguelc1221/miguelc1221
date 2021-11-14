@@ -22,91 +22,125 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 <details>
   <summary>Comics (Click to expand)</summary>
 
-| Name                                                         | Publisher                      | Issue # | Date       |
-| ------------------------------------------------------------ | ------------------------------ | ------- | ---------- |
-| DIE!NAMITE Lives!                                            | Dynamite                       | 5       | 11&#x2F;10&#x2F;2021 |
-| Never Never                                                  | Heavy Metal                    | 5       | 11&#x2F;10&#x2F;2021 |
-| Space Bastards                                               | Humanoids                      | 9       | 11&#x2F;10&#x2F;2021 |
-| Pennyworth                                                   | DC Comics                      | 4       | 11&#x2F;09&#x2F;2021 |
-| The Cimmerian: Beyond the Black River                        | Ablaze                         | 2       | 11&#x2F;10&#x2F;2021 |
-| Phenom X                                                     | Image Comics                   | 1       | 11&#x2F;10&#x2F;2021 |
-| The Citizen                                                  | Action Lab Comics              | 3       | 11&#x2F;10&#x2F;2021 |
-| Mazebook                                                     | Dark Horse Comics              | 3       | 11&#x2F;10&#x2F;2021 |
-| Action Comics                                                | DC Comics                      | 10      | 11&#x2F;09&#x2F;2021 |
-| Man-Eaters: The Cursed                                       | Image Comics                   | 5       | 11&#x2F;10&#x2F;2021 |
-| The Lunar Ladies                                             | Scout Comics                   | 3       | 11&#x2F;10&#x2F;2021 |
-| Hellions                                                     | Marvel Comics                  | 17      | 11&#x2F;10&#x2F;2021 |
-| Carriers                                                     | Red 5                          | 1       | 11&#x2F;10&#x2F;2021 |
-| Black Manta                                                  | DC Comics                      | 3       | 11&#x2F;09&#x2F;2021 |
-| Archie &amp; Friends: Christmas Calamity                         | Archie Comics                  | 1       | 11&#x2F;10&#x2F;2021 |
-| Static: Season One                                           | Milestone                      | 4       | 11&#x2F;09&#x2F;2021 |
-| The Amazing Spider-Man                                       | Marvel Comics                  | 78      | 11&#x2F;10&#x2F;2021 |
-| No One Left To Fight II                                      | Dark Horse Comics              | 2       | 11&#x2F;10&#x2F;2021 |
-| Vampirella                                                   | Dynamite                       | 25      | 11&#x2F;10&#x2F;2021 |
-| Gods of Brutality                                            | Scout Comics                   | 3       | 11&#x2F;10&#x2F;2021 |
-| James Bond: Himeros                                          | Dynamite                       | 2       | 11&#x2F;10&#x2F;2021 |
-| Alien                                                        | Marvel Comics                  | 8       | 11&#x2F;10&#x2F;2021 |
-| Undiscovered Country                                         | Image Comics                   | 17      | 11&#x2F;10&#x2F;2021 |
-| Avengers: Tech-On                                            | Marvel Comics                  | 4       | 11&#x2F;10&#x2F;2021 |
-| What&#39;s the Furthest Place From Here?                         | Image Comics                   | 1       | 11&#x2F;10&#x2F;2021 |
-| White                                                        | Black Mask Studios             | 5       | 11&#x2F;10&#x2F;2021 |
-| Cat Shit One Vol. 3                                          | Antarctic Press                | 1       | 11&#x2F;10&#x2F;2021 |
-| I Am Batman                                                  | DC Comics                      | 3       | 11&#x2F;09&#x2F;2021 |
-| Transformers: Wreckers - Tread &amp; Circuits                    | IDW Publishing                 | 2       | 11&#x2F;10&#x2F;2021 |
-| Justice League: Last Ride                                    | DC Comics                      | 7       | 11&#x2F;09&#x2F;2021 |
-| Mighty Morphin                                               | BOOM! Studios                  | 13      | 11&#x2F;10&#x2F;2021 |
-| Happy Hour In America                                        | Fantagraphics Books            | 2       | 11&#x2F;10&#x2F;2021 |
-| Venom                                                        | Marvel Comics                  | 1       | 11&#x2F;10&#x2F;2021 |
-| Horizon Zero Dawn: Liberation                                | Titan Books                    | 3       | 11&#x2F;10&#x2F;2021 |
-| Excalibur                                                    | Marvel Comics                  | 25      | 11&#x2F;10&#x2F;2021 |
-| Wonder Woman                                                 | DC Comics                      | 78      | 11&#x2F;09&#x2F;2021 |
-| Nyx                                                          | Dynamite                       | 1       | 11&#x2F;10&#x2F;2021 |
-| Sea of Stars                                                 | Image Comics                   | 11      | 11&#x2F;10&#x2F;2021 |
-| Watch Dogs: Legion                                           | Behemoth Comics                | 1       | 11&#x2F;10&#x2F;2021 |
-| Telepaths                                                    | Artists Writers &amp; Artisans Inc | 3       | 11&#x2F;10&#x2F;2021 |
-| The Batman &amp; Scooby-Doo Mysteries                            | DC Comics                      | 8       | 11&#x2F;09&#x2F;2021 |
-| Van Helsing Return of League of Monsters                     | Zenescope                      | 1       | 11&#x2F;10&#x2F;2021 |
-| We Have Demons                                               | Comixology                     | 2       | 11&#x2F;09&#x2F;2021 |
-| Batman: The Imposter                                         | DC Comics                      | 2       | 11&#x2F;09&#x2F;2021 |
-| Stillwater                                                   | Skybound                       | 11      | 11&#x2F;10&#x2F;2021 |
-| Future State: Gotham                                         | DC Comics                      | 7       | 11&#x2F;09&#x2F;2021 |
-| Life is Strange: Settling Dust                               | Titan Books                    | 2       | 11&#x2F;10&#x2F;2021 |
-| The Thing                                                    | Marvel Comics                  | 1       | 11&#x2F;10&#x2F;2021 |
-| S Factor                                                     | Action Lab Comics              | 3       | 11&#x2F;10&#x2F;2021 |
-| Batman: Urban Legends                                        | DC Comics                      | 9       | 11&#x2F;09&#x2F;2021 |
-| Canto III: Lionhearted                                       | IDW Publishing                 | 4       | 11&#x2F;10&#x2F;2021 |
-| Superman Vs. Lobo                                            | DC Comics                      | 2       | 11&#x2F;09&#x2F;2021 |
-| Titans United                                                | DC Comics                      | 3       | 11&#x2F;09&#x2F;2021 |
-| Hath No Fury                                                 | Action Lab Comics              | 2       | 11&#x2F;10&#x2F;2021 |
-| Eternals                                                     | Marvel Comics                  | 7       | 11&#x2F;10&#x2F;2021 |
-| Savage Avengers                                              | Marvel Comics                  | 26      | 11&#x2F;10&#x2F;2021 |
-| Harley Quinn: The Animated Series - The Eat, Bang, Kill Tour | DC Comics                      | 3       | 11&#x2F;09&#x2F;2021 |
-| Robin &amp; Batman                                               | DC Comics                      | 1       | 11&#x2F;09&#x2F;2021 |
-| The Unbelievable Unteens                                     | Dark Horse Comics              | 4       | 11&#x2F;10&#x2F;2021 |
-| Regarding the Matter of Oswald&#39;s Body                        | BOOM! Studios                  | 1       | 11&#x2F;10&#x2F;2021 |
-| The Six Sidekicks of Trigger Keaton                          | Skybound                       | 6       | 11&#x2F;10&#x2F;2021 |
-| Strange Academy                                              | Marvel Comics                  | 13      | 11&#x2F;10&#x2F;2021 |
-| A Righteous Thirst For Vengeance                             | Image Comics                   | 2       | 11&#x2F;10&#x2F;2021 |
-| Miles Morales: Spider-Man                                    | Marvel Comics                  | 32      | 11&#x2F;10&#x2F;2021 |
-| Snelson: Comedy Is Dying                                     | Ahoy Comics                    | 4       | 11&#x2F;10&#x2F;2021 |
-| The Joker                                                    | DC Comics                      | 9       | 11&#x2F;09&#x2F;2021 |
-| Edgar Allan Poe&#39;s Snifter of Death                           | Ahoy Comics                    | 2       | 11&#x2F;10&#x2F;2021 |
-| G.I. Joe: A Real American Hero                               | IDW Publishing                 | 28      | 11&#x2F;10&#x2F;2021 |
-| Deadpool: Black, White &amp; Blood                               | Marvel Comics                  | 4       | 11&#x2F;10&#x2F;2021 |
-| Ordinary Gods                                                | Image Comics                   | 5       | 11&#x2F;10&#x2F;2021 |
-| Black Beacon                                                 | Heavy Metal                    | 4       | 11&#x2F;10&#x2F;2021 |
-| KISS: Phantom Obsession                                      | Dynamite                       | 3       | 11&#x2F;10&#x2F;2021 |
-| Witchblood                                                   | Vault Comics                   | 8       | 11&#x2F;10&#x2F;2021 |
-| Billy the Kit                                                | Blue Juice Comics              | 2       | 11&#x2F;10&#x2F;2021 |
-| Out                                                          | Artists Writers &amp; Artisans Inc | 2       | 11&#x2F;10&#x2F;2021 |
-| Comic Shop News                                              | Comic Shop News                | 17      | 11&#x2F;10&#x2F;2021 |
-| My Date With Monsters                                        | AfterShock Comics              | 1       | 11&#x2F;10&#x2F;2021 |
-| Star Wars: The High Republic                                 | Marvel Comics                  | 11      | 11&#x2F;10&#x2F;2021 |
-| Sonjaversal                                                  | Dynamite                       | 9       | 11&#x2F;10&#x2F;2021 |
-| Mamo                                                         | BOOM! Studios                  | 5       | 11&#x2F;10&#x2F;2021 |
-| Trover Saves the Universe                                    | Skybound                       | 4       | 11&#x2F;10&#x2F;2021 |
-| Rick And Morty: Corporate Assets                             | Oni Press                      | 1       | 11&#x2F;10&#x2F;2021 |
-| Grimm Tales of Terror: The Bachelorette Party                | Zenescope                      | 1       | 11&#x2F;10&#x2F;2021 |
-| Archie 80th Anniversary Jumbo Comics Digest                  | Archie Comics                  | 5       | 11&#x2F;10&#x2F;2021 |
+| Name                                                                 | Publisher                      | Issue # | Date       |
+| -------------------------------------------------------------------- | ------------------------------ | ------- | ---------- |
+| Buffy the Vampire Slayer                                             | BOOM! Studios                  | 31      | 11&#x2F;17&#x2F;2021 |
+| Green Lantern                                                        | DC Comics                      | 8       | 11&#x2F;16&#x2F;2021 |
+| S Factor                                                             | Action Lab Comics              | 4       | 11&#x2F;17&#x2F;2021 |
+| Elvira Meets Vincent Price                                           | Dynamite                       | 3       | 11&#x2F;17&#x2F;2021 |
+| Sleeping Beauties                                                    | IDW Publishing                 | 8       | 11&#x2F;17&#x2F;2021 |
+| Savage Dragon                                                        | Image Comics                   | 26      | 11&#x2F;17&#x2F;2021 |
+| Sonic the Hedgehog: Imposter Syndrome                                | IDW Publishing                 | 1       | 11&#x2F;17&#x2F;2021 |
+| Book of Lyaxia                                                       | Second Sight Publishing        | 4       | 11&#x2F;17&#x2F;2021 |
+| Gun Honey                                                            | Titan Books                    | 3       | 11&#x2F;17&#x2F;2021 |
+| S.W.O.R.D.                                                           | Marvel Comics                  | 10      | 11&#x2F;17&#x2F;2021 |
+| Darkhold: Wasp                                                       | Marvel Comics                  | 1       | 11&#x2F;17&#x2F;2021 |
+| Bountiful Garden                                                     | Mad Cave Studios               | 3       | 11&#x2F;17&#x2F;2021 |
+| Second Chances                                                       | Image Comics                   | 4       | 11&#x2F;17&#x2F;2021 |
+| Savage Hearts                                                        | Dark Horse Comics              | 5       | 11&#x2F;17&#x2F;2021 |
+| Dune: House Atreides                                                 | BOOM! Studios                  | 12      | 11&#x2F;17&#x2F;2021 |
+| Jupiter&#39;s Legacy: Requiem                                            | Image Comics                   | 6       | 11&#x2F;17&#x2F;2021 |
+| Orcs In Space                                                        | Oni Press                      | 5       | 11&#x2F;17&#x2F;2021 |
+| Looney Tunes                                                         | DC Comics                      | 26      | 11&#x2F;16&#x2F;2021 |
+| Moonshine                                                            | Image Comics                   | 28      | 11&#x2F;17&#x2F;2021 |
+| World of Betty and Veronica Jumbo Comics Digest                      | Archie Comics                  | 10      | 11&#x2F;17&#x2F;2021 |
+| Moon Knight                                                          | Marvel Comics                  | 5       | 11&#x2F;17&#x2F;2021 |
+| Nine Stones                                                          | Behemoth Comics                | 4       | 11&#x2F;17&#x2F;2021 |
+| Army of Darkness 1979                                                | Dynamite                       | 3       | 11&#x2F;17&#x2F;2021 |
+| Porcelain                                                            | Ablaze                         | 4       | 11&#x2F;17&#x2F;2021 |
+| Clear                                                                | Comixology                     | 2       | 11&#x2F;16&#x2F;2021 |
+| Getting Dizzy                                                        | BOOM! Studios                  | 1       | 11&#x2F;17&#x2F;2021 |
+| Radio Apocalypse                                                     | Vault Comics                   | 1       | 11&#x2F;17&#x2F;2021 |
+| Batman                                                               | DC Comics                      | 11      | 11&#x2F;16&#x2F;2021 |
+| Purgatori                                                            | Dynamite                       | 2       | 11&#x2F;17&#x2F;2021 |
+| Suicide Squad: King Shark                                            | DC Comics                      | 3       | 11&#x2F;16&#x2F;2021 |
+| Aquaman: The Becoming                                                | DC Comics                      | 3       | 11&#x2F;16&#x2F;2021 |
+| Comic Shop News                                                      | Comic Shop News                | 17      | 11&#x2F;17&#x2F;2021 |
+| Godkiller: Spiderland                                                | Black Mask Studios             | 1       | 11&#x2F;17&#x2F;2021 |
+| Campisi: The Dragon Incident                                         | AfterShock Comics              | 3       | 11&#x2F;17&#x2F;2021 |
+| Time Before Time                                                     | Image Comics                   | 7       | 11&#x2F;17&#x2F;2021 |
+| Robins                                                               | DC Comics                      | 1       | 11&#x2F;16&#x2F;2021 |
+| Legends of the Dark Knight                                           | DC Comics                      | 7       | 11&#x2F;16&#x2F;2021 |
+| Dungeons &amp; Dragons: Mindbreaker                                      | IDW Publishing                 | 2       | 11&#x2F;17&#x2F;2021 |
+| Suicide Squad                                                        | DC Comics                      | 9       | 11&#x2F;16&#x2F;2021 |
+| Zombie Tramp                                                         | Action Lab Comics              | 84      | 11&#x2F;17&#x2F;2021 |
+| Supergirl: Woman of Tomorrow                                         | DC Comics                      | 5       | 11&#x2F;16&#x2F;2021 |
+| Transformers: Shattered Glass                                        | IDW Publishing                 | 4       | 11&#x2F;17&#x2F;2021 |
+| Eat the Rich                                                         | BOOM! Studios                  | 4       | 11&#x2F;17&#x2F;2021 |
+| Not All Robots                                                       | Artists Writers &amp; Artisans Inc | 4       | 11&#x2F;17&#x2F;2021 |
+| Ascencia                                                             | Wake Entertainment             | 10      | 11&#x2F;17&#x2F;2021 |
+| Dark Ages                                                            | Marvel Comics                  | 3       | 11&#x2F;17&#x2F;2021 |
+| Kang the Conqueror                                                   | Marvel Comics                  | 4       | 11&#x2F;17&#x2F;2021 |
+| Nightwing                                                            | DC Comics                      | 86      | 11&#x2F;16&#x2F;2021 |
+| Redshift                                                             | Scout Comics                   | 5       | 11&#x2F;17&#x2F;2021 |
+| The Nice House on the Lake                                           | DC Comics                      | 6       | 11&#x2F;16&#x2F;2021 |
+| My Little Pony: Generations                                          | IDW Publishing                 | 2       | 11&#x2F;17&#x2F;2021 |
+| Fantastic Four Anniversary Tribute                                   | Marvel Comics                  | 1       | 11&#x2F;17&#x2F;2021 |
+| Genis-Vell: Marvel Tales                                             | Marvel Comics                  | 1       | 11&#x2F;17&#x2F;2021 |
+| Batman vs. Bigby! A Wolf in Gotham                                   | DC Comics                      | 3       | 11&#x2F;16&#x2F;2021 |
+| Zombie Tramp                                                         | Action Lab Comics              | 83      | 11&#x2F;17&#x2F;2021 |
+| Star Wars: Doctor Aphra                                              | Marvel Comics                  | 16      | 11&#x2F;17&#x2F;2021 |
+| Black Panther Legends                                                | Marvel Comics                  | 2       | 11&#x2F;17&#x2F;2021 |
+| Doctor Who: Empire of Wolf                                           | Titan Books                    | 1       | 11&#x2F;17&#x2F;2021 |
+| Blade Runner: Origins                                                | Titan Books                    | 8       | 11&#x2F;17&#x2F;2021 |
+| Cassidy&#39;s Secret                                                     | Clover Press                   | 2       | 11&#x2F;17&#x2F;2021 |
+| That Texas Blood                                                     | Image Comics                   | 12      | 11&#x2F;17&#x2F;2021 |
+| Chicken Devil                                                        | AfterShock Comics              | 2       | 11&#x2F;17&#x2F;2021 |
+| King Spawn                                                           | Image Comics                   | 4       | 11&#x2F;17&#x2F;2021 |
+| These Damn Kids                                                      | Second Sight Publishing        | 1       | 11&#x2F;17&#x2F;2021 |
+| Savage Circus                                                        | Heavy Metal                    | 7       | 11&#x2F;17&#x2F;2021 |
+| Nubia and the Amazons                                                | DC Comics                      | 2       | 11&#x2F;16&#x2F;2021 |
+| Menagerie                                                            | Second Sight Publishing        | 2       | 11&#x2F;17&#x2F;2021 |
+| Tangled River                                                        | It&#39;s Alive                     | 4       | 11&#x2F;17&#x2F;2021 |
+| Wonder Woman: Evolution                                              | DC Comics                      | 1       | 11&#x2F;16&#x2F;2021 |
+| Justice League                                                       | DC Comics                      | 69      | 11&#x2F;16&#x2F;2021 |
+| Shang-Chi                                                            | Marvel Comics                  | 6       | 11&#x2F;17&#x2F;2021 |
+| Vampirella Holiday Special 2021                                      | Dynamite                       | 0       | 11&#x2F;17&#x2F;2021 |
+| Jonna and The Unpossible Monsters                                    | Oni Press                      | 8       | 11&#x2F;17&#x2F;2021 |
+| Heavy                                                                | Vault Comics                   | 8       | 11&#x2F;17&#x2F;2021 |
+| Star Wars Adventures                                                 | IDW Publishing                 | 12      | 11&#x2F;17&#x2F;2021 |
+| Refrigerator Full of Heads                                           | DC Comics                      | 2       | 11&#x2F;16&#x2F;2021 |
+| Ka-Zar: Lord of the Savage Land                                      | Marvel Comics                  | 3       | 11&#x2F;17&#x2F;2021 |
+| Superman: Son of Kal-El                                              | DC Comics                      | 5       | 11&#x2F;16&#x2F;2021 |
+| Yuki Vs. Panda                                                       | Source Point Press             | 4       | 11&#x2F;17&#x2F;2021 |
+| St. Mercy                                                            | Top Cow Productions            | 4       | 11&#x2F;17&#x2F;2021 |
+| Silence                                                              | Second Sight Publishing        | 1       | 11&#x2F;17&#x2F;2021 |
+| The Goon                                                             | Albatross Funnybooks           | 14      | 11&#x2F;17&#x2F;2021 |
+| The Box                                                              | Red 5                          | 4       | 11&#x2F;17&#x2F;2021 |
+| Primordial                                                           | Image Comics                   | 3       | 11&#x2F;17&#x2F;2021 |
+| Mirka Andolfo&#39;s Sweet Paprika                                        | Image Comics                   | 5       | 11&#x2F;17&#x2F;2021 |
+| Blood, Skulls, and Chrome                                            | Second Sight Publishing        | 3       | 11&#x2F;17&#x2F;2021 |
+| The Walking Dead Deluxe                                              | Skybound                       | 27      | 11&#x2F;17&#x2F;2021 |
+| Teenage Mutant Ninja Turtles: The Last Ronin Design Book             | IDW Publishing                 | 0       | 11&#x2F;17&#x2F;2021 |
+| Groo Meets Tarzan                                                    | Dark Horse Comics              | 4       | 11&#x2F;17&#x2F;2021 |
+| Deep Beyond                                                          | Image Comics                   | 10      | 11&#x2F;17&#x2F;2021 |
+| Power Rangers                                                        | BOOM! Studios                  | 13      | 11&#x2F;17&#x2F;2021 |
+| Samurai  2.0                                                         | Action Lab Comics              | 3       | 11&#x2F;17&#x2F;2021 |
+| MFKZ                                                                 | Behemoth Comics                | 6       | 11&#x2F;17&#x2F;2021 |
+| Pop Star Assassin                                                    | Behemoth Comics                | 2       | 11&#x2F;17&#x2F;2021 |
+| Tales of Terror Annual: Goddess of Death                             | Zenescope                      | 1       | 11&#x2F;17&#x2F;2021 |
+| Alt Control Delete                                                   | Second Sight Publishing        | 1       | 11&#x2F;17&#x2F;2021 |
+| The Edge                                                             | Second Sight Publishing        | 3       | 11&#x2F;17&#x2F;2021 |
+| Batman Secret Files: The Gardener                                    | DC Comics                      | 1       | 11&#x2F;16&#x2F;2021 |
+| Nobody&#39;s Child                                                       | Behemoth Comics                | 3       | 11&#x2F;17&#x2F;2021 |
+| Almost American                                                      | AfterShock Comics              | 3       | 11&#x2F;17&#x2F;2021 |
+| Skin Crawl                                                           | Other                          | 1       | 11&#x2F;17&#x2F;2021 |
+| Star Wars: The High Republic Adventures                              | IDW Publishing                 | 10      | 11&#x2F;17&#x2F;2021 |
+| He Who Fights With Monsters                                          | Ablaze                         | 3       | 11&#x2F;17&#x2F;2021 |
+| X-Force                                                              | Marvel Comics                  | 25      | 11&#x2F;17&#x2F;2021 |
+| Ant                                                                  | Image Comics                   | 2       | 11&#x2F;17&#x2F;2021 |
+| Spider-Woman                                                         | Marvel Comics                  | 17      | 11&#x2F;17&#x2F;2021 |
+| Hard Promises                                                        | Action Lab Comics              | 1       | 11&#x2F;17&#x2F;2021 |
+| Back Issue                                                           | TwoMorrows                     | 13      | 11&#x2F;17&#x2F;2021 |
+| Magic: The Gathering - Master of Metal                               | BOOM! Studios                  | 1       | 11&#x2F;17&#x2F;2021 |
+| Manifest Destiny                                                     | Skybound                       | 45      | 11&#x2F;17&#x2F;2021 |
+| Maw                                                                  | BOOM! Studios                  | 3       | 11&#x2F;17&#x2F;2021 |
+| Blue &amp; Gold                                                          | DC Comics                      | 4       | 11&#x2F;16&#x2F;2021 |
+| Red Sonja Special Edition                                            | Dynamite                       | 1       | 11&#x2F;17&#x2F;2021 |
+| Usagi Yojimbo: Dragon Bellow Conspiracy                              | IDW Publishing                 | 6       | 11&#x2F;17&#x2F;2021 |
+| The Transformers                                                     | IDW Publishing                 | 37      | 11&#x2F;17&#x2F;2021 |
+| The Amazing Spider-Man                                               | Marvel Comics                  | 78      | 11&#x2F;17&#x2F;2021 |
+| Star Wars: The High Republic Adventures - The Monster of Temple Peak | IDW Publishing                 | 4       | 11&#x2F;17&#x2F;2021 |
+| Decorum                                                              | Image Comics                   | 8       | 11&#x2F;17&#x2F;2021 |
 
 </details>
