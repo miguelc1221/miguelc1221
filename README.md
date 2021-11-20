@@ -29,7 +29,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | S Factor                                                             | Action Lab Comics              | 4       | 11&#x2F;17&#x2F;2021 |
 | Elvira Meets Vincent Price                                           | Dynamite                       | 3       | 11&#x2F;17&#x2F;2021 |
 | Sleeping Beauties                                                    | IDW Publishing                 | 8       | 11&#x2F;17&#x2F;2021 |
-| Savage Dragon                                                        | Image Comics                   | 26      | 11&#x2F;17&#x2F;2021 |
 | Sonic the Hedgehog: Imposter Syndrome                                | IDW Publishing                 | 1       | 11&#x2F;17&#x2F;2021 |
 | Book of Lyaxia                                                       | Second Sight Publishing        | 4       | 11&#x2F;17&#x2F;2021 |
 | Gun Honey                                                            | Titan Books                    | 3       | 11&#x2F;17&#x2F;2021 |
@@ -38,15 +37,15 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Bountiful Garden                                                     | Mad Cave Studios               | 3       | 11&#x2F;17&#x2F;2021 |
 | Second Chances                                                       | Image Comics                   | 4       | 11&#x2F;17&#x2F;2021 |
 | Savage Hearts                                                        | Dark Horse Comics              | 5       | 11&#x2F;17&#x2F;2021 |
-| Dune: House Atreides                                                 | BOOM! Studios                  | 12      | 11&#x2F;17&#x2F;2021 |
-| Jupiter&#39;s Legacy: Requiem                                            | Image Comics                   | 6       | 11&#x2F;17&#x2F;2021 |
 | Orcs In Space                                                        | Oni Press                      | 5       | 11&#x2F;17&#x2F;2021 |
+| Norse Mythology                                                      | Dark Horse Comics              | 6       | 11&#x2F;17&#x2F;2021 |
 | Looney Tunes                                                         | DC Comics                      | 26      | 11&#x2F;16&#x2F;2021 |
-| Moonshine                                                            | Image Comics                   | 28      | 11&#x2F;17&#x2F;2021 |
+| DC Connect                                                           | DC Comics                      | 19      | 11&#x2F;19&#x2F;2021 |
 | World of Betty and Veronica Jumbo Comics Digest                      | Archie Comics                  | 10      | 11&#x2F;17&#x2F;2021 |
 | Moon Knight                                                          | Marvel Comics                  | 5       | 11&#x2F;17&#x2F;2021 |
 | Nine Stones                                                          | Behemoth Comics                | 4       | 11&#x2F;17&#x2F;2021 |
 | Army of Darkness 1979                                                | Dynamite                       | 3       | 11&#x2F;17&#x2F;2021 |
+| Four Color                                                           | Dell                           | 61      | 11&#x2F;16&#x2F;2021 |
 | Porcelain                                                            | Ablaze                         | 4       | 11&#x2F;17&#x2F;2021 |
 | Clear                                                                | Comixology                     | 2       | 11&#x2F;16&#x2F;2021 |
 | Getting Dizzy                                                        | BOOM! Studios                  | 1       | 11&#x2F;17&#x2F;2021 |
@@ -58,10 +57,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Comic Shop News                                                      | Comic Shop News                | 17      | 11&#x2F;17&#x2F;2021 |
 | Godkiller: Spiderland                                                | Black Mask Studios             | 1       | 11&#x2F;17&#x2F;2021 |
 | Campisi: The Dragon Incident                                         | AfterShock Comics              | 3       | 11&#x2F;17&#x2F;2021 |
-| Time Before Time                                                     | Image Comics                   | 7       | 11&#x2F;17&#x2F;2021 |
 | Robins                                                               | DC Comics                      | 1       | 11&#x2F;16&#x2F;2021 |
 | Legends of the Dark Knight                                           | DC Comics                      | 7       | 11&#x2F;16&#x2F;2021 |
-| Dungeons &amp; Dragons: Mindbreaker                                      | IDW Publishing                 | 2       | 11&#x2F;17&#x2F;2021 |
 | Suicide Squad                                                        | DC Comics                      | 9       | 11&#x2F;16&#x2F;2021 |
 | Zombie Tramp                                                         | Action Lab Comics              | 84      | 11&#x2F;17&#x2F;2021 |
 | Supergirl: Woman of Tomorrow                                         | DC Comics                      | 5       | 11&#x2F;16&#x2F;2021 |
@@ -84,7 +81,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Doctor Who: Empire of Wolf                                           | Titan Books                    | 1       | 11&#x2F;17&#x2F;2021 |
 | Blade Runner: Origins                                                | Titan Books                    | 8       | 11&#x2F;17&#x2F;2021 |
 | Cassidy&#39;s Secret                                                     | Clover Press                   | 2       | 11&#x2F;17&#x2F;2021 |
-| That Texas Blood                                                     | Image Comics                   | 12      | 11&#x2F;17&#x2F;2021 |
 | Chicken Devil                                                        | AfterShock Comics              | 2       | 11&#x2F;17&#x2F;2021 |
 | King Spawn                                                           | Image Comics                   | 4       | 11&#x2F;17&#x2F;2021 |
 | These Damn Kids                                                      | Second Sight Publishing        | 1       | 11&#x2F;17&#x2F;2021 |
@@ -94,21 +90,21 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Tangled River                                                        | It&#39;s Alive                     | 4       | 11&#x2F;17&#x2F;2021 |
 | Wonder Woman: Evolution                                              | DC Comics                      | 1       | 11&#x2F;16&#x2F;2021 |
 | Justice League                                                       | DC Comics                      | 69      | 11&#x2F;16&#x2F;2021 |
+| Wasted Space                                                         | Vault Comics                   | 25      | 11&#x2F;17&#x2F;2021 |
 | Shang-Chi                                                            | Marvel Comics                  | 6       | 11&#x2F;17&#x2F;2021 |
 | Vampirella Holiday Special 2021                                      | Dynamite                       | 0       | 11&#x2F;17&#x2F;2021 |
 | Jonna and The Unpossible Monsters                                    | Oni Press                      | 8       | 11&#x2F;17&#x2F;2021 |
 | Heavy                                                                | Vault Comics                   | 8       | 11&#x2F;17&#x2F;2021 |
-| Star Wars Adventures                                                 | IDW Publishing                 | 12      | 11&#x2F;17&#x2F;2021 |
+| We Only Kill Each Other                                              | Comixology                     | 1       | 11&#x2F;16&#x2F;2021 |
+| X-O Manowar                                                          | Valiant                        | 8       | 11&#x2F;17&#x2F;2021 |
 | Refrigerator Full of Heads                                           | DC Comics                      | 2       | 11&#x2F;16&#x2F;2021 |
 | Ka-Zar: Lord of the Savage Land                                      | Marvel Comics                  | 3       | 11&#x2F;17&#x2F;2021 |
 | Superman: Son of Kal-El                                              | DC Comics                      | 5       | 11&#x2F;16&#x2F;2021 |
 | Yuki Vs. Panda                                                       | Source Point Press             | 4       | 11&#x2F;17&#x2F;2021 |
-| St. Mercy                                                            | Top Cow Productions            | 4       | 11&#x2F;17&#x2F;2021 |
 | Silence                                                              | Second Sight Publishing        | 1       | 11&#x2F;17&#x2F;2021 |
 | The Goon                                                             | Albatross Funnybooks           | 14      | 11&#x2F;17&#x2F;2021 |
 | The Box                                                              | Red 5                          | 4       | 11&#x2F;17&#x2F;2021 |
 | Primordial                                                           | Image Comics                   | 3       | 11&#x2F;17&#x2F;2021 |
-| Mirka Andolfo&#39;s Sweet Paprika                                        | Image Comics                   | 5       | 11&#x2F;17&#x2F;2021 |
 | Blood, Skulls, and Chrome                                            | Second Sight Publishing        | 3       | 11&#x2F;17&#x2F;2021 |
 | The Walking Dead Deluxe                                              | Skybound                       | 27      | 11&#x2F;17&#x2F;2021 |
 | Teenage Mutant Ninja Turtles: The Last Ronin Design Book             | IDW Publishing                 | 0       | 11&#x2F;17&#x2F;2021 |
@@ -128,19 +124,16 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Star Wars: The High Republic Adventures                              | IDW Publishing                 | 10      | 11&#x2F;17&#x2F;2021 |
 | He Who Fights With Monsters                                          | Ablaze                         | 3       | 11&#x2F;17&#x2F;2021 |
 | X-Force                                                              | Marvel Comics                  | 25      | 11&#x2F;17&#x2F;2021 |
-| Ant                                                                  | Image Comics                   | 2       | 11&#x2F;17&#x2F;2021 |
 | Spider-Woman                                                         | Marvel Comics                  | 17      | 11&#x2F;17&#x2F;2021 |
 | Hard Promises                                                        | Action Lab Comics              | 1       | 11&#x2F;17&#x2F;2021 |
 | Back Issue                                                           | TwoMorrows                     | 13      | 11&#x2F;17&#x2F;2021 |
-| Magic: The Gathering - Master of Metal                               | BOOM! Studios                  | 1       | 11&#x2F;17&#x2F;2021 |
 | Manifest Destiny                                                     | Skybound                       | 45      | 11&#x2F;17&#x2F;2021 |
+| Squarriors: Summer                                                   | Devil&#39;s Due Publishing         | 5       | 11&#x2F;17&#x2F;2021 |
 | Maw                                                                  | BOOM! Studios                  | 3       | 11&#x2F;17&#x2F;2021 |
 | Blue &amp; Gold                                                          | DC Comics                      | 4       | 11&#x2F;16&#x2F;2021 |
 | Red Sonja Special Edition                                            | Dynamite                       | 1       | 11&#x2F;17&#x2F;2021 |
 | Usagi Yojimbo: Dragon Bellow Conspiracy                              | IDW Publishing                 | 6       | 11&#x2F;17&#x2F;2021 |
-| The Transformers                                                     | IDW Publishing                 | 37      | 11&#x2F;17&#x2F;2021 |
 | The Amazing Spider-Man                                               | Marvel Comics                  | 78      | 11&#x2F;17&#x2F;2021 |
 | Star Wars: The High Republic Adventures - The Monster of Temple Peak | IDW Publishing                 | 4       | 11&#x2F;17&#x2F;2021 |
-| Decorum                                                              | Image Comics                   | 8       | 11&#x2F;17&#x2F;2021 |
 
 </details>
