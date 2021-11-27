@@ -24,25 +24,22 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 
 | Name                                                  | Publisher                      | Issue # | Date       |
 | ----------------------------------------------------- | ------------------------------ | ------- | ---------- |
-| X-Men: Legends                                        | Marvel Comics                  | 9       | 11&#x2F;24&#x2F;2021 |
+| Turkey Day                                            | Source Point Press             | 1       | 11&#x2F;24&#x2F;2021 |
 | The Orville: Artifacts                                | Dark Horse Comics              | 2       | 11&#x2F;24&#x2F;2021 |
 | Echolands                                             | Image Comics                   | 4       | 11&#x2F;24&#x2F;2021 |
+| Sleeping Beauties                                     | IDW Publishing                 | 8       | 11&#x2F;24&#x2F;2021 |
 | Tales From The Dead Astronaut                         | Source Point Press             | 1       | 11&#x2F;24&#x2F;2021 |
-| Power Rangers Universe                                | BOOM! Studios                  | 1       | 11&#x2F;24&#x2F;2021 |
 | Gunslinger Spawn                                      | Image Comics                   | 2       | 11&#x2F;24&#x2F;2021 |
 | Black Panther                                         | Marvel Comics                  | 1       | 11&#x2F;24&#x2F;2021 |
 | Harbinger                                             | Valiant                        | 2       | 11&#x2F;24&#x2F;2021 |
 | Digger                                                | Action Lab Comics              | 2       | 11&#x2F;24&#x2F;2021 |
 | House of Slaughter                                    | BOOM! Studios                  | 2       | 11&#x2F;24&#x2F;2021 |
 | Djinn Hunter                                          | BlackBox Comics                | 5       | 11&#x2F;24&#x2F;2021 |
-| Cross to Bear                                         | AfterShock Comics              | 2       | 11&#x2F;24&#x2F;2021 |
 | Vengeance of Vampirella                               | Dynamite                       | 24      | 11&#x2F;24&#x2F;2021 |
-| Hellboy and the B.P.R.D.: 1957 - Forgotten Lives      | Dark Horse Comics              | 1       | 11&#x2F;24&#x2F;2021 |
 | Symbiote Spider-Man: Crossroads                       | Marvel Comics                  | 5       | 11&#x2F;24&#x2F;2021 |
 | Joy Operations                                        | Dark Horse Comics              | 1       | 11&#x2F;24&#x2F;2021 |
 | Serial                                                | Abstract Studio                | 8       | 11&#x2F;24&#x2F;2021 |
 | Aquaman &#x2F; Green Arrow: Deep Target                    | DC Comics                      | 2       | 11&#x2F;23&#x2F;2021 |
-| Fantastic Four: Life Story                            | Marvel Comics                  | 5       | 11&#x2F;24&#x2F;2021 |
 | Star Wars Adventures Annual 2021                      | IDW Publishing                 | 0       | 11&#x2F;24&#x2F;2021 |
 | Super Sleepy                                          | Binge Books                    | 1       | 11&#x2F;24&#x2F;2021 |
 | Moonshine                                             | Image Comics                   | 28      | 11&#x2F;24&#x2F;2021 |
@@ -71,7 +68,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Hulk                                                  | Marvel Comics                  | 1       | 11&#x2F;24&#x2F;2021 |
 | Comic Shop News Christmas 2021 Preview                | Comic Shop News                | 0       | 11&#x2F;24&#x2F;2021 |
 | Redneck                                               | Skybound                       | 31      | 11&#x2F;24&#x2F;2021 |
-| Star Wars                                             | Marvel Comics                  | 19      | 11&#x2F;24&#x2F;2021 |
 | Destiny NY                                            | Black Mask Studios             | 8       | 11&#x2F;24&#x2F;2021 |
 | Stranger Things: Tomb of Ybwen                        | Dark Horse Comics              | 3       | 11&#x2F;24&#x2F;2021 |
 | Winchester Mystery House                              | Source Point Press             | 2       | 11&#x2F;24&#x2F;2021 |
@@ -88,6 +84,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Myths and Legends Quarterly                           | Zenescope                      | 6       | 11&#x2F;24&#x2F;2021 |
 | Alias: Black &amp; White                                  | Antarctic Press                | 3       | 11&#x2F;24&#x2F;2021 |
 | Archie Jumbo Comics Digest                            | Archie Comics                  | 32      | 11&#x2F;24&#x2F;2021 |
+| Trash &amp; Can-It: Disposable Heroes                     | Source Point Press             | 1       | 11&#x2F;24&#x2F;2021 |
 | Detective Comics                                      | DC Comics                      | 10      | 11&#x2F;23&#x2F;2021 |
 | The Flash                                             | DC Comics                      | 77      | 11&#x2F;23&#x2F;2021 |
 | Hawkeye: Kate Bishop                                  | Marvel Comics                  | 1       | 11&#x2F;24&#x2F;2021 |
@@ -95,9 +92,9 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Knights of the Dinner Table                           | Kenzer &amp; Company               | 29      | 11&#x2F;24&#x2F;2021 |
 | Star Wars: Life Day                                   | Marvel Comics                  | 1       | 11&#x2F;24&#x2F;2021 |
 | Radiant Black                                         | Image Comics                   | 10      | 11&#x2F;24&#x2F;2021 |
-| Excellence                                            | Skybound                       | 12      | 11&#x2F;24&#x2F;2021 |
 | Night of the Ghoul                                    | Comixology                     | 2       | 11&#x2F;23&#x2F;2021 |
 | Star Wars Adventures                                  | IDW Publishing                 | 12      | 11&#x2F;24&#x2F;2021 |
+| Ascencia                                              | Wake Entertainment             | 9       | 11&#x2F;24&#x2F;2021 |
 | Nita Hawes&#39; Nightmare Blog                            | Image Comics                   | 2       | 11&#x2F;24&#x2F;2021 |
 | Robin                                                 | DC Comics                      | 8       | 11&#x2F;23&#x2F;2021 |
 | Beyond the Farthest Star                              | American Mythology             | 3       | 11&#x2F;24&#x2F;2021 |
@@ -105,23 +102,22 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | St. Mercy                                             | Top Cow Productions            | 4       | 11&#x2F;24&#x2F;2021 |
 | Moths                                                 | Artists Writers &amp; Artisans Inc | 6       | 11&#x2F;24&#x2F;2021 |
 | Human Remains                                         | Vault Comics                   | 3       | 11&#x2F;24&#x2F;2021 |
-| Two Moons                                             | Image Comics                   | 7       | 11&#x2F;24&#x2F;2021 |
 | Wonder Woman: Black and Gold                          | DC Comics                      | 6       | 11&#x2F;23&#x2F;2021 |
 | Mirka Andolfo&#39;s Sweet Paprika                         | Image Comics                   | 5       | 11&#x2F;24&#x2F;2021 |
 | Killer Queens                                         | Dark Horse Comics              | 4       | 11&#x2F;24&#x2F;2021 |
 | Superman &#39;78                                          | DC Comics                      | 4       | 11&#x2F;23&#x2F;2021 |
 | The Invincible Red Sonja                              | Dynamite                       | 6       | 11&#x2F;24&#x2F;2021 |
-| Captain America &#x2F; Iron Man                            | Marvel Comics                  | 1       | 11&#x2F;24&#x2F;2021 |
 | Black&#39;s Myth                                          | Ahoy Comics                    | 5       | 11&#x2F;24&#x2F;2021 |
 | Barbarella                                            | Dynamite                       | 5       | 11&#x2F;24&#x2F;2021 |
 | Fathom: The Core                                      | Aspen Comics                   | 1       | 11&#x2F;24&#x2F;2021 |
 | Cat Shit One Vol. 3                                   | Antarctic Press                | 2       | 11&#x2F;24&#x2F;2021 |
 | Marjorie Finnegan: Temporal Criminal                  | Artists Writers &amp; Artisans Inc | 7       | 11&#x2F;24&#x2F;2021 |
-| Oblivion Song                                         | Skybound                       | 35      | 11&#x2F;24&#x2F;2021 |
+| Black-Jack Demon                                      | Literati Press                 | 3       | 11&#x2F;24&#x2F;2021 |
 | Iron Man                                              | Marvel Comics                  | 14      | 11&#x2F;24&#x2F;2021 |
 | Horror Comics                                         | Antarctic Press                | 9       | 11&#x2F;24&#x2F;2021 |
 | West                                                  | Uncivilized Books              | 1       | 11&#x2F;24&#x2F;2021 |
 | Unborn                                                | Source Point Press             | 3       | 11&#x2F;24&#x2F;2021 |
+| Astonishing Times                                     | Comixology                     | 5       | 11&#x2F;23&#x2F;2021 |
 | Tom Holland&#39;s Fright Night                            | American Mythology             | 1       | 11&#x2F;24&#x2F;2021 |
 | Merlin &amp; Hector                                       | Red 5                          | 2       | 11&#x2F;24&#x2F;2021 |
 | Thor                                                  | Marvel Comics                  | 19      | 11&#x2F;24&#x2F;2021 |
@@ -133,7 +129,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Black Hammer: Reborn                                  | Dark Horse Comics              | 6       | 11&#x2F;24&#x2F;2021 |
 | Space Pirate Captain Harlock                          | Ablaze                         | 6       | 11&#x2F;24&#x2F;2021 |
 | The Transformers                                      | IDW Publishing                 | 37      | 11&#x2F;24&#x2F;2021 |
-| Search  For Hu                                        | AfterShock Comics              | 3       | 11&#x2F;24&#x2F;2021 |
 | Vinyl                                                 | Image Comics                   | 6       | 11&#x2F;24&#x2F;2021 |
 | Decorum                                               | Image Comics                   | 8       | 11&#x2F;24&#x2F;2021 |
 
