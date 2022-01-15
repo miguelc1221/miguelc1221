@@ -24,13 +24,14 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 
 | Name                                                         | Publisher                      | Issue # | Date       |
 | ------------------------------------------------------------ | ------------------------------ | ------- | ---------- |
-| We Have Demons                                               | Comixology                     | 3       | 01&#x2F;11&#x2F;2022 |
 | Savage Avengers                                              | Marvel Comics                  | 28      | 01&#x2F;12&#x2F;2022 |
 | Rain                                                         | Image Comics                   | 1       | 01&#x2F;12&#x2F;2022 |
 | The Good Asian                                               | Image Comics                   | 8       | 01&#x2F;12&#x2F;2022 |
 | Savage Dragon                                                | Image Comics                   | 26      | 01&#x2F;12&#x2F;2022 |
+| Bigfoot Frankenstein                                         | Action Lab Comics              | 4       | 01&#x2F;12&#x2F;2022 |
 | Fantastic Four                                               | Marvel Comics                  | 39      | 01&#x2F;12&#x2F;2022 |
 | Mighty Morphin                                               | BOOM! Studios                  | 15      | 01&#x2F;12&#x2F;2022 |
+| Rick and Morty: Corporate Assets                             | Oni Press                      | 3       | 01&#x2F;12&#x2F;2022 |
 | Justice League vs. The Legion of Super-Heroes                | DC Comics                      | 1       | 01&#x2F;11&#x2F;2022 |
 | Titans United                                                | DC Comics                      | 5       | 01&#x2F;11&#x2F;2022 |
 | The Joker                                                    | DC Comics                      | 11      | 01&#x2F;11&#x2F;2022 |
@@ -49,6 +50,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Harley Quinn: The Animated Series - The Eat, Bang, Kill Tour | DC Comics                      | 5       | 01&#x2F;11&#x2F;2022 |
 | Odinn&#39;s Eye                                                  | Bad Idea Comics                | 5       | 01&#x2F;12&#x2F;2022 |
 | Buffy: The Last Vampire Slayer                               | BOOM! Studios                  | 2       | 01&#x2F;12&#x2F;2022 |
+| .Self                                                        | Comixology                     | 3       | 01&#x2F;11&#x2F;2022 |
 | King of Spies                                                | Image Comics                   | 2       | 01&#x2F;12&#x2F;2022 |
 | The Scorched                                                 | Image Comics                   | 1       | 01&#x2F;12&#x2F;2022 |
 | Hotell                                                       | Artists Writers &amp; Artisans Inc | 2       | 01&#x2F;12&#x2F;2022 |
@@ -61,12 +63,12 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Star Wars: The High Republic - Eye of the Storm              | Marvel Comics                  | 1       | 01&#x2F;12&#x2F;2022 |
 | Pennyworth                                                   | DC Comics                      | 6       | 01&#x2F;11&#x2F;2022 |
 | Marauders                                                    | Marvel Comics                  | 27      | 01&#x2F;12&#x2F;2022 |
-| New Men                                                      | Action Lab Comics              | 1       | 01&#x2F;12&#x2F;2022 |
 | Judge Dredd: Megazine                                        | Rebellion                      | 43      | 01&#x2F;12&#x2F;2022 |
 | Billy the Kit                                                | Blue Juice Comics              | 4       | 01&#x2F;12&#x2F;2022 |
 | Daredevil: Woman Without Fear                                | Marvel Comics                  | 1       | 01&#x2F;12&#x2F;2022 |
 | Batgirls                                                     | DC Comics                      | 2       | 01&#x2F;11&#x2F;2022 |
 | Hawkeye: Kate Bishop                                         | Marvel Comics                  | 3       | 01&#x2F;12&#x2F;2022 |
+| What&#39;s the Furthest Place From Here?                         | Image Comics                   | 3       | 01&#x2F;12&#x2F;2022 |
 | Batman: Urban Legends                                        | DC Comics                      | 11      | 01&#x2F;11&#x2F;2022 |
 | No Holds Bard                                                | Behemoth Comics                | 2       | 01&#x2F;12&#x2F;2022 |
 | Grimm Spotlight                                              | Zenescope                      | 3       | 01&#x2F;12&#x2F;2022 |
@@ -81,7 +83,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | These Damn Kids                                              | Second Sight Publishing        | 2       | 01&#x2F;12&#x2F;2022 |
 | Devil&#39;s Reign: Superior Four                                 | Marvel Comics                  | 1       | 01&#x2F;12&#x2F;2022 |
 | Inkblot                                                      | Image Comics                   | 15      | 01&#x2F;12&#x2F;2022 |
-| Tales Told in Technihorror - Season 2                        | Scout Comics                   | 1       | 01&#x2F;12&#x2F;2022 |
 | The Devil Tree                                               | Blood Moon Comics              | 2       | 01&#x2F;12&#x2F;2022 |
 | I Am Batman                                                  | DC Comics                      | 5       | 01&#x2F;11&#x2F;2022 |
 | Undiscovered Country                                         | Image Comics                   | 18      | 01&#x2F;12&#x2F;2022 |
@@ -92,7 +93,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | The Department of Truth                                      | Image Comics                   | 15      | 01&#x2F;12&#x2F;2022 |
 | Stillwater                                                   | Skybound                       | 12      | 01&#x2F;12&#x2F;2022 |
 | Star Wars: Bounty Hunters                                    | Marvel Comics                  | 20      | 01&#x2F;12&#x2F;2022 |
-| Back Issue                                                   | TwoMorrows                     | 13      | 01&#x2F;12&#x2F;2022 |
 | Hard Promises                                                | Action Lab Comics              | 3       | 01&#x2F;12&#x2F;2022 |
 | Robin &amp; Batman                                               | DC Comics                      | 3       | 01&#x2F;11&#x2F;2022 |
 | The Thing                                                    | Marvel Comics                  | 3       | 01&#x2F;12&#x2F;2022 |
