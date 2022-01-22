@@ -25,7 +25,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Name                                                                    | Publisher                      | Issue # | Date       |
 | ----------------------------------------------------------------------- | ------------------------------ | ------- | ---------- |
 | We Have Demons                                                          | Comixology                     | 3       | 01&#x2F;18&#x2F;2022 |
-| Cowboy Bebop                                                            | Titan Books                    | 1       | 01&#x2F;19&#x2F;2022 |
 | Seven Secrets                                                           | BOOM! Studios                  | 13      | 01&#x2F;19&#x2F;2022 |
 | Witchblood                                                              | Vault Comics                   | 10      | 01&#x2F;19&#x2F;2022 |
 | Star Wars: The High Republic                                            | Marvel Comics                  | 13      | 01&#x2F;19&#x2F;2022 |
@@ -33,19 +32,19 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Eternals                                                                | Marvel Comics                  | 9       | 01&#x2F;19&#x2F;2022 |
 | Devil&#39;s Reign: Villains for Hire                                        | Marvel Comics                  | 1       | 01&#x2F;19&#x2F;2022 |
 | Red Sonja: Black, White, Red                                            | Dynamite                       | 6       | 01&#x2F;19&#x2F;2022 |
-| Mirka Andolfo&#39;s Sweet Paprika                                           | Image Comics                   | 7       | 01&#x2F;19&#x2F;2022 |
 | Nubia and the Amazons                                                   | DC Comics                      | 4       | 01&#x2F;18&#x2F;2022 |
+| The Phantom                                                             | Frew Publications              | 19      | 01&#x2F;20&#x2F;2022 |
 | The Death of Doctor Strange: X-Men &#x2F; Black Knight                       | Marvel Comics                  | 1       | 01&#x2F;19&#x2F;2022 |
 | Venom                                                                   | Marvel Comics                  | 4       | 01&#x2F;19&#x2F;2022 |
 | Aquaman: The Becoming                                                   | DC Comics                      | 5       | 01&#x2F;18&#x2F;2022 |
 | Batman: The Knight                                                      | DC Comics                      | 1       | 01&#x2F;18&#x2F;2022 |
 | Angel                                                                   | BOOM! Studios                  | 1       | 01&#x2F;19&#x2F;2022 |
 | Cloaked                                                                 | Dark Horse Comics              | 2       | 01&#x2F;19&#x2F;2022 |
-| Star Wars Insider                                                       | Titan Books                    | 20      | 01&#x2F;18&#x2F;2022 |
 | Swamp Dogs                                                              | Scout Comics                   | 2       | 01&#x2F;19&#x2F;2022 |
 | My Date With Monsters                                                   | AfterShock Comics              | 3       | 01&#x2F;19&#x2F;2022 |
 | The Walking Dead Deluxe                                                 | Skybound                       | 31      | 01&#x2F;19&#x2F;2022 |
 | Primordial                                                              | Image Comics                   | 5       | 01&#x2F;19&#x2F;2022 |
+| Daughter of Wolves                                                      | Regolith Comics                | 1       | 01&#x2F;21&#x2F;2022 |
 | Batman vs. Bigby! A Wolf in Gotham                                      | DC Comics                      | 5       | 01&#x2F;18&#x2F;2022 |
 | Search  For Hu                                                          | AfterShock Comics              | 5       | 01&#x2F;19&#x2F;2022 |
 | Moon Knight                                                             | Marvel Comics                  | 7       | 01&#x2F;19&#x2F;2022 |
@@ -58,10 +57,10 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Teenage Mutant Ninja Turtles                                            | IDW Publishing                 | 12      | 01&#x2F;19&#x2F;2022 |
 | Icon and Rocket: Season One                                             | Milestone                      | 5       | 01&#x2F;18&#x2F;2022 |
 | Superman: Son of Kal-El                                                 | DC Comics                      | 7       | 01&#x2F;18&#x2F;2022 |
+| The Phantom: Daily Story                                                | King Features Comics           | 26      | 01&#x2F;17&#x2F;2022 |
 | Ascencia                                                                | Wake Entertainment             | 13      | 01&#x2F;19&#x2F;2022 |
 | The Silver Coin                                                         | Image Comics                   | 8       | 01&#x2F;19&#x2F;2022 |
 | Good Boy Magazine                                                       | Silver Sprocket                | 2       | 01&#x2F;19&#x2F;2022 |
-| Star Wars Adventures                                                    | IDW Publishing                 | 14      | 01&#x2F;19&#x2F;2022 |
 | Purgatori                                                               | Dynamite                       | 4       | 01&#x2F;19&#x2F;2022 |
 | Lady Mechanika: The Monster of the Ministry of Hell                     | Image Comics                   | 2       | 01&#x2F;19&#x2F;2022 |
 | Ben Reilly: Spider-Man                                                  | Marvel Comics                  | 1       | 01&#x2F;19&#x2F;2022 |
@@ -79,7 +78,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Destiny NY                                                              | Black Mask Studios             | 10      | 01&#x2F;19&#x2F;2022 |
 | The Ghoul Agency                                                        | Action Lab Comics              | 1       | 01&#x2F;19&#x2F;2022 |
 | Catwoman                                                                | DC Comics                      | 39      | 01&#x2F;18&#x2F;2022 |
-| Frontiersman                                                            | Image Comics                   | 5       | 01&#x2F;19&#x2F;2022 |
 | Dungeons &amp; Dragons: Mindbreaker                                         | IDW Publishing                 | 4       | 01&#x2F;19&#x2F;2022 |
 | Pop Star Assassin                                                       | Behemoth Comics                | 4       | 01&#x2F;19&#x2F;2022 |
 | X Lives of Wolverine                                                    | Marvel Comics                  | 1       | 01&#x2F;19&#x2F;2022 |
@@ -90,9 +88,9 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Nightwing                                                               | DC Comics                      | 88      | 01&#x2F;18&#x2F;2022 |
 | Mega                                                                    | Red 5                          | 2       | 01&#x2F;19&#x2F;2022 |
 | Nine Stones                                                             | Behemoth Comics                | 6       | 01&#x2F;19&#x2F;2022 |
-| Nita Hawes&#39; Nightmare Blog                                              | Image Comics                   | 4       | 01&#x2F;19&#x2F;2022 |
 | Power Rangers                                                           | BOOM! Studios                  | 15      | 01&#x2F;19&#x2F;2022 |
 | King Spawn                                                              | Image Comics                   | 6       | 01&#x2F;19&#x2F;2022 |
+| DC Connect                                                              | DC Comics                      | 21      | 01&#x2F;21&#x2F;2022 |
 | Excellence                                                              | Skybound                       | 12      | 01&#x2F;19&#x2F;2022 |
 | Silver Surfer: Rebirth                                                  | Marvel Comics                  | 1       | 01&#x2F;19&#x2F;2022 |
 | Animal Castle                                                           | Ablaze                         | 2       | 01&#x2F;19&#x2F;2022 |
@@ -113,10 +111,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Crescent                                                                | Advent Comics                  | 1       | 01&#x2F;19&#x2F;2022 |
 | Knight Janek                                                            | Behemoth Comics                | 2       | 01&#x2F;19&#x2F;2022 |
 | Guillem March&#39;s Laura and Other Stories                                 | Ablaze                         | 3       | 01&#x2F;19&#x2F;2022 |
-| Love and Rockets                                                        | Fantagraphics Books            | 11      | 01&#x2F;18&#x2F;2022 |
 | James Bond: Himeros                                                     | Dynamite                       | 4       | 01&#x2F;19&#x2F;2022 |
 | A Righteous Thirst For Vengeance                                        | Image Comics                   | 4       | 01&#x2F;19&#x2F;2022 |
-| Life is Strange: Settling Dust                                          | Titan Books                    | 4       | 01&#x2F;19&#x2F;2022 |
 | She-Hulk                                                                | Marvel Comics                  | 1       | 01&#x2F;19&#x2F;2022 |
 | The Avengers                                                            | Marvel Comics                  | 52      | 01&#x2F;19&#x2F;2022 |
 | The Crimson Cage                                                        | Artists Writers &amp; Artisans Inc | 2       | 01&#x2F;19&#x2F;2022 |
@@ -126,7 +122,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Phoenix Song: Echo                                                      | Marvel Comics                  | 4       | 01&#x2F;19&#x2F;2022 |
 | Star Wars: The High Republic Adventures - Galactic Bake-Off Spectacular | IDW Publishing                 | 1       | 01&#x2F;19&#x2F;2022 |
 | Home Sick Pilots                                                        | Image Comics                   | 11      | 01&#x2F;19&#x2F;2022 |
-| G.I. Joe: A Real American Hero                                          | IDW Publishing                 | 28      | 01&#x2F;19&#x2F;2022 |
 | Detective Comics                                                        | DC Comics                      | 10      | 01&#x2F;18&#x2F;2022 |
 
 </details>
