@@ -30,8 +30,11 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Star Wars: The High Republic                     | Marvel Comics                  | 14      | 02&#x2F;02&#x2F;2022 |
 | Mirka Andolfo&#39;s Sweet Paprika                    | Image Comics                   | 7       | 02&#x2F;02&#x2F;2022 |
 | X Lives of Wolverine                             | Marvel Comics                  | 2       | 02&#x2F;02&#x2F;2022 |
+| Manor Black: Fire in the Blood                   | Dark Horse Comics              | 1       | 02&#x2F;02&#x2F;2022 |
 | Arkham City: The Order of the World              | DC Comics                      | 5       | 02&#x2F;01&#x2F;2022 |
 | Star Wars Insider                                | Titan Books                    | 20      | 02&#x2F;02&#x2F;2022 |
+| Where Is Zog?                                    | Other                          | 1       | 01&#x2F;31&#x2F;2022 |
+| Lady Death: Cataclysmic Majesty                  | Coffin Comics                  | 1       | 02&#x2F;02&#x2F;2022 |
 | Fantastic Four: Life Story                       | Marvel Comics                  | 6       | 02&#x2F;02&#x2F;2022 |
 | Sabretooth                                       | Marvel Comics                  | 1       | 02&#x2F;02&#x2F;2022 |
 | A Thing Called Truth                             | Image Comics                   | 4       | 02&#x2F;02&#x2F;2022 |
@@ -52,6 +55,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Red Sonja Valentine&#39;s Day Special 2022           | Dynamite                       | 0       | 02&#x2F;02&#x2F;2022 |
 | Daredevil: Woman Without Fear                    | Marvel Comics                  | 2       | 02&#x2F;02&#x2F;2022 |
 | New Masters                                      | Image Comics                   | 1       | 02&#x2F;02&#x2F;2022 |
+| Everything Can Be Beaten                         | SLG Publishing                 | 1       | 01&#x2F;31&#x2F;2022 |
 | Chicken Devil                                    | AfterShock Comics              | 4       | 02&#x2F;02&#x2F;2022 |
 | Arrive in My Hands                               | Black Josei Press              | 0       | 02&#x2F;01&#x2F;2022 |
 | Primos                                           | Artists Writers &amp; Artisans Inc | 1       | 02&#x2F;02&#x2F;2022 |
