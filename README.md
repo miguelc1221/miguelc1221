@@ -71,7 +71,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Iron Man                                       | Marvel Comics                  | 18      | 03&#x2F;23&#x2F;2022 |
 | Bolero                                         | Image Comics                   | 3       | 03&#x2F;23&#x2F;2022 |
 | The Department of Truth                        | Image Comics                   | 17      | 03&#x2F;23&#x2F;2022 |
-| Tales Told in Technihorror - Season 2          | Scout Comics                   | 1       | 03&#x2F;23&#x2F;2022 |
 | Savage Spider-Man                              | Marvel Comics                  | 2       | 03&#x2F;23&#x2F;2022 |
 | Trial of the Amazons: Wonder Girl              | DC Comics                      | 1       | 03&#x2F;22&#x2F;2022 |
 | Aquaman &#x2F; Green Arrow: Deep Target             | DC Comics                      | 6       | 03&#x2F;22&#x2F;2022 |
@@ -82,8 +81,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Black Hammer Reborn                            | Dark Horse Comics              | 10      | 03&#x2F;23&#x2F;2022 |
 | Ice Canyon Monster                             | Blood Moon Comics              | 2       | 03&#x2F;23&#x2F;2022 |
 | Arrowsmith: Behind Enemy Lines                 | Image Comics                   | 3       | 03&#x2F;23&#x2F;2022 |
-| Malevolent Rising                              | Other                          | 6       | 03&#x2F;21&#x2F;2022 |
 | The Lion &amp; The Eagle                           | AfterShock Comics              | 2       | 03&#x2F;23&#x2F;2022 |
+| 2000 AD                                        | Rebellion                      | 22      | 03&#x2F;23&#x2F;2022 |
 | Red Sonja                                      | Dynamite                       | 7       | 03&#x2F;23&#x2F;2022 |
 | Joy Operations                                 | Dark Horse Comics              | 5       | 03&#x2F;23&#x2F;2022 |
 | Power Rangers Universe                         | BOOM! Studios                  | 4       | 03&#x2F;23&#x2F;2022 |
@@ -93,6 +92,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Teen Titans Academy                            | DC Comics                      | 13      | 03&#x2F;22&#x2F;2022 |
 | Betty and Veronica Jumbo Comics Digest         | Archie Comics                  | 30      | 03&#x2F;23&#x2F;2022 |
 | Maestro: World War M                           | Marvel Comics                  | 2       | 03&#x2F;23&#x2F;2022 |
+| Crickets                                       | Other                          | 7       | 03&#x2F;23&#x2F;2022 |
 | The Fourth Man                                 | Artists Writers &amp; Artisans Inc | 3       | 03&#x2F;23&#x2F;2022 |
+| King-Cat Comics and Stories                    | Spit and a Half                | 81      | 03&#x2F;23&#x2F;2022 |
 
 </details>
