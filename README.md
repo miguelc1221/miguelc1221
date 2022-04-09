@@ -25,7 +25,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Name                                                  | Publisher                      | Issue # | Date       |
 | ----------------------------------------------------- | ------------------------------ | ------- | ---------- |
 | Usher of the Dead                                     | Blood Moon Comics              | 2       | 04&#x2F;06&#x2F;2022 |
-| Cyberforce: 30th Anniversary Commemorative Edition    | Image Comics                   | 1       | 04&#x2F;08&#x2F;2022 |
 | Good Boy Preview                                      | Source Point Press             | 0       | 04&#x2F;06&#x2F;2022 |
 | X-Force                                               | Marvel Comics                  | 27      | 04&#x2F;06&#x2F;2022 |
 | Batman                                                | DC Comics                      | 12      | 04&#x2F;05&#x2F;2022 |
@@ -47,11 +46,9 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Star Trek: Discovery - Adventures in the 32nd Century | IDW Publishing                 | 2       | 04&#x2F;06&#x2F;2022 |
 | Earth-Prime                                           | DC Comics                      | 1:      | 04&#x2F;05&#x2F;2022 |
 | Hecate&#39;s Will                                         | Black Mask Studios             | 3       | 04&#x2F;06&#x2F;2022 |
-| Black Hops: U.S.A. G.I.: Hopocalypse Now              | Antarctic Press                | 1       | 04&#x2F;06&#x2F;2022 |
-| Monster Fun                                           | Rebellion                      | 1       | 04&#x2F;06&#x2F;2022 |
+| Monster Fun Easter Special 2022                       | Rebellion                      | 0       | 04&#x2F;06&#x2F;2022 |
 | Weekly Shonen Jump                                    | Shueisha                       | 26      | 04&#x2F;04&#x2F;2022 |
 | The Cimmerian: Hour of the Dragon                     | Ablaze                         | 2       | 04&#x2F;06&#x2F;2022 |
-| Willy&#39;s Wonderland Prequel                            | American Mythology             | 3       | 04&#x2F;06&#x2F;2022 |
 | Radiant Red                                           | Image Comics                   | 2       | 04&#x2F;06&#x2F;2022 |
 | The Ocean Will Take Us                                | AfterShock Comics              | 1       | 04&#x2F;06&#x2F;2022 |
 | The Rocketeer: The Great Race                         | IDW Publishing                 | 1       | 04&#x2F;06&#x2F;2022 |
@@ -59,9 +56,11 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | G.I.L.T.                                              | Ahoy Comics                    | 1       | 04&#x2F;06&#x2F;2022 |
 | World of Krypton                                      | DC Comics                      | 5       | 04&#x2F;05&#x2F;2022 |
 | Grimm Spotlight                                       | Zenescope                      | 5       | 04&#x2F;06&#x2F;2022 |
-| Jonna and The Unpossible Monsters                     | Oni Press                      | 9       | 04&#x2F;06&#x2F;2022 |
+| 2000 AD                                               | Rebellion                      | 22      | 04&#x2F;06&#x2F;2022 |
+| (The Angels Wanna Wear My) Red Shoes                  | Heavy Metal                    | 4       | 04&#x2F;06&#x2F;2022 |
 | The Scorched                                          | Image Comics                   | 4       | 04&#x2F;06&#x2F;2022 |
 | Wonder Woman Historia: The Amazons                    | DC Comics                      | 2       | 04&#x2F;05&#x2F;2022 |
+| Survivant                                             | Other                          | 1       | 04&#x2F;06&#x2F;2022 |
 | Van Helsing: Hour of the Witch                        | Zenescope                      | 1       | 04&#x2F;06&#x2F;2022 |
 | Archie Milestones Jumbo Comics Digest                 | Archie Comics                  | 14      | 04&#x2F;06&#x2F;2022 |
 | The Walking Dead Deluxe                               | Skybound                       | 36      | 04&#x2F;06&#x2F;2022 |
@@ -74,8 +73,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | X-Force Annual                                        | Marvel Comics                  | 1       | 04&#x2F;06&#x2F;2022 |
 | Deadpool: Bad Blood                                   | Marvel Comics                  | 1       | 04&#x2F;06&#x2F;2022 |
 | Black Widow                                           | Marvel Comics                  | 15      | 04&#x2F;06&#x2F;2022 |
+| Belle: War of Giants                                  | Zenescope                      | 1       | 04&#x2F;06&#x2F;2022 |
 | Moon Knight                                           | Marvel Comics                  | 10      | 04&#x2F;06&#x2F;2022 |
-| Tales Told in Technihorror - Season 2                 | Scout Comics                   | 1       | 04&#x2F;06&#x2F;2022 |
 | New Masters                                           | Image Comics                   | 3       | 04&#x2F;06&#x2F;2022 |
 | Lady Death: Cataclysmic Majesty                       | Coffin Comics                  | 2       | 04&#x2F;06&#x2F;2022 |
 | Loaded Bible: Blood of My Blood                       | Image Comics                   | 2       | 04&#x2F;06&#x2F;2022 |
@@ -95,14 +94,13 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Cult of Ikarus                                        | Scout Comics                   | 2       | 04&#x2F;05&#x2F;2022 |
 | Captain Marvel Annual                                 | Marvel Comics                  | 1       | 04&#x2F;06&#x2F;2022 |
 | Lego Ninjago: Garmadon                                | Skybound                       | 1       | 04&#x2F;06&#x2F;2022 |
-| Lev Gleason Presents                                  | Chapterhouse Comics            | 3       | 04&#x2F;06&#x2F;2022 |
 | No Holds Bard                                         | Behemoth Comics                | 5       | 04&#x2F;06&#x2F;2022 |
 | Suicide Squad                                         | DC Comics                      | 14      | 04&#x2F;05&#x2F;2022 |
 | Flashpoint: Batman - Knight of Vengeance              | DC Comics                      | 1       | 04&#x2F;05&#x2F;2022 |
 | The Thing                                             | Marvel Comics                  | 6       | 04&#x2F;06&#x2F;2022 |
 | Monkey Meat                                           | Image Comics                   | 4       | 04&#x2F;06&#x2F;2022 |
 | She-Hulk                                              | Marvel Comics                  | 3       | 04&#x2F;06&#x2F;2022 |
-| Black &amp; White                                         | Other                          | 1       | 04&#x2F;06&#x2F;2022 |
+| Sister Powers                                         | Keenspot                       | 3       | 04&#x2F;06&#x2F;2022 |
 | Marauders                                             | Marvel Comics                  | 1       | 04&#x2F;06&#x2F;2022 |
 | Comic Shop News                                       | Comic Shop News                | 18      | 04&#x2F;06&#x2F;2022 |
 
