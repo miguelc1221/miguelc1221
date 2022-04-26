@@ -11,9 +11,11 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 - Reading Comics and Manga 
 - Collecting [Sixth Scale Figures](https://www.sideshow.com/)
 - Video Games
+  - [Starcraft 2](https://starcraft2.com/en-us/)
+  - [Warcraft 3](https://playwarcraft3.com/en-us/)
+  - [League of Legends](https://www.leagueoflegends.com/en-us/)
 - Hiking
 - Biking
-- Weight training
 
 <img width="100%" alt="Interests title image" src="./assets/comics.png">
 
@@ -25,6 +27,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | G.I. Joe: A Real American Hero                               | IDW Publishing                 | 29      | 04&#x2F;27&#x2F;2022 |
 | Hulk: Grand Design - Madness                                 | Marvel Comics                  | 1       | 04&#x2F;27&#x2F;2022 |
 | Tarot: Witch of the Black Rose                               | BroadSword Comics              | 13      | 04&#x2F;27&#x2F;2022 |
+| The Flash: The Fastest Man Alive                             | DC Comics                      | 1       | 04&#x2F;26&#x2F;2022 |
 | Newburn                                                      | Image Comics                   | 6       | 04&#x2F;27&#x2F;2022 |
 | Shadow Service                                               | Vault Comics                   | 11      | 04&#x2F;27&#x2F;2022 |
 | The Lion &amp; The Eagle                                         | AfterShock Comics              | 3       | 04&#x2F;27&#x2F;2022 |
@@ -38,7 +41,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Saga                                                         | Image Comics                   | 58      | 04&#x2F;27&#x2F;2022 |
 | Touching Evil                                                | Source Point Press             | 21      | 04&#x2F;27&#x2F;2022 |
 | Trial of the Amazons                                         | DC Comics                      | 2       | 04&#x2F;26&#x2F;2022 |
-| The Ghoul Agency                                             | Action Lab Comics              | 3       | 04&#x2F;27&#x2F;2022 |
 | Happy Hill                                                   | ComixTribe                     | 4       | 04&#x2F;27&#x2F;2022 |
 | Follow Me Into The Darkness                                  | Behemoth Comics                | 3       | 04&#x2F;27&#x2F;2022 |
 | The Harbinger                                                | Valiant                        | 7       | 04&#x2F;27&#x2F;2022 |
@@ -53,11 +55,11 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Rick and Morty Infinity Hour                                 | Oni Press                      | 2       | 04&#x2F;27&#x2F;2022 |
 | Sabretooth                                                   | Marvel Comics                  | 3       | 04&#x2F;27&#x2F;2022 |
 | Knights of X                                                 | Marvel Comics                  | 1       | 04&#x2F;27&#x2F;2022 |
-| Triskele                                                     | Scout Comics                   | 1       | 04&#x2F;27&#x2F;2022 |
+| Radiskull &amp; Devil Doll: Radiskull Hate Christmas Special     | Image Comics                   | 1       | 04&#x2F;25&#x2F;2022 |
 | Silk                                                         | Marvel Comics                  | 4       | 04&#x2F;27&#x2F;2022 |
 | Comic Shop News                                              | Comic Shop News                | 18      | 04&#x2F;27&#x2F;2022 |
 | The British Paranormal Society: Time Out of Mind             | Dark Horse Comics              | 1       | 04&#x2F;27&#x2F;2022 |
-| The Grunch                                                   | American Mythology             | 1       | 04&#x2F;27&#x2F;2022 |
+| We Don&#39;t Kill Spiders                                        | Scout Comics                   | 4       | 04&#x2F;27&#x2F;2022 |
 | Harley Quinn                                                 | DC Comics                      | 14      | 04&#x2F;26&#x2F;2022 |
 | Godzilla vs. The Mighty Morphin Power Rangers                | IDW Publishing                 | 2       | 04&#x2F;27&#x2F;2022 |
 | Usagi Yojimbo: Lone Goat &amp; Kid                               | IDW Publishing                 | 4       | 04&#x2F;27&#x2F;2022 |
@@ -98,6 +100,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | The Scumbag                                                  | Image Comics                   | 13      | 04&#x2F;27&#x2F;2022 |
 | Grimm Universe Presents Quarterly: Dracula&#39;s Daughter        | Zenescope                      | 1       | 04&#x2F;27&#x2F;2022 |
 | Alien                                                        | Marvel Comics                  | 11      | 04&#x2F;27&#x2F;2022 |
+| World War 3: Battle Over Hokkaido                            | Antarctic Press                | 3       | 04&#x2F;27&#x2F;2022 |
 | Dark Knights of Steel                                        | DC Comics                      | 6       | 04&#x2F;26&#x2F;2022 |
 | The Naughty List                                             | AfterShock Comics              | 1       | 04&#x2F;27&#x2F;2022 |
 | Step by Bloody Step                                          | Image Comics                   | 3       | 04&#x2F;27&#x2F;2022 |
@@ -106,8 +109,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Hellcop                                                      | Image Comics                   | 6       | 04&#x2F;27&#x2F;2022 |
 | Thor                                                         | Marvel Comics                  | 24      | 04&#x2F;27&#x2F;2022 |
 | Gunslinger Spawn                                             | Image Comics                   | 7       | 04&#x2F;27&#x2F;2022 |
-| Doctor Who Comic: Special 2022                               | Titan Books                    | 1       | 04&#x2F;27&#x2F;2022 |
-| Space Riders: Vortex of Darkness                             | Black Mask Studios             | 4       | 04&#x2F;27&#x2F;2022 |
 | Aquaman &#x2F; Green Arrow: Deep Target                           | DC Comics                      | 7       | 04&#x2F;26&#x2F;2022 |
 | The Blue Baron Binge Book: Enter Blowback                    | Sitcomics                      | 1       | 04&#x2F;27&#x2F;2022 |
 | Betty and Veronica Jumbo Comics Digest                       | Archie Comics                  | 30      | 04&#x2F;27&#x2F;2022 |
@@ -116,12 +117,12 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Aquamen                                                      | DC Comics                      | 3       | 04&#x2F;26&#x2F;2022 |
 | G.I. Joe: A Real American Hero: Cobraaaa!                    | IDW Publishing                 | 1       | 04&#x2F;27&#x2F;2022 |
 | Barbarella                                                   | Dynamite                       | 9       | 04&#x2F;27&#x2F;2022 |
+| WashedUp Midlife Crisis Turtles                              | Other                          | 2       | 04&#x2F;27&#x2F;2022 |
 | Star Wars: Crimson Reign                                     | Marvel Comics                  | 4       | 04&#x2F;27&#x2F;2022 |
 | The Regulators                                               | Advent Comics                  | 1       | 04&#x2F;27&#x2F;2022 |
 | Transformers: Beast Wars                                     | IDW Publishing                 | 15      | 04&#x2F;27&#x2F;2022 |
 | Something is Killing the Children                            | BOOM! Studios                  | 22      | 04&#x2F;27&#x2F;2022 |
 | Teenage Mutant Ninja Turtles: The Last Ronin                 | IDW Publishing                 | 5       | 04&#x2F;27&#x2F;2022 |
 | Monstress                                                    | Image Comics                   | 39      | 04&#x2F;27&#x2F;2022 |
-| Kent Menace: Dangers from the Depths                         | American Mythology             | 1       | 04&#x2F;27&#x2F;2022 |
 
 </details>
