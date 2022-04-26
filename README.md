@@ -11,11 +11,9 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 - Reading Comics and Manga 
 - Collecting [Sixth Scale Figures](https://www.sideshow.com/)
 - Video Games
-  - [Starcraft 2](https://starcraft2.com/en-us/)
-  - [Warcraft 3](https://playwarcraft3.com/en-us/)
-  - [League of Legends](https://www.leagueoflegends.com/en-us/)
 - Hiking
 - Biking
+- Weight training
 
 <img width="100%" alt="Interests title image" src="./assets/comics.png">
 
