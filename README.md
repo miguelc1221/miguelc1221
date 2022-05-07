@@ -32,14 +32,18 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Free Comic Book Day 2022: Sonic The Hedgehog                            | IDW Publishing                 | 1       | 05&#x2F;07&#x2F;2022 |
 | Red Sonja: Red Sitha                                                    | Dynamite                       | 1       | 05&#x2F;04&#x2F;2022 |
 | Pellucidar: Across Savage Seas                                          | American Mythology             | 4       | 05&#x2F;04&#x2F;2022 |
+| Free Comic Book Day 2022: Wandance &amp; Blackguard                         | Kodansha                       | 0       | 05&#x2F;07&#x2F;2022 |
 | Monkey Prince                                                           | DC Comics                      | 4       | 05&#x2F;03&#x2F;2022 |
 | Touching Evil                                                           | Source Point Press             | 21      | 05&#x2F;04&#x2F;2022 |
 | Savage Circus                                                           | Heavy Metal                    | 11      | 05&#x2F;04&#x2F;2022 |
 | Giant-Size X-Men: Thunderbird                                           | Marvel Comics                  | 1       | 05&#x2F;04&#x2F;2022 |
 | Buzzard and Bone                                                        | Source Point Press             | 1       | 05&#x2F;04&#x2F;2022 |
+| Free Comic Book Day 2022: Bloodborne                                    | Titan Books                    | 1       | 05&#x2F;07&#x2F;2022 |
 | Follow Me Into The Darkness                                             | Behemoth Comics                | 3       | 05&#x2F;04&#x2F;2022 |
+| Free Comic Book Day 2022: Street Fighter Masters - Blanka               | UDON                           | 1       | 05&#x2F;07&#x2F;2022 |
 | Metal Society                                                           | Image Comics                   | 1       | 05&#x2F;04&#x2F;2022 |
 | Free Comic Book Day 2022: Stranger Things &#x2F; Resident Alien              | Dark Horse Comics              | 1       | 05&#x2F;07&#x2F;2022 |
+| Free Comic Book Day 2022: Clusterfux Comix                              | Other                          | 0       | 05&#x2F;07&#x2F;2022 |
 | Spider-Man 2099: Exodus - Alpha                                         | Marvel Comics                  | 1       | 05&#x2F;04&#x2F;2022 |
 | Batman Beyond: Neo-Year                                                 | DC Comics                      | 2       | 05&#x2F;03&#x2F;2022 |
 | Project Superpowers: Fractured States                                   | Dynamite                       | 2       | 05&#x2F;04&#x2F;2022 |
@@ -50,6 +54,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Free Comic Book Day 2022: Primos                                        | Artists Writers &amp; Artisans Inc | 1       | 05&#x2F;07&#x2F;2022 |
 | Free Comic Book Day 2022: Red Sonja Marvel Feature Stories              | Dynamite                       | 1       | 05&#x2F;07&#x2F;2022 |
 | Free Comic Book Day 2022: Avengers &#x2F; X-Men                              | Marvel Comics                  | 1       | 05&#x2F;07&#x2F;2022 |
+| Free Comic Book Day 2022: It Won&#39;t Always Be Like This                  | Ten Speed Press                | 0       | 05&#x2F;07&#x2F;2022 |
 | Willy&#39;s Wonderland Prequel                                              | American Mythology             | 3       | 05&#x2F;04&#x2F;2022 |
 | Air Fighters Comics                                                     | Other                          | 1       | 05&#x2F;02&#x2F;2022 |
 | Star Wars: Obi-Wan                                                      | Marvel Comics                  | 1       | 05&#x2F;04&#x2F;2022 |
@@ -58,8 +63,11 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Free Comic Book Day 2022: 25 Years Of Buffy The Vampire Slayer Special  | BOOM! Studios                  | 1       | 05&#x2F;07&#x2F;2022 |
 | Magic: The Gathering                                                    | BOOM! Studios                  | 14      | 05&#x2F;04&#x2F;2022 |
 | Deathrage                                                               | Merc Magazine                  | 4       | 05&#x2F;04&#x2F;2022 |
+| Clusterfux Comix                                                        | Other                          | 4       | 05&#x2F;04&#x2F;2022 |
 | A Righteous Thirst For Vengeance                                        | Image Comics                   | 7       | 05&#x2F;04&#x2F;2022 |
+| Peter Parker Pókember                                                   | Kingpin Kiado                  | 8       | 05&#x2F;04&#x2F;2022 |
 | Free Comic Book Day 2022: Clementine                                    | Skybound                       | 1       | 05&#x2F;07&#x2F;2022 |
+| Free Comic Book Day 2022: Pokémon Journeys &#x2F; Pokémon Adventures: XY     | VIZ Media                      | 1       | 05&#x2F;07&#x2F;2022 |
 | Pantha                                                                  | Dynamite                       | 3       | 05&#x2F;04&#x2F;2022 |
 | World of Krypton                                                        | DC Comics                      | 6       | 05&#x2F;03&#x2F;2022 |
 | Flashpoint Beyond                                                       | DC Comics                      | 1       | 05&#x2F;03&#x2F;2022 |
@@ -70,6 +78,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Manifest Destiny                                                        | Skybound                       | 46      | 05&#x2F;04&#x2F;2022 |
 | Maestro: World War M                                                    | Marvel Comics                  | 3       | 05&#x2F;04&#x2F;2022 |
 | Free Comic Book Day 2022: The Bone Orchard Mythos                       | Image Comics                   | 1       | 05&#x2F;07&#x2F;2022 |
+| Grimm Fairy Tales Presents: 2022 May 4th Cosplay Pinup Special          | Zenescope                      | 1       | 05&#x2F;04&#x2F;2022 |
 | Free Comic Book Day 2022: Dark Crisis - Special Edition                 | DC Comics                      | 0       | 05&#x2F;07&#x2F;2022 |
 | Dogs of London                                                          | AfterShock Comics              | 1       | 05&#x2F;04&#x2F;2022 |
 | Weekly Shonen Jump                                                      | Shueisha                       | 26      | 05&#x2F;02&#x2F;2022 |
@@ -78,6 +87,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Swamp Dogs                                                              | Scout Comics                   | 3       | 05&#x2F;04&#x2F;2022 |
 | Beyond the Farthest Star                                                | American Mythology             | 4       | 05&#x2F;04&#x2F;2022 |
 | Blood on Sunset                                                         | Source Point Press             | 5       | 05&#x2F;04&#x2F;2022 |
+| Hawk the Slayer                                                         | Rebellion                      | 1       | 05&#x2F;04&#x2F;2022 |
 | Batman: Killing Time                                                    | DC Comics                      | 3       | 05&#x2F;03&#x2F;2022 |
 | Free Comic Book Day 2022: Teenage Mutant Ninja Turtles                  | IDW Publishing                 | 1       | 05&#x2F;07&#x2F;2022 |
 | Quests Aside                                                            | Vault Comics                   | 1       | 05&#x2F;04&#x2F;2022 |
@@ -99,15 +109,19 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | World of Archie Jumbo Comics Digest                                     | Archie Comics                  | 11      | 05&#x2F;04&#x2F;2022 |
 | Frontiersman: Lock-Up Special                                           | Image Comics                   | 1       | 05&#x2F;04&#x2F;2022 |
 | Once &amp; Future                                                           | BOOM! Studios                  | 25      | 05&#x2F;04&#x2F;2022 |
+| Free Comic Book Day 2022: Tex - In the Land of The Seminoles            | Epicenter Comics               | 1       | 05&#x2F;07&#x2F;2022 |
+| Free Comic Book Day 2022: Kaiju No. 8 &amp; Sakamoto Days                   | VIZ Media                      | 0       | 05&#x2F;07&#x2F;2022 |
 | Nubia: Coronation Special                                               | DC Comics                      | 1       | 05&#x2F;03&#x2F;2022 |
 | Deadly Class                                                            | Image Comics                   | 52      | 05&#x2F;04&#x2F;2022 |
 | Malevolent Rising                                                       | Other                          | 6       | 05&#x2F;04&#x2F;2022 |
-| Jim Henson&#39;s The Storyteller: Shapeshifters                             | BOOM! Studios                  | 3       | 05&#x2F;04&#x2F;2022 |
+| Jim Henson&#39;s The Storyteller: Shapeshifters                             | Archaia                        | 3       | 05&#x2F;04&#x2F;2022 |
 | Zorro: New World                                                        | American Mythology             | 4       | 05&#x2F;04&#x2F;2022 |
 | The Walking Dead Deluxe                                                 | Skybound                       | 38      | 05&#x2F;04&#x2F;2022 |
 | Batman                                                                  | DC Comics                      | 12      | 05&#x2F;03&#x2F;2022 |
 | Duel                                                                    | Bliss On Tap Publishing        | 2       | 05&#x2F;04&#x2F;2022 |
+| Free Comic Book Day 2022: The Three Stooges                             | American Mythology             | 1       | 05&#x2F;07&#x2F;2022 |
 | One-Star Squadron                                                       | DC Comics                      | 6       | 05&#x2F;03&#x2F;2022 |
+| Free Comic Book Day 2022: Disney Masters - Donald Duck &amp; Co. Special    | Fantagraphics Books            | 0       | 05&#x2F;07&#x2F;2022 |
 | Radiant Black                                                           | Image Comics                   | 14      | 05&#x2F;04&#x2F;2022 |
 | The Living Corpse: Haunted                                              | American Mythology             | 1       | 05&#x2F;04&#x2F;2022 |
 | Star Trek: The Mirror War                                               | IDW Publishing                 | 6       | 05&#x2F;04&#x2F;2022 |
