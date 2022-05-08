@@ -20,119 +20,101 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 <details>
   <summary>Comics (Click to expand)</summary>
 
-| Name                                                                    | Publisher                      | Issue # | Date       |
-| ----------------------------------------------------------------------- | ------------------------------ | ------- | ---------- |
-| Spidey and His Amazing Friends                                          | Marvel Comics                  | 1       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Kult Cable ft. Jack Black                     | Behemoth Comics                | 1       | 05&#x2F;07&#x2F;2022 |
-| Fire Power                                                              | Skybound                       | 20      | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: The Guardian of Fukushima                     | Tokyopop                       | 1       | 05&#x2F;07&#x2F;2022 |
-| Cozenage                                                                | Other                          | 1       | 05&#x2F;04&#x2F;2022 |
-| Hardware: Season One                                                    | Milestone                      | 5       | 05&#x2F;03&#x2F;2022 |
-| Free Comic Book Day 2022: Nottingham Special                            | Mad Cave Studios               | 1       | 05&#x2F;07&#x2F;2022 |
-| Free Comic Book Day 2022: Sonic The Hedgehog                            | IDW Publishing                 | 1       | 05&#x2F;07&#x2F;2022 |
-| Red Sonja: Red Sitha                                                    | Dynamite                       | 1       | 05&#x2F;04&#x2F;2022 |
-| Pellucidar: Across Savage Seas                                          | American Mythology             | 4       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Wandance &amp; Blackguard                         | Kodansha                       | 0       | 05&#x2F;07&#x2F;2022 |
-| Monkey Prince                                                           | DC Comics                      | 4       | 05&#x2F;03&#x2F;2022 |
-| Touching Evil                                                           | Source Point Press             | 21      | 05&#x2F;04&#x2F;2022 |
-| Savage Circus                                                           | Heavy Metal                    | 11      | 05&#x2F;04&#x2F;2022 |
-| Giant-Size X-Men: Thunderbird                                           | Marvel Comics                  | 1       | 05&#x2F;04&#x2F;2022 |
-| Buzzard and Bone                                                        | Source Point Press             | 1       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Bloodborne                                    | Titan Books                    | 1       | 05&#x2F;07&#x2F;2022 |
-| Follow Me Into The Darkness                                             | Behemoth Comics                | 3       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Street Fighter Masters - Blanka               | UDON                           | 1       | 05&#x2F;07&#x2F;2022 |
-| Metal Society                                                           | Image Comics                   | 1       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Stranger Things &#x2F; Resident Alien              | Dark Horse Comics              | 1       | 05&#x2F;07&#x2F;2022 |
-| Free Comic Book Day 2022: Clusterfux Comix                              | Other                          | 0       | 05&#x2F;07&#x2F;2022 |
-| Spider-Man 2099: Exodus - Alpha                                         | Marvel Comics                  | 1       | 05&#x2F;04&#x2F;2022 |
-| Batman Beyond: Neo-Year                                                 | DC Comics                      | 2       | 05&#x2F;03&#x2F;2022 |
-| Project Superpowers: Fractured States                                   | Dynamite                       | 2       | 05&#x2F;04&#x2F;2022 |
-| One Night in Prague                                                     | Keenspot                       | 1       | 05&#x2F;04&#x2F;2022 |
-| Iron Man                                                                | Marvel Comics                  | 19      | 05&#x2F;04&#x2F;2022 |
-| The Grunch                                                              | American Mythology             | 1       | 05&#x2F;04&#x2F;2022 |
-| DIE!NAMITE Never Dies                                                   | Dynamite                       | 3       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Primos                                        | Artists Writers &amp; Artisans Inc | 1       | 05&#x2F;07&#x2F;2022 |
-| Free Comic Book Day 2022: Red Sonja Marvel Feature Stories              | Dynamite                       | 1       | 05&#x2F;07&#x2F;2022 |
-| Free Comic Book Day 2022: Avengers &#x2F; X-Men                              | Marvel Comics                  | 1       | 05&#x2F;07&#x2F;2022 |
-| Free Comic Book Day 2022: It Won&#39;t Always Be Like This                  | Ten Speed Press                | 0       | 05&#x2F;07&#x2F;2022 |
-| Willy&#39;s Wonderland Prequel                                              | American Mythology             | 3       | 05&#x2F;04&#x2F;2022 |
-| Air Fighters Comics                                                     | Other                          | 1       | 05&#x2F;02&#x2F;2022 |
-| Star Wars: Obi-Wan                                                      | Marvel Comics                  | 1       | 05&#x2F;04&#x2F;2022 |
-| Dune: The Waters of Kanly                                               | BOOM! Studios                  | 1       | 05&#x2F;04&#x2F;2022 |
-| Marauders                                                               | Marvel Comics                  | 2       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: 25 Years Of Buffy The Vampire Slayer Special  | BOOM! Studios                  | 1       | 05&#x2F;07&#x2F;2022 |
-| Magic: The Gathering                                                    | BOOM! Studios                  | 14      | 05&#x2F;04&#x2F;2022 |
-| Deathrage                                                               | Merc Magazine                  | 4       | 05&#x2F;04&#x2F;2022 |
-| Clusterfux Comix                                                        | Other                          | 4       | 05&#x2F;04&#x2F;2022 |
-| A Righteous Thirst For Vengeance                                        | Image Comics                   | 7       | 05&#x2F;04&#x2F;2022 |
-| Peter Parker Pókember                                                   | Kingpin Kiado                  | 8       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Clementine                                    | Skybound                       | 1       | 05&#x2F;07&#x2F;2022 |
-| Free Comic Book Day 2022: Pokémon Journeys &#x2F; Pokémon Adventures: XY     | VIZ Media                      | 1       | 05&#x2F;07&#x2F;2022 |
-| Pantha                                                                  | Dynamite                       | 3       | 05&#x2F;04&#x2F;2022 |
-| World of Krypton                                                        | DC Comics                      | 6       | 05&#x2F;03&#x2F;2022 |
-| Flashpoint Beyond                                                       | DC Comics                      | 1       | 05&#x2F;03&#x2F;2022 |
-| Mirka Andolfo&#39;s Sweet Paprika                                           | Image Comics                   | 9       | 05&#x2F;04&#x2F;2022 |
-| 2000 AD Regened                                                         | Rebellion                      | 22      | 05&#x2F;04&#x2F;2022 |
-| Star Wars                                                               | Marvel Comics                  | 23      | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Bunny Mask Tales                              | AfterShock Comics              | 1       | 05&#x2F;07&#x2F;2022 |
-| Manifest Destiny                                                        | Skybound                       | 46      | 05&#x2F;04&#x2F;2022 |
-| Maestro: World War M                                                    | Marvel Comics                  | 3       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: The Bone Orchard Mythos                       | Image Comics                   | 1       | 05&#x2F;07&#x2F;2022 |
-| Grimm Fairy Tales Presents: 2022 May 4th Cosplay Pinup Special          | Zenescope                      | 1       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Dark Crisis - Special Edition                 | DC Comics                      | 0       | 05&#x2F;07&#x2F;2022 |
-| Dogs of London                                                          | AfterShock Comics              | 1       | 05&#x2F;04&#x2F;2022 |
-| Weekly Shonen Jump                                                      | Shueisha                       | 26      | 05&#x2F;02&#x2F;2022 |
-| Twig                                                                    | Image Comics                   | 1       | 05&#x2F;04&#x2F;2022 |
-| Comic Shop News                                                         | Comic Shop News                | 18      | 05&#x2F;04&#x2F;2022 |
-| Swamp Dogs                                                              | Scout Comics                   | 3       | 05&#x2F;04&#x2F;2022 |
-| Beyond the Farthest Star                                                | American Mythology             | 4       | 05&#x2F;04&#x2F;2022 |
-| Blood on Sunset                                                         | Source Point Press             | 5       | 05&#x2F;04&#x2F;2022 |
-| Hawk the Slayer                                                         | Rebellion                      | 1       | 05&#x2F;04&#x2F;2022 |
-| Batman: Killing Time                                                    | DC Comics                      | 3       | 05&#x2F;03&#x2F;2022 |
-| Free Comic Book Day 2022: Teenage Mutant Ninja Turtles                  | IDW Publishing                 | 1       | 05&#x2F;07&#x2F;2022 |
-| Quests Aside                                                            | Vault Comics                   | 1       | 05&#x2F;04&#x2F;2022 |
-| Miss Meow                                                               | Merc Magazine                  | 4       | 05&#x2F;01&#x2F;2022 |
-| Free Comic Book Day 2022: Doctor Who Comic                              | Titan Books                    | 1       | 05&#x2F;07&#x2F;2022 |
-| Mezo: Battle at Coban Rock                                              | A Wave Blue World Inc          | 1       | 05&#x2F;04&#x2F;2022 |
-| Rise of Dracula                                                         | Source Point Press             | 5       | 05&#x2F;04&#x2F;2022 |
-| Dirty Work At The Crossroads                                            | Other                          | 4       | 05&#x2F;04&#x2F;2022 |
-| Task Force Z                                                            | DC Comics                      | 7       | 05&#x2F;03&#x2F;2022 |
-| Avengers Forever                                                        | Marvel Comics                  | 5       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Marvel&#39;s Voices                               | Marvel Comics                  | 1       | 05&#x2F;07&#x2F;2022 |
-| In His Own Image                                                        | Source Point Press             | 3       | 05&#x2F;04&#x2F;2022 |
-| Earth-Prime                                                             | DC Comics                      | 3:      | 05&#x2F;03&#x2F;2022 |
-| Suicide Squad                                                           | DC Comics                      | 15      | 05&#x2F;03&#x2F;2022 |
-| Archer &amp; Armstrong Forever                                              | Valiant                        | 1       | 05&#x2F;04&#x2F;2022 |
-| The Rocketeer: The Great Race                                           | IDW Publishing                 | 2       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Avatar The Last Airbender&#x2F;The Legend Of Korra | Dark Horse Comics              | 1       | 05&#x2F;07&#x2F;2022 |
-| Monkey Meat                                                             | Image Comics                   | 5       | 05&#x2F;04&#x2F;2022 |
-| World of Archie Jumbo Comics Digest                                     | Archie Comics                  | 11      | 05&#x2F;04&#x2F;2022 |
-| Frontiersman: Lock-Up Special                                           | Image Comics                   | 1       | 05&#x2F;04&#x2F;2022 |
-| Once &amp; Future                                                           | BOOM! Studios                  | 25      | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Tex - In the Land of The Seminoles            | Epicenter Comics               | 1       | 05&#x2F;07&#x2F;2022 |
-| Free Comic Book Day 2022: Kaiju No. 8 &amp; Sakamoto Days                   | VIZ Media                      | 0       | 05&#x2F;07&#x2F;2022 |
-| Nubia: Coronation Special                                               | DC Comics                      | 1       | 05&#x2F;03&#x2F;2022 |
-| Deadly Class                                                            | Image Comics                   | 52      | 05&#x2F;04&#x2F;2022 |
-| Malevolent Rising                                                       | Other                          | 6       | 05&#x2F;04&#x2F;2022 |
-| Jim Henson&#39;s The Storyteller: Shapeshifters                             | Archaia                        | 3       | 05&#x2F;04&#x2F;2022 |
-| Zorro: New World                                                        | American Mythology             | 4       | 05&#x2F;04&#x2F;2022 |
-| The Walking Dead Deluxe                                                 | Skybound                       | 38      | 05&#x2F;04&#x2F;2022 |
-| Batman                                                                  | DC Comics                      | 12      | 05&#x2F;03&#x2F;2022 |
-| Duel                                                                    | Bliss On Tap Publishing        | 2       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: The Three Stooges                             | American Mythology             | 1       | 05&#x2F;07&#x2F;2022 |
-| One-Star Squadron                                                       | DC Comics                      | 6       | 05&#x2F;03&#x2F;2022 |
-| Free Comic Book Day 2022: Disney Masters - Donald Duck &amp; Co. Special    | Fantagraphics Books            | 0       | 05&#x2F;07&#x2F;2022 |
-| Radiant Black                                                           | Image Comics                   | 14      | 05&#x2F;04&#x2F;2022 |
-| The Living Corpse: Haunted                                              | American Mythology             | 1       | 05&#x2F;04&#x2F;2022 |
-| Star Trek: The Mirror War                                               | IDW Publishing                 | 6       | 05&#x2F;04&#x2F;2022 |
-| Teenage Mutant Ninja Turtles                                            | IDW Publishing                 | 12      | 05&#x2F;04&#x2F;2022 |
-| Black Panther Legends                                                   | Marvel Comics                  | 4       | 05&#x2F;04&#x2F;2022 |
-| Transformers: Best of Hot Rod                                           | IDW Publishing                 | 1       | 05&#x2F;04&#x2F;2022 |
-| Free Comic Book Day 2022: Spider-Man &#x2F; Venom                            | Marvel Comics                  | 1       | 05&#x2F;07&#x2F;2022 |
-| Little Monsters                                                         | Image Comics                   | 3       | 05&#x2F;04&#x2F;2022 |
-| Ben Reilly: Spider-Man                                                  | Marvel Comics                  | 4       | 05&#x2F;04&#x2F;2022 |
-| Transformers: Beast Wars                                                | IDW Publishing                 | 15      | 05&#x2F;04&#x2F;2022 |
-| 1st Man                                                                 | Astonishing Comics             | 2       | 05&#x2F;04&#x2F;2022 |
-| Kent Menace: Dangers from the Depths                                    | American Mythology             | 1       | 05&#x2F;04&#x2F;2022 |
+| Name                                                         | Publisher                      | Issue # | Date       |
+| ------------------------------------------------------------ | ------------------------------ | ------- | ---------- |
+| G.I. Joe: A Real American Hero                               | IDW Publishing                 | 29      | 05&#x2F;11&#x2F;2022 |
+| By the Horns: Dark Earth                                     | Scout Comics                   | 1       | 05&#x2F;11&#x2F;2022 |
+| Bettie Page: The Alien Agenda                                | Dynamite                       | 3       | 05&#x2F;11&#x2F;2022 |
+| The Sandman Universe: Nightmare Country                      | DC Comics                      | 2       | 05&#x2F;10&#x2F;2022 |
+| Archie Meets Riverdale                                       | Archie Comics                  | 1       | 05&#x2F;11&#x2F;2022 |
+| G.I. Joe: A Real American Hero - Saturday Morning Adventures | IDW Publishing                 | 3       | 05&#x2F;11&#x2F;2022 |
+| Immortal Red Sonja                                           | Dynamite                       | 2       | 05&#x2F;11&#x2F;2022 |
+| Avatar: Adapt or Die                                         | Dark Horse Comics              | 1       | 05&#x2F;11&#x2F;2022 |
+| The Cimmerian: Hour of the Dragon                            | Ablaze                         | 3       | 05&#x2F;11&#x2F;2022 |
+| Transformers: Last Bot Standing                              | IDW Publishing                 | 1       | 05&#x2F;11&#x2F;2022 |
+| Grim                                                         | BOOM! Studios                  | 1       | 05&#x2F;11&#x2F;2022 |
+| Code 45                                                      | Scout Comics                   | 1       | 05&#x2F;11&#x2F;2022 |
+| Robyn Hood: Hearts of Darkness                               | Zenescope                      | 1       | 05&#x2F;11&#x2F;2022 |
+| Usher of the Dead                                            | Blood Moon Comics              | 3       | 05&#x2F;11&#x2F;2022 |
+| Wonder Woman                                                 | DC Comics                      | 78      | 05&#x2F;10&#x2F;2022 |
+| Dose                                                         | It&#39;s Alive                     | 5       | 05&#x2F;11&#x2F;2022 |
+| Tales From Harrow County: Lost Ones                          | Dark Horse Comics              | 1       | 05&#x2F;11&#x2F;2022 |
+| Suicide Squad: Get Joker!                                    | DC Comics                      | 3       | 05&#x2F;10&#x2F;2022 |
+| Jenny Zero II                                                | Dark Horse Comics              | 1       | 05&#x2F;11&#x2F;2022 |
+| Superman: Son of Kal-El                                      | DC Comics                      | 11      | 05&#x2F;10&#x2F;2022 |
+| Beorn: The Littlest Viking Saga                              | Red 5                          | 1       | 05&#x2F;11&#x2F;2022 |
+| Murder Hobo!: Chaotic Neutral                                | Scout Comics                   | 4       | 05&#x2F;11&#x2F;2022 |
+| Happy Hill                                                   | ComixTribe                     | 3       | 05&#x2F;11&#x2F;2022 |
+| 78 MPH                                                       | Red 5                          | 1       | 05&#x2F;11&#x2F;2022 |
+| Seven Secrets                                                | BOOM! Studios                  | 17      | 05&#x2F;11&#x2F;2022 |
+| 21st Centurions                                              | AC Comics                      | 9       | 05&#x2F;11&#x2F;2022 |
+| Farmhand                                                     | Image Comics                   | 17      | 05&#x2F;11&#x2F;2022 |
+| Triskele                                                     | Scout Comics                   | 1       | 05&#x2F;11&#x2F;2022 |
+| The Ballad of Ronan                                          | Action Lab Comics              | 1       | 05&#x2F;11&#x2F;2022 |
+| Mighty Morphin                                               | BOOM! Studios                  | 19      | 05&#x2F;11&#x2F;2022 |
+| Moon Knight: Black, White, &amp; Blood                           | Marvel Comics                  | 1       | 05&#x2F;11&#x2F;2022 |
+| Sonic the Hedgehog: Imposter Syndrome                        | IDW Publishing                 | 4       | 05&#x2F;11&#x2F;2022 |
+| Tangled River                                                | It&#39;s Alive                     | 9       | 05&#x2F;11&#x2F;2022 |
+| The Kill Lock: The Artisan Wraith                            | IDW Publishing                 | 3       | 05&#x2F;11&#x2F;2022 |
+| Crossover                                                    | Image Comics                   | 13      | 05&#x2F;11&#x2F;2022 |
+| Super &#39;Suckers Binge Book: Mirror Mirror                     | Sitcomics                      | 1       | 05&#x2F;11&#x2F;2022 |
+| Star Wars: The Halcyon Legacy                                | Marvel Comics                  | 3       | 05&#x2F;11&#x2F;2022 |
+| Paradise Towers: Paradise Found                              | Cutaway Comics                 | 1       | 05&#x2F;11&#x2F;2022 |
+| Bunny Mask: The Hollow Inside                                | AfterShock Comics              | 1       | 05&#x2F;11&#x2F;2022 |
+| Archie Showcase Digest                                       | Archie Comics                  | 8:      | 05&#x2F;11&#x2F;2022 |
+| Life Zero                                                    | Ablaze                         | 4       | 05&#x2F;11&#x2F;2022 |
+| Image Firsts: The Department of Truth                        | Image Comics                   | 1       | 05&#x2F;11&#x2F;2022 |
+| X-Men                                                        | Marvel Comics                  | 11      | 05&#x2F;11&#x2F;2022 |
+| Lady Mechanika: The Monster of the Ministry of Hell          | Image Comics                   | 4       | 05&#x2F;11&#x2F;2022 |
+| Blood Syndicate: Season One                                  | Milestone                      | 1       | 05&#x2F;10&#x2F;2022 |
+| STRGRL                                                       | Behemoth Comics                | 2       | 05&#x2F;11&#x2F;2022 |
+| Vampirella Strikes                                           | Dynamite                       | 1       | 05&#x2F;11&#x2F;2022 |
+| The Ocean Will Take Us                                       | AfterShock Comics              | 2       | 05&#x2F;11&#x2F;2022 |
+| Belit &amp; Valeria                                              | Ablaze                         | 1       | 05&#x2F;11&#x2F;2022 |
+| Assassin&#39;s Creed: Valhalla - Forgotten Myths                 | Dark Horse Comics              | 3       | 05&#x2F;11&#x2F;2022 |
+| 2000 AD                                                      | Rebellion                      | 22      | 05&#x2F;11&#x2F;2022 |
+| Weekly Shonen Jump                                           | Shueisha                       | 26      | 05&#x2F;09&#x2F;2022 |
+| Third Wave &#39;99                                               | Scout Comics                   | 3       | 05&#x2F;11&#x2F;2022 |
+| Barnstormers                                                 | Comixology                     | 1       | 05&#x2F;10&#x2F;2022 |
+| Eight Billion Genies                                         | Image Comics                   | 1       | 05&#x2F;11&#x2F;2022 |
+| Loaded Bible: Blood of My Blood                              | Image Comics                   | 3       | 05&#x2F;11&#x2F;2022 |
+| Norse Mythology III                                          | Dark Horse Comics              | 4       | 05&#x2F;11&#x2F;2022 |
+| Frank Frazetta&#39;s Death Dealer                                | Other                          | 1       | 05&#x2F;11&#x2F;2022 |
+| Nottingham                                                   | Mad Cave Studios               | 7       | 05&#x2F;11&#x2F;2022 |
+| Justice League vs. The Legion of Super-Heroes                | DC Comics                      | 3       | 05&#x2F;10&#x2F;2022 |
+| Naomi: Season Two                                            | DC Comics                      | 3       | 05&#x2F;10&#x2F;2022 |
+| Rivers of London: Deadly Ever After                          | Titan Books                    | 1       | 05&#x2F;11&#x2F;2022 |
+| No Holds Bard                                                | Behemoth Comics                | 6       | 05&#x2F;11&#x2F;2022 |
+| The Rush                                                     | Vault Comics                   | 6       | 05&#x2F;11&#x2F;2022 |
+| G.I.L.T.                                                     | Ahoy Comics                    | 2       | 05&#x2F;11&#x2F;2022 |
+| Batman: Urban Legends                                        | DC Comics                      | 15      | 05&#x2F;10&#x2F;2022 |
+| I Am Batman                                                  | DC Comics                      | 9       | 05&#x2F;10&#x2F;2022 |
+| Batman: The Knight Compendium Edition                        | DC Comics                      | 1       | 05&#x2F;10&#x2F;2022 |
+| Star Trek: Discovery - Adventures in the 32nd Century        | IDW Publishing                 | 3       | 05&#x2F;11&#x2F;2022 |
+| Arachna                                                      | Other                          | 2       | 05&#x2F;10&#x2F;2022 |
+| Heavy Metal Drummer                                          | Behemoth Comics                | 4       | 05&#x2F;11&#x2F;2022 |
+| Eddie the Office Goblin                                      | Other                          | 2       | 05&#x2F;11&#x2F;2022 |
+| Shang-Chi                                                    | Marvel Comics                  | 12      | 05&#x2F;11&#x2F;2022 |
+| Back Issue                                                   | TwoMorrows                     | 13      | 05&#x2F;11&#x2F;2022 |
+| King Conan                                                   | Marvel Comics                  | 4       | 05&#x2F;11&#x2F;2022 |
+| Hecate&#39;s Will                                                | Black Mask Studios             | 4       | 05&#x2F;11&#x2F;2022 |
+| Future State: Gotham                                         | DC Comics                      | 13      | 05&#x2F;10&#x2F;2022 |
+| Jurassic League                                              | DC Comics                      | 1       | 05&#x2F;10&#x2F;2022 |
+| The Walking Dead Deluxe                                      | Skybound                       | 38      | 05&#x2F;11&#x2F;2022 |
+| Batgirls                                                     | DC Comics                      | 6       | 05&#x2F;10&#x2F;2022 |
+| New Men                                                      | Action Lab Comics              | 3       | 05&#x2F;11&#x2F;2022 |
+| Hulk vs. Thor: Banner of War Alpha                           | Marvel Comics                  | 1       | 05&#x2F;11&#x2F;2022 |
+| 78 MPH                                                       | Red 5                          | 2       | 05&#x2F;11&#x2F;2022 |
+| Image Firsts: Nocterra                                       | Image Comics                   | 1       | 05&#x2F;11&#x2F;2022 |
+| Dark Beach                                                   | Behemoth Comics                | 2       | 05&#x2F;11&#x2F;2022 |
+| Captain America: Symbol of Truth                             | Marvel Comics                  | 1       | 05&#x2F;11&#x2F;2022 |
+| Shadow Service                                               | Vault Comics                   | 12      | 05&#x2F;11&#x2F;2022 |
+| Nocterra                                                     | Image Comics                   | 10      | 05&#x2F;11&#x2F;2022 |
+| I&#39;m So Punk                                                  | Other                          | 0       | 05&#x2F;11&#x2F;2022 |
+| The Joneses                                                  | Artists Writers &amp; Artisans Inc | 2       | 05&#x2F;11&#x2F;2022 |
+| The Scorched                                                 | Image Comics                   | 5       | 05&#x2F;11&#x2F;2022 |
+| What If… Miles Morales                                       | Marvel Comics                  | 3       | 05&#x2F;11&#x2F;2022 |
+| Spawn                                                        | Image Comics                   | 32      | 05&#x2F;11&#x2F;2022 |
+| Image Firsts: Fire Power                                     | Skybound                       | 1       | 05&#x2F;11&#x2F;2022 |
 
 </details>
