@@ -25,7 +25,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | The All-Nighter                                 | Comixology                     | 7       | 06&#x2F;21&#x2F;2022 |
 | Blood-Stained Teeth                             | Image Comics                   | 3       | 06&#x2F;22&#x2F;2022 |
 | Cowboy Bebop                                    | Titan Books                    | 4       | 06&#x2F;22&#x2F;2022 |
-| Broken Souls Ballad: Hell is for Kids           | Scout Comics                   | 2       | 06&#x2F;22&#x2F;2022 |
 | Transformers: Beast Wars                        | IDW Publishing                 | 17      | 06&#x2F;22&#x2F;2022 |
 | Robyn Hood: 2022                                | Zenescope                      | 1       | 06&#x2F;22&#x2F;2022 |
 | Samurai Sonja                                   | Dynamite                       | 1       | 06&#x2F;22&#x2F;2022 |
@@ -37,9 +36,9 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | My Little Pony                                  | IDW Publishing                 | 2       | 06&#x2F;22&#x2F;2022 |
 | Marvel Previews                                 | Marvel Comics                  | 10      | 06&#x2F;22&#x2F;2022 |
 | Red Room: Trigger Warnings                      | Fantagraphics Books            | 4       | 06&#x2F;22&#x2F;2022 |
-| The Vampire Slayer                              | BOOM! Studios                  | 3       | 06&#x2F;22&#x2F;2022 |
 | Sheena: Queen of the Jungle                     | Dynamite                       | 7       | 06&#x2F;22&#x2F;2022 |
 | Duo                                             | Milestone                      | 2       | 06&#x2F;21&#x2F;2022 |
+| Sham Comics                                     | Source Point Press             | 3       | 06&#x2F;22&#x2F;2022 |
 | The Lonesome Hunters                            | Dark Horse Comics              | 1       | 06&#x2F;22&#x2F;2022 |
 | The Amazing Spider-Man                          | Marvel Comics                  | 4       | 06&#x2F;22&#x2F;2022 |
 | Gunslinger Spawn                                | Image Comics                   | 9       | 06&#x2F;22&#x2F;2022 |
@@ -48,19 +47,18 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Punisher War Journal: Blitz                     | Marvel Comics                  | 1       | 06&#x2F;22&#x2F;2022 |
 | Beware the Eye of Odin                          | Image Comics                   | 1       | 06&#x2F;22&#x2F;2022 |
 | Earth-Prime                                     | DC Comics                      | 6:      | 06&#x2F;21&#x2F;2022 |
-| Sonic the Hedgehog                              | IDW Publishing                 | 50      | 06&#x2F;22&#x2F;2022 |
 | Magic: The Hidden Planeswalker                  | BOOM! Studios                  | 3       | 06&#x2F;22&#x2F;2022 |
 | Milestones in History                           | DC Comics                      | 1       | 06&#x2F;21&#x2F;2022 |
-| Beyond the Beyond                               | Scout Comics                   | 2       | 06&#x2F;22&#x2F;2022 |
 | Nocterra                                        | Image Comics                   | 11      | 06&#x2F;22&#x2F;2022 |
+| Young Animal                                    | Other                          | 71      | 06&#x2F;24&#x2F;2022 |
 | Weekly Shonen Jump                              | Shueisha                       | 26      | 06&#x2F;20&#x2F;2022 |
-| Season of the Bruja                             | Oni Press                      | 4       | 06&#x2F;22&#x2F;2022 |
 | Zombies vs. Robots Classic                      | Image Comics                   | 4       | 06&#x2F;22&#x2F;2022 |
 | The Heroic Few                                  | Buno Books                     | 1       | 06&#x2F;22&#x2F;2022 |
 | Shaolin Cowboy: Cruel to Be Kin                 | Dark Horse Comics              | 2       | 06&#x2F;22&#x2F;2022 |
 | Usagi Yojimbo: Lone Goat &amp; Kid                  | IDW Publishing                 | 6       | 06&#x2F;22&#x2F;2022 |
 | Batman: The Knight                              | DC Comics                      | 6       | 06&#x2F;21&#x2F;2022 |
 | I Hate This Place                               | Skybound                       | 2       | 06&#x2F;22&#x2F;2022 |
+| Emergents Presents: Pride                       | Other                          | 1       | 06&#x2F;22&#x2F;2022 |
 | Cover of Darkness                               | Source Point Press             | 6       | 06&#x2F;22&#x2F;2022 |
 | New Fantastic Four                              | Marvel Comics                  | 1       | 06&#x2F;22&#x2F;2022 |
 | Dark Crisis: Young Justice                      | DC Comics                      | 1       | 06&#x2F;21&#x2F;2022 |
@@ -72,7 +70,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | The Silver Coin                                 | Image Comics                   | 11      | 06&#x2F;22&#x2F;2022 |
 | Hellcop                                         | Image Comics                   | 8       | 06&#x2F;22&#x2F;2022 |
 | 2000 AD                                         | Rebellion                      | 22      | 06&#x2F;22&#x2F;2022 |
-| A Dark Interlude                                | Vault Comics                   | 5       | 06&#x2F;22&#x2F;2022 |
 | Radiant Red                                     | Image Comics                   | 4       | 06&#x2F;22&#x2F;2022 |
 | Catwoman                                        | DC Comics                      | 44      | 06&#x2F;21&#x2F;2022 |
 | Miles Morales and Moon Girl                     | Marvel Comics                  | 1       | 06&#x2F;22&#x2F;2022 |
@@ -80,7 +77,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Lead City                                       | Red 5                          | 4       | 06&#x2F;22&#x2F;2022 |
 | The Collector: Unit 731                         | Dark Horse Comics              | 3       | 06&#x2F;22&#x2F;2022 |
 | Maestro: World War M                            | Marvel Comics                  | 4       | 06&#x2F;22&#x2F;2022 |
-| Starward                                        | Heavy Metal                    | 3       | 06&#x2F;22&#x2F;2022 |
 | John Carter of Mars                             | Dynamite                       | 3       | 06&#x2F;22&#x2F;2022 |
 | The Joneses                                     | Artists Writers &amp; Artisans Inc | 3       | 06&#x2F;22&#x2F;2022 |
 | Silver Surfer: Rebirth                          | Marvel Comics                  | 5       | 06&#x2F;22&#x2F;2022 |
@@ -96,7 +92,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Disturbed: Dark Messiah                         | Opus Comics                    | 2       | 06&#x2F;22&#x2F;2022 |
 | The Wrong Earth: Confidence Men                 | Ahoy Comics                    | 1       | 06&#x2F;22&#x2F;2022 |
 | Moon Knight                                     | Marvel Comics                  | 12      | 06&#x2F;22&#x2F;2022 |
-| Horror Comics                                   | Antarctic Press                | 14      | 06&#x2F;22&#x2F;2022 |
 | Scooby-Doo, Where Are You?                      | DC Comics                      | 11      | 06&#x2F;21&#x2F;2022 |
 | The Flash                                       | DC Comics                      | 78      | 06&#x2F;21&#x2F;2022 |
 | World of Betty and Veronica Jumbo Comics Digest | Archie Comics                  | 16      | 06&#x2F;22&#x2F;2022 |
@@ -106,12 +101,9 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Something is Killing the Children               | BOOM! Studios                  | 24      | 06&#x2F;22&#x2F;2022 |
 | The Illusion Witch                              | Behemoth Comics                | 1       | 06&#x2F;22&#x2F;2022 |
 | Nightwing                                       | DC Comics                      | 93      | 06&#x2F;21&#x2F;2022 |
-| Life Zero                                       | Ablaze                         | 5       | 06&#x2F;22&#x2F;2022 |
 | Rivers of London: Deadly Ever After             | Titan Books                    | 2       | 06&#x2F;22&#x2F;2022 |
 | Black Adam                                      | DC Comics                      | 1       | 06&#x2F;21&#x2F;2022 |
 | Primos                                          | Artists Writers &amp; Artisans Inc | 4       | 06&#x2F;22&#x2F;2022 |
-| Deadbox                                         | Vault Comics                   | 3       | 06&#x2F;22&#x2F;2022 |
-| By the Horns: Dark Earth                        | Scout Comics                   | 2       | 06&#x2F;22&#x2F;2022 |
 | Superman&#39;s Pal Jimmy Olsen&#39;s Boss Perry White   | DC Comics                      | 1       | 06&#x2F;21&#x2F;2022 |
 | Fables                                          | DC Comics                      | 15      | 06&#x2F;21&#x2F;2022 |
 | Kaiju Score: Steal From the Gods                | AfterShock Comics              | 3       | 06&#x2F;22&#x2F;2022 |
