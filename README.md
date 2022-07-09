@@ -22,11 +22,10 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 
 | Name                                            | Publisher                      | Issue # | Date       |
 | ----------------------------------------------- | ------------------------------ | ------- | ---------- |
-| Black Adam – The Justice Society Files: Hawkman | DC Comics                      | 1       | 07&#x2F;05&#x2F;2022 |
+| Black Adam: The Justice Society Files - Hawkman | DC Comics                      | 1       | 07&#x2F;05&#x2F;2022 |
 | Mezo: Battle at Coban Rock                      | A Wave Blue World Inc          | 3       | 07&#x2F;06&#x2F;2022 |
 | Broken Souls Ballad: Hell is for Kids           | Scout Comics                   | 2       | 07&#x2F;06&#x2F;2022 |
 | Mighty Morphin                                  | BOOM! Studios                  | 21      | 07&#x2F;06&#x2F;2022 |
-| Rivers of London: Deadly Ever After             | Titan Books                    | 3       | 07&#x2F;06&#x2F;2022 |
 | Stranger Things Summer Special                  | Dark Horse Comics              | 1       | 07&#x2F;06&#x2F;2022 |
 | Little Monsters                                 | Image Comics                   | 5       | 07&#x2F;06&#x2F;2022 |
 | Prodigy: The Icarus Society                     | Image Comics                   | 1       | 07&#x2F;06&#x2F;2022 |
@@ -48,22 +47,18 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Cyberpunk 2077: Blackout                        | Dark Horse Comics              | 2       | 07&#x2F;06&#x2F;2022 |
 | Twig                                            | Image Comics                   | 3       | 07&#x2F;06&#x2F;2022 |
 | Magic: The Gathering                            | BOOM! Studios                  | 16      | 07&#x2F;06&#x2F;2022 |
-| Do Not Pet                                      | Other                          | 3       | 07&#x2F;06&#x2F;2022 |
-| Hawk the Slayer                                 | Rebellion                      | 4       | 07&#x2F;06&#x2F;2022 |
 | Beyond the Beyond                               | Scout Comics                   | 2       | 07&#x2F;06&#x2F;2022 |
 | Mind MGMT: Bootleg                              | Dark Horse Comics              | 1       | 07&#x2F;06&#x2F;2022 |
-| Lady Death: Sacrificial Annihilation            | Coffin Comics                  | 2       | 07&#x2F;06&#x2F;2022 |
 | Red Sonja: Red Sitha                            | Dynamite                       | 3       | 07&#x2F;06&#x2F;2022 |
 | Saga                                            | Image Comics                   | 60      | 07&#x2F;06&#x2F;2022 |
 | Batman &#39;89                                      | DC Comics                      | 6       | 07&#x2F;05&#x2F;2022 |
 | Black Panther                                   | Marvel Comics                  | 7       | 07&#x2F;06&#x2F;2022 |
+| Just Listen to the Song                         | Shueisha                       | 1       | 07&#x2F;03&#x2F;2022 |
 | Cities of Magick                                | Scout Comics                   | 2       | 07&#x2F;06&#x2F;2022 |
 | Batman Beyond: Neo-Year                         | DC Comics                      | 4       | 07&#x2F;05&#x2F;2022 |
 | Young Animal                                    | Other                          | 71      | 07&#x2F;08&#x2F;2022 |
 | No&#39;Madd: The City of Empty Towers               | Other                          | 1       | 07&#x2F;06&#x2F;2022 |
-| Rick and Morty Infinity Hour                    | Oni Press                      | 4       | 07&#x2F;06&#x2F;2022 |
 | Savage Tales                                    | Dynamite                       | 1       | 07&#x2F;06&#x2F;2022 |
-| Frank Frazetta&#39;s Death Dealer                   | Opus Comics                    | 3       | 07&#x2F;06&#x2F;2022 |
 | Captain America: Sentinel of Liberty            | Marvel Comics                  | 2       | 07&#x2F;06&#x2F;2022 |
 | Suicide Squad: Blaze                            | DC Comics                      | 3       | 07&#x2F;05&#x2F;2022 |
 | Promethee 13:13                                 | Ablaze                         | 1       | 07&#x2F;06&#x2F;2022 |
@@ -78,7 +73,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | DC vs. Vampires                                 | DC Comics                      | 7       | 07&#x2F;05&#x2F;2022 |
 | Legion of X                                     | Marvel Comics                  | 3       | 07&#x2F;06&#x2F;2022 |
 | Batman                                          | DC Comics                      | 12      | 07&#x2F;05&#x2F;2022 |
-| Beorn: The Littlest Viking Saga                 | Red 5                          | 3       | 07&#x2F;06&#x2F;2022 |
 | Comic Shop News                                 | Comic Shop News                | 18      | 07&#x2F;06&#x2F;2022 |
 | Sabretooth                                      | Marvel Comics                  | 5       | 07&#x2F;06&#x2F;2022 |
 | The Tiger&#39;s Tongue                              | Mad Cave Studios               | 1       | 07&#x2F;06&#x2F;2022 |
@@ -96,14 +90,13 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Star Wars: The Halcyon Legacy                   | Marvel Comics                  | 4       | 07&#x2F;06&#x2F;2022 |
 | Speed Republic                                  | Mad Cave Studios               | 5       | 07&#x2F;06&#x2F;2022 |
 | DIE!NAMITE Never Dies                           | Dynamite                       | 5       | 07&#x2F;06&#x2F;2022 |
-| Horror Comics                                   | Antarctic Press                | 14      | 07&#x2F;06&#x2F;2022 |
 | Dark Beach                                      | Behemoth Comics                | 4       | 07&#x2F;06&#x2F;2022 |
+| The Audra Show                                  | Other                          | 6       | 07&#x2F;06&#x2F;2022 |
 | Poison Ivy                                      | DC Comics                      | 2       | 07&#x2F;05&#x2F;2022 |
 | Strange Academy                                 | Marvel Comics                  | 18      | 07&#x2F;06&#x2F;2022 |
 | Spawn                                           | Image Comics                   | 33      | 07&#x2F;06&#x2F;2022 |
 | Doctor Who: Origins                             | Titan Books                    | 2       | 07&#x2F;06&#x2F;2022 |
 | Blind Alley                                     | Behemoth Comics                | 3       | 07&#x2F;06&#x2F;2022 |
-| The Devil Tree                                  | Blood Moon Comics              | 5       | 07&#x2F;06&#x2F;2022 |
 | Fire Power                                      | Skybound                       | 22      | 07&#x2F;06&#x2F;2022 |
 | Knights of the 5th Dimension                    | Blue Juice Comics              | 1       | 07&#x2F;06&#x2F;2022 |
 | The Ward                                        | Dark Horse Comics              | 2       | 07&#x2F;06&#x2F;2022 |
@@ -111,6 +104,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | That Texas Blood                                | Image Comics                   | 15      | 07&#x2F;06&#x2F;2022 |
 | Deadbox                                         | Vault Comics                   | 3       | 07&#x2F;06&#x2F;2022 |
 | Absolution                                      | Artists Writers &amp; Artisans Inc | 1       | 07&#x2F;06&#x2F;2022 |
+| Hardlee Thinn                                   | Other                          | 1       | 07&#x2F;04&#x2F;2022 |
 | King Conan                                      | Marvel Comics                  | 6       | 07&#x2F;06&#x2F;2022 |
 | Killadelphia                                    | Image Comics                   | 23      | 07&#x2F;06&#x2F;2022 |
 
