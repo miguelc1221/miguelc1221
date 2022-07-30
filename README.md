@@ -27,26 +27,28 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Archie Showcase Digest                               | Archie Comics                  | 9:      | 07&#x2F;27&#x2F;2022 |
 | Weekly Shonen Jump                                   | Shueisha                       | 26      | 07&#x2F;25&#x2F;2022 |
 | DC: Mech                                             | DC Comics                      | 1       | 07&#x2F;26&#x2F;2022 |
-| Razorblades: Small Cuts Special                      | Image Comics                   | 1       | 07&#x2F;27&#x2F;2022 |
+| Four Color                                           | Dell                           | 51      | 07&#x2F;24&#x2F;2022 |
 | Hecate&#39;s Will                                        | Black Mask Studios             | 5       | 07&#x2F;27&#x2F;2022 |
 | We Only Find Them When They&#39;re Dead                  | BOOM! Studios                  | 12      | 07&#x2F;27&#x2F;2022 |
 | Venom                                                | Marvel Comics                  | 9       | 07&#x2F;27&#x2F;2022 |
 | Riot Earp                                            | Other                          | 1       | 07&#x2F;27&#x2F;2022 |
 | Teenage Mutant Ninja Turtles                         | IDW Publishing                 | 13      | 07&#x2F;27&#x2F;2022 |
+| Four Color                                           | Dell                           | 35      | 07&#x2F;24&#x2F;2022 |
 | Genis-Vell: Captain Marvel                           | Marvel Comics                  | 1       | 07&#x2F;27&#x2F;2022 |
 | ORCS!: The Curse                                     | BOOM! Studios                  | 2       | 07&#x2F;27&#x2F;2022 |
 | Sonic the Hedgehog                                   | IDW Publishing                 | 51      | 07&#x2F;27&#x2F;2022 |
 | Grimm Universe Presents Quarterly: Sleeping Beauty   | Zenescope                      | 1       | 07&#x2F;27&#x2F;2022 |
 | Wild Cards: The Drawing of Cards                     | Marvel Comics                  | 1       | 07&#x2F;27&#x2F;2022 |
 | Crystal Planet                                       | Opus Comics                    | 2       | 07&#x2F;27&#x2F;2022 |
+| 2000 AD                                              | Rebellion                      | 22      | 07&#x2F;27&#x2F;2022 |
 | Gambit                                               | Marvel Comics                  | 1       | 07&#x2F;27&#x2F;2022 |
+| Alias: Black &amp; White                                 | Antarctic Press                | 7       | 07&#x2F;27&#x2F;2022 |
 | Canto: Tales Of The Unnamed World                    | IDW Publishing                 | 2       | 07&#x2F;27&#x2F;2022 |
 | Kid Slapshot                                         | Keenspot                       | 1       | 07&#x2F;27&#x2F;2022 |
 | Bush Leaguers                                        | Scout Comics                   | 1       | 07&#x2F;27&#x2F;2022 |
 | Hit Me                                               | Artists Writers &amp; Artisans Inc | 5       | 07&#x2F;27&#x2F;2022 |
 | The Vampire Slayer                                   | BOOM! Studios                  | 4       | 07&#x2F;27&#x2F;2022 |
 | Beasto Blanco                                        | Source Point Press             | 1       | 07&#x2F;27&#x2F;2022 |
-| Vox                                                  | Comics Experience Publishing   | 1       | 07&#x2F;27&#x2F;2022 |
 | I Hate You, Please Die! Ashcan                       | Source Point Press             | 0       | 07&#x2F;27&#x2F;2022 |
 | Pearl III                                            | Dark Horse Comics              | 3       | 07&#x2F;27&#x2F;2022 |
 | Star Wars: Doctor Aphra                              | Marvel Comics                  | 22      | 07&#x2F;27&#x2F;2022 |
@@ -54,9 +56,10 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Bloodborne: The Lady of the Lanterns                 | Titan Books                    | 1       | 07&#x2F;27&#x2F;2022 |
 | Lady Death: Sacrificial Annihilation                 | Coffin Comics                  | 2       | 07&#x2F;27&#x2F;2022 |
 | John Carter of Mars                                  | Dynamite                       | 4       | 07&#x2F;27&#x2F;2022 |
-| Macabre Motel                                        | Comics Experience Publishing   | 1       | 07&#x2F;27&#x2F;2022 |
+| The Macabre Motel                                    | Comics Experience Publishing   | 1       | 07&#x2F;27&#x2F;2022 |
 | The Swamp Thing                                      | DC Comics                      | 15      | 07&#x2F;26&#x2F;2022 |
 | The Naughty List                                     | AfterShock Comics              | 4       | 07&#x2F;27&#x2F;2022 |
+| Buzzard and Bone                                     | Source Point Press             | 4       | 07&#x2F;27&#x2F;2022 |
 | The Amazing Spider-Man                               | Marvel Comics                  | 6       | 07&#x2F;27&#x2F;2022 |
 | The All-Nighter                                      | Comixology                     | 8       | 07&#x2F;26&#x2F;2022 |
 | The Hollows                                          | Image Comics                   | 1       | 07&#x2F;27&#x2F;2022 |
@@ -78,6 +81,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Deathstroke Inc.                                     | DC Comics                      | 11      | 07&#x2F;26&#x2F;2022 |
 | Sins of the Black Flamingo                           | Image Comics                   | 2       | 07&#x2F;27&#x2F;2022 |
 | Captain America: Symbol of Truth                     | Marvel Comics                  | 3       | 07&#x2F;27&#x2F;2022 |
+| Dishoom                                              | Other                          | 2       | 07&#x2F;27&#x2F;2022 |
 | One Night in Prague                                  | Keenspot                       | 3       | 07&#x2F;27&#x2F;2022 |
 | Jenny Zero II                                        | Dark Horse Comics              | 3       | 07&#x2F;27&#x2F;2022 |
 | A Righteous Thirst For Vengeance                     | Image Comics                   | 10      | 07&#x2F;27&#x2F;2022 |
@@ -87,12 +91,10 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Magic: The Hidden Planeswalker                       | BOOM! Studios                  | 4       | 07&#x2F;27&#x2F;2022 |
 | All New Firefly                                      | BOOM! Studios                  | 6       | 07&#x2F;27&#x2F;2022 |
 | Vampirella: Year One                                 | Dynamite                       | 1       | 07&#x2F;27&#x2F;2022 |
-| Pentagram of Horror                                  | Scout Comics                   | 3       | 07&#x2F;27&#x2F;2022 |
 | Task Force Z                                         | DC Comics                      | 10      | 07&#x2F;26&#x2F;2022 |
 | Redman                                               | Behemoth Comics                | 2       | 07&#x2F;27&#x2F;2022 |
 | Planet Comics                                        | Antarctic Press                | 7       | 07&#x2F;27&#x2F;2022 |
 | Sulfur Wells                                         | Blood Moon Comics              | 1       | 07&#x2F;27&#x2F;2022 |
-| Lunar Room                                           | Vault Comics                   | 5       | 07&#x2F;27&#x2F;2022 |
 | Radiant Red                                          | Image Comics                   | 5       | 07&#x2F;27&#x2F;2022 |
 | Robin                                                | DC Comics                      | 16      | 07&#x2F;26&#x2F;2022 |
 | Cradle of Filth : Maledictus Athenaeum               | Opus Comics                    | 1       | 07&#x2F;27&#x2F;2022 |
@@ -100,6 +102,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Young Justice: Targets                               | DC Comics                      | 1       | 07&#x2F;26&#x2F;2022 |
 | The Wrong Earth: Meat                                | Ahoy Comics                    | 1       | 07&#x2F;27&#x2F;2022 |
 | Marvel Previews                                      | Marvel Comics                  | 11      | 07&#x2F;27&#x2F;2022 |
+| Sham Comics                                          | Source Point Press             | 4       | 07&#x2F;27&#x2F;2022 |
 | Strange                                              | Marvel Comics                  | 4       | 07&#x2F;27&#x2F;2022 |
 | Two Gun Terror                                       | American Mythology             | 1       | 07&#x2F;27&#x2F;2022 |
 | Batman: One Dark Knight                              | DC Comics                      | 3       | 07&#x2F;26&#x2F;2022 |
@@ -112,18 +115,17 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Action Comics                                        | DC Comics                      | 10      | 07&#x2F;26&#x2F;2022 |
 | I Hate This Place                                    | Skybound                       | 3       | 07&#x2F;27&#x2F;2022 |
 | The Sandman Universe: Nightmare Country              | DC Comics                      | 4       | 07&#x2F;26&#x2F;2022 |
-| Space Riders: Vortex of Darkness                     | Black Mask Studios             | 4       | 07&#x2F;27&#x2F;2022 |
 | Jaywalk                                              | Domino Books                   | 2       | 07&#x2F;27&#x2F;2022 |
 | Kaiju Score: Steal From the Gods                     | AfterShock Comics              | 4       | 07&#x2F;27&#x2F;2022 |
-| The Blue Flame                                       | Vault Comics                   | 9       | 07&#x2F;27&#x2F;2022 |
+| 78 MPH                                               | Red 5                          | 2       | 07&#x2F;27&#x2F;2022 |
 | Book of Shadows                                      | Valiant                        | 1       | 07&#x2F;27&#x2F;2022 |
 | Rick and Morty Presents: Big Dumb Summer Vacation    | Oni Press                      | 1       | 07&#x2F;27&#x2F;2022 |
 | Superman: Space Age                                  | DC Comics                      | 1       | 07&#x2F;26&#x2F;2022 |
 | Batman: Fortress                                     | DC Comics                      | 3       | 07&#x2F;26&#x2F;2022 |
 | Strange Attractors                                   | It&#39;s Alive                     | 14      | 07&#x2F;27&#x2F;2022 |
-| Vanity                                               | Scout Comics                   | 2       | 07&#x2F;27&#x2F;2022 |
+| Ultramax                                             | Source Point Press             | 3       | 07&#x2F;27&#x2F;2022 |
 | Aquamen                                              | DC Comics                      | 6       | 07&#x2F;26&#x2F;2022 |
-| Mindset                                              | Vault Comics                   | 2       | 07&#x2F;27&#x2F;2022 |
+| Walter Lantz Woody Woodpecker                        | Dell                           | 55      | 07&#x2F;26&#x2F;2022 |
 | Something is Killing the Children                    | BOOM! Studios                  | 25      | 07&#x2F;27&#x2F;2022 |
 | Red Sonja                                            | Dynamite                       | 11      | 07&#x2F;27&#x2F;2022 |
 | House of Slaughter                                   | BOOM! Studios                  | 7       | 07&#x2F;27&#x2F;2022 |
