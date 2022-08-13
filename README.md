@@ -23,8 +23,10 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Name                                                         | Publisher                      | Issue # | Date       |
 | ------------------------------------------------------------ | ------------------------------ | ------- | ---------- |
 | 007                                                          | Dynamite                       | 1       | 08&#x2F;10&#x2F;2022 |
+| Once &amp; Future Grail Pack                                     | BOOM! Studios                  | 1       | 08&#x2F;10&#x2F;2022 |
 | Future State: Gotham                                         | DC Comics                      | 16      | 08&#x2F;09&#x2F;2022 |
 | Cities of Magick                                             | Scout Comics                   | 4       | 08&#x2F;10&#x2F;2022 |
+| Rivers of London: Deadly Ever After                          | Titan Books                    | 3       | 08&#x2F;10&#x2F;2022 |
 | Samurai Doggy                                                | AfterShock Comics              | 1       | 08&#x2F;10&#x2F;2022 |
 | I Am Batman                                                  | DC Comics                      | 12      | 08&#x2F;09&#x2F;2022 |
 | Red Sonja: Fairy Tales                                       | Dynamite                       | 1       | 08&#x2F;10&#x2F;2022 |
@@ -32,6 +34,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Astronaut Down                                               | AfterShock Comics              | 3       | 08&#x2F;10&#x2F;2022 |
 | Giant-Size Gwen Stacy                                        | Marvel Comics                  | 1       | 08&#x2F;10&#x2F;2022 |
 | Nubia: Queen of the Amazons                                  | DC Comics                      | 3       | 08&#x2F;09&#x2F;2022 |
+| Grimm Universe Presents Quarterly: Sleeping Beauty           | Zenescope                      | 1       | 08&#x2F;10&#x2F;2022 |
 | Prodigy: The Icarus Society                                  | Image Comics                   | 2       | 08&#x2F;10&#x2F;2022 |
 | Frankenrocker &amp; The Jailbait Punks                           | Bad Kids Press                 | 3       | 08&#x2F;10&#x2F;2022 |
 | Power Rangers                                                | BOOM! Studios                  | 22      | 08&#x2F;10&#x2F;2022 |
@@ -52,7 +55,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Space-Lady                                                   | Behemoth Comics                | 2       | 08&#x2F;10&#x2F;2022 |
 | Bill &amp; Ted: Roll the Dice                                    | Opus Comics                    | 3       | 08&#x2F;10&#x2F;2022 |
 | Archer &amp; Armstrong Forever                                   | Valiant                        | 4       | 08&#x2F;10&#x2F;2022 |
-| Beyond the Beyond                                            | Scout Comics                   | 4       | 08&#x2F;10&#x2F;2022 |
+| Season of the Bruja                                          | Oni Press                      | 5       | 08&#x2F;10&#x2F;2022 |
 | Blade Runner: Black Lotus                                    | Titan Books                    | 1       | 08&#x2F;10&#x2F;2022 |
 | Predator                                                     | Marvel Comics                  | 1       | 08&#x2F;10&#x2F;2022 |
 | Hawk the Slayer                                              | Rebellion                      | 5       | 08&#x2F;10&#x2F;2022 |
@@ -61,14 +64,17 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Naomi: Season Two                                            | DC Comics                      | 6       | 08&#x2F;09&#x2F;2022 |
 | Superman: Son of Kal-El                                      | DC Comics                      | 14      | 08&#x2F;09&#x2F;2022 |
 | Eight Billion Genies                                         | Image Comics                   | 4       | 08&#x2F;10&#x2F;2022 |
+| Más Freak de lo Normal                                      | Other                          | 1       | 08&#x2F;07&#x2F;2022 |
 | Venom: Lethal Protector                                      | Marvel Comics                  | 5       | 08&#x2F;10&#x2F;2022 |
-| Myths and Legends Quarterly                                  | Zenescope                      | 0       | 08&#x2F;10&#x2F;2022 |
 | Draculina                                                    | Dynamite                       | 5       | 08&#x2F;10&#x2F;2022 |
 | The Kill Lock: The Artisan Wraith                            | IDW Publishing                 | 6       | 08&#x2F;10&#x2F;2022 |
 | Starhenge, Book One: The Dragon &amp; The Boar                   | Image Comics                   | 2       | 08&#x2F;10&#x2F;2022 |
+| Hypermutt                                                    | Other                          | 4       | 08&#x2F;10&#x2F;2022 |
 | Dungeons &amp; Dragons Annual 2022                               | IDW Publishing                 | 0       | 08&#x2F;10&#x2F;2022 |
+| 2000 AD                                                      | Rebellion                      | 22      | 08&#x2F;10&#x2F;2022 |
 | The Avengers and Moon Girl                                   | Marvel Comics                  | 1       | 08&#x2F;10&#x2F;2022 |
 | Jurassic League                                              | DC Comics                      | 4       | 08&#x2F;09&#x2F;2022 |
+| Finding Gossamyr                                             | Th3rd World                    | 4       | 08&#x2F;08&#x2F;2022 |
 | The Ward                                                     | Dark Horse Comics              | 3       | 08&#x2F;10&#x2F;2022 |
 | Free Hands                                                   | Other                          | 1       | 08&#x2F;12&#x2F;2022 |
 | Black Panther                                                | Marvel Comics                  | 8       | 08&#x2F;10&#x2F;2022 |
@@ -77,9 +83,10 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Blind Alley                                                  | Behemoth Comics                | 4       | 08&#x2F;10&#x2F;2022 |
 | Absolution                                                   | Artists Writers &amp; Artisans Inc | 2       | 08&#x2F;10&#x2F;2022 |
 | Harley Quinn                                                 | DC Comics                      | 19      | 08&#x2F;09&#x2F;2022 |
+| Escape                                                       | Gatosaurio                     | 0       | 08&#x2F;10&#x2F;2022 |
 | A Town Called Terror                                         | Image Comics                   | 5       | 08&#x2F;10&#x2F;2022 |
+| Relax                                                        | Gatosaurio                     | 0       | 08&#x2F;10&#x2F;2022 |
 | The Deadliest Bouquet                                        | Image Comics                   | 1       | 08&#x2F;10&#x2F;2022 |
-| Rivers of London: Deadly Ever After                          | Titan Books                    | 4       | 08&#x2F;10&#x2F;2022 |
 | Slumber                                                      | Image Comics                   | 6       | 08&#x2F;10&#x2F;2022 |
 | A.X.E.: Judgment Day                                         | Marvel Comics                  | 2       | 08&#x2F;10&#x2F;2022 |
 | Archie &amp; Friends: Thrills and Chills                         | Archie Comics                  | 1       | 08&#x2F;10&#x2F;2022 |
@@ -88,8 +95,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | DCeased: War of the Undead Gods                              | DC Comics                      | 1       | 08&#x2F;09&#x2F;2022 |
 | The Avengers                                                 | Marvel Comics                  | 59      | 08&#x2F;10&#x2F;2022 |
 | Parker Girls                                                 | Abstract Studio                | 1       | 08&#x2F;10&#x2F;2022 |
+| Young Animal                                                 | Other                          | 71      | 08&#x2F;12&#x2F;2022 |
 | Dark Beach                                                   | Behemoth Comics                | 5       | 08&#x2F;10&#x2F;2022 |
-| 2000 AD Sci-Fi Special 2022                                  | Rebellion                      | 0       | 08&#x2F;10&#x2F;2022 |
 | Batman: Urban Legends                                        | DC Comics                      | 18      | 08&#x2F;09&#x2F;2022 |
 | X-Men: Legends                                               | Marvel Comics                  | 1       | 08&#x2F;10&#x2F;2022 |
 | King Spawn                                                   | Image Comics                   | 13      | 08&#x2F;10&#x2F;2022 |
@@ -98,10 +105,12 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Blood Syndicate: Season One                                  | Milestone                      | 4       | 08&#x2F;09&#x2F;2022 |
 | Mindset                                                      | Vault Comics                   | 2       | 08&#x2F;10&#x2F;2022 |
 | There&#39;s Something Wrong with Patrick Todd                    | AfterShock Comics              | 2       | 08&#x2F;10&#x2F;2022 |
-| Phantasmagoria                                               | Scout Comics                   | 1       | 08&#x2F;10&#x2F;2022 |
+| Finding Gossamyr                                             | Th3rd World                    | 2       | 08&#x2F;08&#x2F;2022 |
 | The Amazing Spider-Man                                       | Marvel Comics                  | 7       | 08&#x2F;10&#x2F;2022 |
+| Freakier Than Normal                                         | Other                          | 1       | 08&#x2F;07&#x2F;2022 |
 | Weekly Shonen Jump                                           | Shueisha                       | 26      | 08&#x2F;08&#x2F;2022 |
 | Punisher                                                     | Marvel Comics                  | 5       | 08&#x2F;10&#x2F;2022 |
+| Finding Gossamyr                                             | Th3rd World                    | 3       | 08&#x2F;08&#x2F;2022 |
 | Vampirella: Fairy Tales                                      | Dynamite                       | 1       | 08&#x2F;10&#x2F;2022 |
 
 </details>
