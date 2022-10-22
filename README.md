@@ -37,15 +37,18 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Hellboy in Love                                      | Dark Horse Comics              | 1       | 10&#x2F;19&#x2F;2022 |
 | Trve Kvlt                                            | IDW Publishing                 | 3       | 10&#x2F;19&#x2F;2022 |
 | Batman &#x2F; Superman: World&#39;s Finest                    | DC Comics                      | 8       | 10&#x2F;18&#x2F;2022 |
-| Belle Annual: Depths of Tartarus                     | Zenescope                      | 1       | 10&#x2F;19&#x2F;2022 |
+| Manga Z                                              | Antarctic Press                | 2       | 10&#x2F;19&#x2F;2022 |
 | Black Clover                                         | VIZ Media                      | 34      | 10&#x2F;17&#x2F;2022 |
 | Immortal Red Sonja                                   | Dynamite                       | 7       | 10&#x2F;19&#x2F;2022 |
 | Phantasmagoria                                       | Scout Comics                   | 2       | 10&#x2F;19&#x2F;2022 |
 | Miracleman: The Silver Age                           | Marvel Comics                  | 1       | 10&#x2F;19&#x2F;2022 |
+| Horror Comics                                        | Antarctic Press                | 16      | 10&#x2F;19&#x2F;2022 |
 | Parasomnia: The Dreaming God                         | Dark Horse Comics              | 3       | 10&#x2F;19&#x2F;2022 |
 | The Walking Dead Deluxe                              | Skybound                       | 49      | 10&#x2F;19&#x2F;2022 |
+| Promethee 13:13                                      | Ablaze                         | 4       | 10&#x2F;19&#x2F;2022 |
 | Crypt of Shadows                                     | Marvel Comics                  | 1       | 10&#x2F;19&#x2F;2022 |
 | Deadly Neighborhood Spider-Man                       | Marvel Comics                  | 1       | 10&#x2F;19&#x2F;2022 |
+| Lore Olympus Chapter                                 | LINE Webtoon                   | 21      | 10&#x2F;16&#x2F;2022 |
 | All New Firefly                                      | BOOM! Studios                  | 9       | 10&#x2F;19&#x2F;2022 |
 | Heaven&#39;s Rejects                                     | Source Point Press             | 2       | 10&#x2F;19&#x2F;2022 |
 | Batman: One Bad Day - The Penguin                    | DC Comics                      | 1       | 10&#x2F;18&#x2F;2022 |
@@ -56,6 +59,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Ninja High School                                    | Antarctic Press                | 18      | 10&#x2F;19&#x2F;2022 |
 | Planet Comics                                        | Antarctic Press                | 9       | 10&#x2F;19&#x2F;2022 |
 | The Avengers                                         | Marvel Comics                  | 61      | 10&#x2F;19&#x2F;2022 |
+| Capable                                              | Other                          | 5       | 10&#x2F;19&#x2F;2022 |
 | The Deadliest Bouquet                                | Image Comics                   | 3       | 10&#x2F;19&#x2F;2022 |
 | Moon Knight                                          | Marvel Comics                  | 16      | 10&#x2F;19&#x2F;2022 |
 | Transformers: Best of Grimlock                       | IDW Publishing                 | 1       | 10&#x2F;19&#x2F;2022 |
@@ -69,13 +73,15 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Boruto: Naruto Next Generations                      | VIZ Media                      | 74      | 10&#x2F;20&#x2F;2022 |
 | Weekly Shonen Jump                                   | Shueisha                       | 26      | 10&#x2F;18&#x2F;2022 |
 | X-Men                                                | Marvel Comics                  | 16      | 10&#x2F;19&#x2F;2022 |
+| Espada                                               | Ediciones La Cupula            | 1       | 10&#x2F;18&#x2F;2022 |
 | DC vs. Vampires: All-Out War                         | DC Comics                      | 4       | 10&#x2F;18&#x2F;2022 |
 | Wynd: The Throne in the Sky                          | BOOM! Studios                  | 3       | 10&#x2F;19&#x2F;2022 |
 | Ice Canyon Monster                                   | Blood Moon Comics              | 3       | 10&#x2F;19&#x2F;2022 |
+| Spy x Family                                         | VIZ Media                      | 69      | 10&#x2F;16&#x2F;2022 |
 | Frank Frazetta&#39;s Death Dealer                        | Opus Comics                    | 6       | 10&#x2F;19&#x2F;2022 |
+| Riot Earp                                            | Other                          | 2       | 10&#x2F;19&#x2F;2022 |
 | The Silver Coin                                      | Image Comics                   | 15      | 10&#x2F;19&#x2F;2022 |
 | Catwoman                                             | DC Comics                      | 48      | 10&#x2F;18&#x2F;2022 |
-| Miss Meow                                            | Merc Publishing                | 5       | 10&#x2F;18&#x2F;2022 |
 | Gold Digger                                          | Antarctic Press                | 29      | 10&#x2F;19&#x2F;2022 |
 | The Flash                                            | DC Comics                      | 78      | 10&#x2F;18&#x2F;2022 |
 | Code 45                                              | Scout Comics                   | 4       | 10&#x2F;19&#x2F;2022 |
@@ -94,10 +100,17 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Nita Hawes&#39; Nightmare Blog                           | Image Comics                   | 9       | 10&#x2F;19&#x2F;2022 |
 | Flashpoint Beyond                                    | DC Comics                      | 6       | 10&#x2F;18&#x2F;2022 |
 | Harley Quinn: The Animated Series - Legion of Bats!  | DC Comics                      | 1       | 10&#x2F;18&#x2F;2022 |
+| Samurai 2.0                                          | Antarctic Press                | 2       | 10&#x2F;19&#x2F;2022 |
 | Star Wars: Darth Vader                               | Marvel Comics                  | 28      | 10&#x2F;19&#x2F;2022 |
 | Shirtless Bear-Fighter! 2                            | Image Comics                   | 3       | 10&#x2F;19&#x2F;2022 |
+| Victor Crowley&#39;s Hatchet: Halloween Tales IV         | American Mythology             | 1       | 10&#x2F;19&#x2F;2022 |
+| The Abolition of Man                                 | Living the Line                | 1       | 10&#x2F;19&#x2F;2022 |
 | XIII                                                 | Cinebook                       | 25      | 10&#x2F;20&#x2F;2022 |
+| Horror Comics                                        | Antarctic Press                | 15      | 10&#x2F;19&#x2F;2022 |
+| Schadenfreude                                        | Other                          | 1       | 10&#x2F;17&#x2F;2022 |
 | GCPD: The Blue Wall                                  | DC Comics                      | 1       | 10&#x2F;18&#x2F;2022 |
+| Capable: Harry&#39;s Day                                 | Other                          | 1       | 10&#x2F;19&#x2F;2022 |
+| 2000 AD                                              | Rebellion                      | 23      | 10&#x2F;19&#x2F;2022 |
 | Archie Comics: Big Ethel Energy                      | LINE Webtoon                   | 59      | 10&#x2F;21&#x2F;2022 |
 | Triskele                                             | Scout Comics                   | 5       | 10&#x2F;19&#x2F;2022 |
 | Duo                                                  | Milestone                      | 6       | 10&#x2F;18&#x2F;2022 |
@@ -106,6 +119,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Black Adam                                           | DC Comics                      | 5       | 10&#x2F;18&#x2F;2022 |
 | Dark Crisis: Young Justice                           | DC Comics                      | 5       | 10&#x2F;18&#x2F;2022 |
 | Above Snakes                                         | Image Comics                   | 4       | 10&#x2F;19&#x2F;2022 |
+| Samurai 2.0                                          | Antarctic Press                | 3       | 10&#x2F;19&#x2F;2022 |
 | Titans United: Bloodpact                             | DC Comics                      | 2       | 10&#x2F;18&#x2F;2022 |
 | Alien                                                | Marvel Comics                  | 2       | 10&#x2F;19&#x2F;2022 |
 | Deadly Class                                         | Image Comics                   | 56      | 10&#x2F;19&#x2F;2022 |
@@ -117,6 +131,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Defenders: Beyond                                    | Marvel Comics                  | 4       | 10&#x2F;19&#x2F;2022 |
 | Agent of W.O.R.L.D.E.                                | Scout Comics                   | 3       | 10&#x2F;19&#x2F;2022 |
 | Public Domain                                        | Image Comics                   | 5       | 10&#x2F;19&#x2F;2022 |
+| Unprepped                                            | Antarctic Press                | 3       | 10&#x2F;19&#x2F;2022 |
 | Jujutsu Kaisen                                       | VIZ Media                      | 20      | 10&#x2F;17&#x2F;2022 |
 | Midnight Suns                                        | Marvel Comics                  | 2       | 10&#x2F;19&#x2F;2022 |
 | Grimm Fairy Tales Presents: Horror Pinup 2022        | Zenescope                      | 1       | 10&#x2F;19&#x2F;2022 |
@@ -125,6 +140,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Vampirella Strikes                                   | Dynamite                       | 6       | 10&#x2F;19&#x2F;2022 |
 | Mindset                                              | Vault Comics                   | 4       | 10&#x2F;19&#x2F;2022 |
 | Predator                                             | Marvel Comics                  | 3       | 10&#x2F;19&#x2F;2022 |
+| Judge Dredd: Megazine                                | Rebellion                      | 44      | 10&#x2F;19&#x2F;2022 |
 | The Marked: Halloween Special                        | Image Comics                   | 1       | 10&#x2F;19&#x2F;2022 |
 | Jungle Comics                                        | Antarctic Press                | 8       | 10&#x2F;19&#x2F;2022 |
 | The Bone Orchard Mythos: Ten Thousand Black Feathers | Image Comics                   | 2       | 10&#x2F;19&#x2F;2022 |
