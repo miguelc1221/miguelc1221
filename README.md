@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Mc1221-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mc1221/)](https://www.linkedin.com/in/mc1221/)
 [![Twitter Badge](https://img.shields.io/badge/Miguelc1221-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/miguelc1221)](https://twitter.com/miguelc1221) 
-[![Website Badge](https://img.shields.io/badge/Website-Miguelc1221-01949a)](https://miguelc1221.dev) 
+[![Website Badge](https://img.shields.io/badge/Website-MiguelCorrea-01949a)](https://miguelcorrea.dev) 
 ![](https://komarev.com/ghpvc/?username=miguelc1221&color=01949a) 
 
 ---
