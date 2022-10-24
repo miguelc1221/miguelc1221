@@ -1,4 +1,4 @@
-<img width="100%" alt="Miguel Correa title image" src="./assets/header.svg">
+<img width="100%" alt="Miguel Correa title image" src="./assets/header1.svg">
 
 [![Linkedin Badge](https://img.shields.io/badge/Mc1221-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mc1221/)](https://www.linkedin.com/in/mc1221/)
 [![Twitter Badge](https://img.shields.io/badge/Miguelc1221-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/miguelc1221)](https://twitter.com/miguelc1221) 
