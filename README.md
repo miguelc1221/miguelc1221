@@ -1,14 +1,14 @@
-<img width="100%" alt="Miguel Correa title image" src="./assets/header.png">
+<img width="100%" alt="Miguel Correa title image" src="./assets/header.svg">
 
 [![Linkedin Badge](https://img.shields.io/badge/Mc1221-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mc1221/)](https://www.linkedin.com/in/mc1221/)
 [![Twitter Badge](https://img.shields.io/badge/Miguelc1221-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/miguelc1221)](https://twitter.com/miguelc1221) 
 [![Website Badge](https://img.shields.io/badge/Website-Miguelc1221-01949a)](https://miguelc1221.dev) 
-![](https://komarev.com/ghpvc/?username=miguelc1221&color=01949a)
+![](https://komarev.com/ghpvc/?username=miguelc1221&color=01949a) 
 
 ---
 I’m a Front-End Developer with a passion for creating attractive user-friendly applications. I have a great deal of interest in all things JavaScript and UI/UX design despite the fact I am not a designer **yet**. This year I plan on writing more and hopefully getting over my fear of public speaking 😧.
 
-<img width="100%" alt="Interests title image" src="./assets/interests.png">
+<img width="100%" alt="Interests title image" src="./assets/interests.svg">
 
 - Reading Comics and Manga 
 - Collecting [Sixth Scale Figures](https://www.sideshow.com/)
@@ -17,7 +17,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 - Biking
 - Weight training
 
-<img width="100%" alt="Interests title image" src="./assets/comics.png">
+<img width="100%" alt="Interests title image" src="./assets/comics.svg">
 
 <details>
   <summary>Comics (Click to expand)</summary>
