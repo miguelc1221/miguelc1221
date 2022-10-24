@@ -7,7 +7,7 @@
 					font-size: 16px;
 					text-align: center;
 					color: white;
-					background-color: rgb(255, 255, 255);
+					background-color: #f8fafc;
 					border-radius: 10px;
 					display: flex;
 					flex-direction: column;

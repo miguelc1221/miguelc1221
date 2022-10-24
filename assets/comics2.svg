@@ -6,7 +6,7 @@
 					font-family: system-ui, -apple-system,'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
 					text-align: center;
 					color: white;
-					background-color: rgb(255, 255, 255);
+					background-color: #f8fafc;
 					border-radius: 10px;
 					display: flex;
 					flex-direction: column;
