@@ -30,6 +30,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Soulfire: The Core                                              | Aspen Comics                   | 1       | 10&#x2F;26&#x2F;2022 |
 | Criminal Macabre &#x2F; Count Crowley: From the Pit They Came        | Dark Horse Comics              | 1       | 10&#x2F;26&#x2F;2022 |
 | Thunderbolts                                                    | Marvel Comics                  | 3       | 10&#x2F;26&#x2F;2022 |
+| Covenant                                                        | LINE Webtoon                   | 64      | 10&#x2F;23&#x2F;2022 |
+| 2000 AD                                                         | Rebellion                      | 23      | 10&#x2F;26&#x2F;2022 |
 | Helloween: Seekers of the Seven Keys                            | Opus Comics                    | 1       | 10&#x2F;26&#x2F;2022 |
 | Mech Strike: Monster Hunters                                    | Marvel Comics                  | 5       | 10&#x2F;26&#x2F;2022 |
 | 20th Century Men                                                | Image Comics                   | 3       | 10&#x2F;26&#x2F;2022 |
@@ -39,6 +41,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Lore Olympus Chapter                                            | LINE Webtoon                   | 21      | 10&#x2F;23&#x2F;2022 |
 | Nightfall Double Feature                                        | Vault Comics                   | 1       | 10&#x2F;26&#x2F;2022 |
 | Eternal Descent                                                 | Opus Comics                    | 1       | 10&#x2F;26&#x2F;2022 |
+| The Wicked: Medusa&#39;s Tale                                       | Image Comics                   | 1       | 10&#x2F;26&#x2F;2022 |
 | Mighty Morphin Power Rangers                                    | BOOM! Studios                  | 10      | 10&#x2F;26&#x2F;2022 |
 | Catwoman: Lonely City                                           | DC Comics                      | 4       | 10&#x2F;25&#x2F;2022 |
 | My Hero Academia                                                | VIZ Media                      | 37      | 10&#x2F;23&#x2F;2022 |
@@ -47,16 +50,21 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Young Justice: Targets                                          | DC Comics                      | 4       | 10&#x2F;25&#x2F;2022 |
 | The Human Target                                                | DC Comics                      | 8       | 10&#x2F;25&#x2F;2022 |
 | Barbaric: Axe to Grind                                          | Vault Comics                   | 3       | 10&#x2F;26&#x2F;2022 |
+| Ведьма                                                          | Bubble Comics                  | 1       | 10&#x2F;24&#x2F;2022 |
+| Dungeons &amp; Dragons: Vecna Hand of the Revenant                  | Other                          | 1       | 10&#x2F;26&#x2F;2022 |
 | The Return of Chilling Adventures in Sorcery                    | Archie Comics                  | 1       | 10&#x2F;26&#x2F;2022 |
 | Ice Canyon Monster                                              | Blood Moon Comics              | 4       | 10&#x2F;26&#x2F;2022 |
 | Aliengaged                                                      | Literati Press                 | 2       | 10&#x2F;26&#x2F;2022 |
 | Weekly Shonen Jump                                              | Shueisha                       | 26      | 10&#x2F;25&#x2F;2022 |
+| Калигари. Дурман                                                | Bubble Comics                  | 1       | 10&#x2F;24&#x2F;2022 |
 | Space-Lady                                                      | Behemoth Comics                | 4       | 10&#x2F;26&#x2F;2022 |
 | Batman: Gotham Knights – Gilded City                            | DC Comics                      | 1       | 10&#x2F;25&#x2F;2022 |
 | Bill &amp; Ted: Roll the Dice                                       | Opus Comics                    | 4       | 10&#x2F;26&#x2F;2022 |
 | Deathstroke Inc.                                                | DC Comics                      | 14      | 10&#x2F;25&#x2F;2022 |
 | DC: Mech                                                        | DC Comics                      | 4       | 10&#x2F;25&#x2F;2022 |
+| Even If You Slit My Mouth Chapter                               | Shueisha                       | 53      | 10&#x2F;24&#x2F;2022 |
 | Sins of the Black Flamingo                                      | Image Comics                   | 5       | 10&#x2F;26&#x2F;2022 |
+| Rooftops &amp; Roommates                                            | LINE Webtoon                   | 11      | 10&#x2F;28&#x2F;2022 |
 | Heavy Metal                                                     | Heavy Metal                    | 32      | 10&#x2F;26&#x2F;2022 |
 | Cradle of Filth : Maledictus Athenaeum                          | Opus Comics                    | 4       | 10&#x2F;26&#x2F;2022 |
 | Wild Cards: The Drawing of Cards                                | Marvel Comics                  | 4       | 10&#x2F;26&#x2F;2022 |
@@ -66,10 +74,12 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Punchline: The Gotham Game                                      | DC Comics                      | 1       | 10&#x2F;25&#x2F;2022 |
 | A.X.E.: Judgment Day                                            | Marvel Comics                  | 6       | 10&#x2F;26&#x2F;2022 |
 | Action Comics                                                   | DC Comics                      | 10      | 10&#x2F;25&#x2F;2022 |
+| The Elusive Samurai                                             | VIZ Media                      | 83      | 10&#x2F;23&#x2F;2022 |
 | House of Slaughter                                              | BOOM! Studios                  | 10      | 10&#x2F;26&#x2F;2022 |
 | Image!                                                          | Image Comics                   | 7       | 10&#x2F;26&#x2F;2022 |
 | Redman                                                          | Behemoth Comics                | 5       | 10&#x2F;26&#x2F;2022 |
 | Creepshow                                                       | Skybound                       | 2       | 10&#x2F;26&#x2F;2022 |
+| Be My Villain                                                   | LINE Webtoon                   | 42      | 10&#x2F;28&#x2F;2022 |
 | Tarot: Witch of the Black Rose                                  | BroadSword Comics              | 13      | 10&#x2F;26&#x2F;2022 |
 | Rogues&#39; Gallery                                                 | Image Comics                   | 4       | 10&#x2F;26&#x2F;2022 |
 | Harley Quinn                                                    | DC Comics                      | 23      | 10&#x2F;25&#x2F;2022 |
@@ -79,6 +89,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Samurai Sonja                                                   | Dynamite                       | 5       | 10&#x2F;26&#x2F;2022 |
 | Vanish                                                          | Image Comics                   | 2       | 10&#x2F;26&#x2F;2022 |
 | Crystal Planet                                                  | Opus Comics                    | 4       | 10&#x2F;26&#x2F;2022 |
+| Shadow Bride                                                    | LINE Webtoon                   | 83      | 10&#x2F;27&#x2F;2022 |
 | Strange                                                         | Marvel Comics                  | 7       | 10&#x2F;26&#x2F;2022 |
 | Bloodshot Unleashed                                             | Valiant                        | 2       | 10&#x2F;26&#x2F;2022 |
 | Hell&#39;o Dali                                                     | Aardvark-Vanaheim              | 1       | 10&#x2F;26&#x2F;2022 |
@@ -88,7 +99,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Ultraman: The Mystery of Ultraseven                             | Marvel Comics                  | 3       | 10&#x2F;26&#x2F;2022 |
 | Blink                                                           | Oni Press                      | 4       | 10&#x2F;26&#x2F;2022 |
 | Al Dente                                                        | Silver Sprocket                | 1       | 10&#x2F;26&#x2F;2022 |
-| Bloodfire: For God &amp; Country                                    | Blood Moon Comics              | 1       | 10&#x2F;26&#x2F;2022 |
 | Justice Warriors                                                | Ahoy Comics                    | 5       | 10&#x2F;26&#x2F;2022 |
 | The Variants                                                    | Marvel Comics                  | 4       | 10&#x2F;26&#x2F;2022 |
 | Batman: Fortress                                                | DC Comics                      | 6       | 10&#x2F;25&#x2F;2022 |
@@ -99,6 +109,7 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Damn Them All                                                   | BOOM! Studios                  | 1       | 10&#x2F;26&#x2F;2022 |
 | Tim Drake: Robin                                                | DC Comics                      | 2       | 10&#x2F;25&#x2F;2022 |
 | X-Men: Legends                                                  | Marvel Comics                  | 3       | 10&#x2F;26&#x2F;2022 |
+| Rooftops &amp; Roommates                                            | LINE Webtoon                   | 11      | 10&#x2F;24&#x2F;2022 |
 | Marvel Previews                                                 | Marvel Comics                  | 14      | 10&#x2F;26&#x2F;2022 |
 | Dead Mall                                                       | Dark Horse Comics              | 1       | 10&#x2F;26&#x2F;2022 |
 | Sara Lone                                                       | Sumerian Comics                | 1       | 10&#x2F;26&#x2F;2022 |
@@ -113,8 +124,10 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Venom                                                           | Marvel Comics                  | 12      | 10&#x2F;26&#x2F;2022 |
 | Boogyman                                                        | Ablaze                         | 2       | 10&#x2F;26&#x2F;2022 |
 | Godzilla: Best of Mothra                                        | IDW Publishing                 | 1       | 10&#x2F;26&#x2F;2022 |
+| Demon Apartment                                                 | Bilibili Comics                | 73      | 10&#x2F;24&#x2F;2022 |
 | Riddler: Year One                                               | DC Comics                      | 1       | 10&#x2F;25&#x2F;2022 |
 | The Vampire Slayer                                              | BOOM! Studios                  | 7       | 10&#x2F;26&#x2F;2022 |
+| Реки                                                            | Bubble Comics                  | 1       | 10&#x2F;24&#x2F;2022 |
 | Flawed                                                          | Image Comics                   | 2       | 10&#x2F;26&#x2F;2022 |
 | Grimm Universe Presents Quarterly: Halloween                    | Zenescope                      | 1       | 10&#x2F;26&#x2F;2022 |
 | New Mutants                                                     | Marvel Comics                  | 31      | 10&#x2F;26&#x2F;2022 |
@@ -136,6 +149,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | A Guardian                                                      | Source Point Press             | 1       | 10&#x2F;26&#x2F;2022 |
 | Wolverine                                                       | Marvel Comics                  | 26      | 10&#x2F;26&#x2F;2022 |
 | Mega Centurions                                                 | Scout Comics                   | 4       | 10&#x2F;26&#x2F;2022 |
+| Mr. Easta                                                       | Scout Comics                   | 1       | 10&#x2F;26&#x2F;2022 |
+| Naruto: Konoha&#39;s Story - The Steam Ninja Scrolls - The Manga    | VIZ Media                      | 1       | 10&#x2F;28&#x2F;2022 |
 | We Only Find Them When They&#39;re Dead                             | BOOM! Studios                  | 14      | 10&#x2F;26&#x2F;2022 |
 | Star Trek                                                       | IDW Publishing                 | 1       | 10&#x2F;26&#x2F;2022 |
 | World of Archie Jumbo Comics Digest                             | Archie Comics                  | 12      | 10&#x2F;26&#x2F;2022 |
