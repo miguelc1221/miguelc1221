@@ -22,142 +22,95 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 <details>
   <summary>Comics (Click to expand)</summary>
 
-| Name                                                                     | Publisher                      | Issue # | Date       |
-| ------------------------------------------------------------------------ | ------------------------------ | ------- | ---------- |
-| Transit                                                                  | Star Fruit Books               | 0       | 12&#x2F;31&#x2F;2022 |
-| Burning Man                                                              | Bad Idea Comics                | 1       | 12&#x2F;28&#x2F;2022 |
-| Young Justice: Targets                                                   | DC Comics                      | 6       | 12&#x2F;27&#x2F;2022 |
-| Jungle Comics                                                            | Antarctic Press                | 10      | 12&#x2F;28&#x2F;2022 |
-| Miracleman by Gaiman &amp; Buckingham: The Silver Age                        | Marvel Comics                  | 3       | 12&#x2F;28&#x2F;2022 |
-| Aliengaged                                                               | Literati Press                 | 3       | 12&#x2F;28&#x2F;2022 |
-| Becoming Frankenstein                                                    | Other                          | 5       | 12&#x2F;28&#x2F;2022 |
-| World War 3: Raid on Tokyo                                               | Antarctic Press                | 1       | 12&#x2F;28&#x2F;2022 |
-| Maeve Rising Warrior                                                     | Red 5                          | 1       | 12&#x2F;28&#x2F;2022 |
-| Ascencia                                                                 | Wake Entertainment             | 15      | 12&#x2F;28&#x2F;2022 |
-| The Unwanted                                                             | Other                          | 2       | 12&#x2F;28&#x2F;2022 |
-| Exciting Comics                                                          | Antarctic Press                | 28      | 12&#x2F;28&#x2F;2022 |
-| Spy x Family                                                             | VIZ Media                      | 73      | 12&#x2F;25&#x2F;2022 |
-| DC Horror Presents: Sgt. Rock vs. The Army of the Dead                   | DC Comics                      | 4       | 12&#x2F;27&#x2F;2022 |
-| Carnage                                                                  | Marvel Comics                  | 8       | 12&#x2F;28&#x2F;2022 |
-| But is it...Comic Aht?                                                   | Domino Books                   | 4       | 12&#x2F;31&#x2F;2022 |
-| Pink Lemonade                                                            | Oni Press                      | 4       | 12&#x2F;28&#x2F;2022 |
-| The Atonement Bell                                                       | Red 5                          | 2       | 12&#x2F;28&#x2F;2022 |
-| Category Zero Conflict                                                   | Scout Comics                   | 1       | 12&#x2F;28&#x2F;2022 |
-| Star Wars: Yoda                                                          | Marvel Comics                  | 2       | 12&#x2F;28&#x2F;2022 |
-| Murderworld: Spider-Man                                                  | Marvel Comics                  | 1       | 12&#x2F;28&#x2F;2022 |
-| Moon Knight                                                              | Marvel Comics                  | 18      | 12&#x2F;28&#x2F;2022 |
-| Manifest Destiny                                                         | Skybound                       | 48      | 12&#x2F;28&#x2F;2022 |
-| X-Terminators                                                            | Marvel Comics                  | 4       | 12&#x2F;28&#x2F;2022 |
-| Saga of a Doomed Universe                                                | Comics Experience Publishing   | 2       | 12&#x2F;28&#x2F;2022 |
-| Batman: Gotham Knights - Gilded City                                     | DC Comics                      | 3       | 12&#x2F;27&#x2F;2022 |
-| Manga Z                                                                  | Antarctic Press                | 5       | 12&#x2F;28&#x2F;2022 |
-| Roachmill                                                                | It&#39;s Alive                     | 2       | 12&#x2F;28&#x2F;2022 |
-| Immortal Red Sonja                                                       | Dynamite                       | 9       | 12&#x2F;28&#x2F;2022 |
-| Batman: Beyond the White Knight                                          | DC Comics                      | 7       | 12&#x2F;27&#x2F;2022 |
-| Damn Them All                                                            | BOOM! Studios                  | 3       | 12&#x2F;28&#x2F;2022 |
-| The Ninjettes                                                            | Dynamite                       | 4       | 12&#x2F;28&#x2F;2022 |
-| Sulfur Wells                                                             | Blood Moon Comics              | 5       | 12&#x2F;28&#x2F;2022 |
-| Book of Slaughter                                                        | BOOM! Studios                  | 1       | 12&#x2F;28&#x2F;2022 |
-| Star Wars: Doctor Aphra                                                  | Marvel Comics                  | 27      | 12&#x2F;28&#x2F;2022 |
-| Tim Drake: Robin                                                         | DC Comics                      | 4       | 12&#x2F;27&#x2F;2022 |
-| No, Nothing. Magazine                                                    | Other                          | 43      | 12&#x2F;28&#x2F;2022 |
-| Grimm Fairy Tales                                                        | Zenescope                      | 67      | 12&#x2F;28&#x2F;2022 |
-| Sour Apple Green                                                         | Strangers Fanzine              | 0       | 12&#x2F;30&#x2F;2022 |
-| Captain America: Symbol of Truth                                         | Marvel Comics                  | 8       | 12&#x2F;28&#x2F;2022 |
-| Chainsaw Man                                                             | VIZ Media                      | 11      | 12&#x2F;27&#x2F;2022 |
-| DC vs. Vampires                                                          | DC Comics                      | 12      | 12&#x2F;27&#x2F;2022 |
-| Mortimer the Lazy Bird                                                   | Scout Comics                   | 1       | 12&#x2F;28&#x2F;2022 |
-| Divide                                                                   | Comics Experience Publishing   | 1       | 12&#x2F;28&#x2F;2022 |
-| Blink                                                                    | Oni Press                      | 5       | 12&#x2F;28&#x2F;2022 |
-| Like Wind on a Dry Branch                                                | LINE Webtoon                   | 10      | 12&#x2F;31&#x2F;2022 |
-| Killadelphia                                                             | Image Comics                   | 26      | 12&#x2F;28&#x2F;2022 |
-| Super &#39;Suckers Binge Book                                                | Sitcomics                      | 4       | 12&#x2F;28&#x2F;2022 |
-| Helloween: Seekers of the Seven Keys                                     | Opus Comics                    | 3       | 12&#x2F;28&#x2F;2022 |
-| Impossible Jones: Naughty or Nice                                        | Scout Comics                   | 1       | 12&#x2F;28&#x2F;2022 |
-| Ninja High School                                                        | Antarctic Press                | 18      | 12&#x2F;28&#x2F;2022 |
-| His Name is Wrath                                                        | Bad Bug Media                  | 3       | 12&#x2F;25&#x2F;2022 |
-| Dark Web: X-Men                                                          | Marvel Comics                  | 2       | 12&#x2F;28&#x2F;2022 |
-| Timeless                                                                 | Marvel Comics                  | 1       | 12&#x2F;28&#x2F;2022 |
-| Dead Kingdom                                                             | Red 5                          | 3       | 12&#x2F;28&#x2F;2022 |
-| Door to Door Night by Night                                              | Vault Comics                   | 2       | 12&#x2F;28&#x2F;2022 |
-| X-Treme X-Men                                                            | Marvel Comics                  | 2       | 12&#x2F;28&#x2F;2022 |
-| Mighty Morphin Power Rangers &#x2F; Teenage Mutant Ninja Turtles II           | BOOM! Studios                  | 1       | 12&#x2F;28&#x2F;2022 |
-| Night of the Living Dead: Revenance                                      | American Mythology             | 2       | 12&#x2F;28&#x2F;2022 |
-| Giant-Size Aardvark-Vanaheim Three-Wheeler Long-Winded Title Logo Annual | Aardvark-Vanaheim              | 1       | 12&#x2F;28&#x2F;2022 |
-| She Bites                                                                | Scout Comics                   | 3       | 12&#x2F;28&#x2F;2022 |
-| The Nice House on the Lake                                               | DC Comics                      | 12      | 12&#x2F;27&#x2F;2022 |
-| Action Comics                                                            | DC Comics                      | 10      | 12&#x2F;27&#x2F;2022 |
-| My Bad                                                                   | Ahoy Comics                    | 2       | 12&#x2F;28&#x2F;2022 |
-| Blue Beetle: Graduation Day                                              | DC Comics                      | 2       | 12&#x2F;27&#x2F;2022 |
-| War Party                                                                | Other                          | 1       | 12&#x2F;28&#x2F;2022 |
-| New Mutants                                                              | Marvel Comics                  | 33      | 12&#x2F;28&#x2F;2022 |
-| Duel                                                                     | Bliss On Tap Publishing        | 4       | 12&#x2F;28&#x2F;2022 |
-| Quick Stops                                                              | Dark Horse Comics              | 3       | 12&#x2F;28&#x2F;2022 |
-| The Amazing Spider-Man                                                   | Marvel Comics                  | 16      | 12&#x2F;28&#x2F;2022 |
-| We Only Find Them When They&#39;re Dead                                      | BOOM! Studios                  | 15      | 12&#x2F;28&#x2F;2022 |
-| Star Wars: The High Republic - The Blade                                 | Marvel Comics                  | 1       | 12&#x2F;28&#x2F;2022 |
-| Detective Comics                                                         | DC Comics                      | 10      | 12&#x2F;27&#x2F;2022 |
-| Star Wars: The High Republic                                             | Marvel Comics                  | 3       | 12&#x2F;28&#x2F;2022 |
-| All-Out Avengers                                                         | Marvel Comics                  | 4       | 12&#x2F;28&#x2F;2022 |
-| Peter Parker &amp; Miles Morales - Spider-Men: Double Trouble                | Marvel Comics                  | 2       | 12&#x2F;28&#x2F;2022 |
-| Gun-Metal Affair                                                         | Strangers Fanzine              | 0       | 12&#x2F;30&#x2F;2022 |
-| Jujutsu Kaisen                                                           | VIZ Media                      | 20      | 12&#x2F;25&#x2F;2022 |
-| Deadly Neighborhood Spider-Man                                           | Marvel Comics                  | 3       | 12&#x2F;28&#x2F;2022 |
-| Lovesick                                                                 | Image Comics                   | 3       | 12&#x2F;28&#x2F;2022 |
-| Year Zero: Volume 0                                                      | Artists Writers &amp; Artisans Inc | 3       | 12&#x2F;28&#x2F;2022 |
-| Star Wars: Han Solo &amp; Chewbacca                                          | Marvel Comics                  | 8       | 12&#x2F;28&#x2F;2022 |
-| Image!                                                                   | Image Comics                   | 9       | 12&#x2F;28&#x2F;2022 |
-| Stabbity Bunny                                                           | Scout Comics                   | 12      | 12&#x2F;28&#x2F;2022 |
-| Flawed                                                                   | Image Comics                   | 4       | 12&#x2F;28&#x2F;2022 |
-| King Spawn                                                               | Image Comics                   | 18      | 12&#x2F;28&#x2F;2022 |
-| August Purgatory Underground                                             | Red 5                          | 4       | 12&#x2F;28&#x2F;2022 |
-| Bloodshot Unleashed                                                      | Valiant                        | 4       | 12&#x2F;28&#x2F;2022 |
-| She-Hulk                                                                 | Marvel Comics                  | 9       | 12&#x2F;28&#x2F;2022 |
-| Midnight Suns                                                            | Marvel Comics                  | 4       | 12&#x2F;28&#x2F;2022 |
-| West of Sundown                                                          | Vault Comics                   | 7       | 12&#x2F;28&#x2F;2022 |
-| Strange Academy: Finals                                                  | Marvel Comics                  | 3       | 12&#x2F;28&#x2F;2022 |
-| Forever Forward                                                          | Scout Comics                   | 4       | 12&#x2F;28&#x2F;2022 |
-| 20th Century Men                                                         | Image Comics                   | 5       | 12&#x2F;28&#x2F;2022 |
-| 007                                                                      | Dynamite                       | 5       | 12&#x2F;28&#x2F;2022 |
-| The Sandman Universe: The Dead Boy Detectives                            | DC Comics                      | 1       | 12&#x2F;27&#x2F;2022 |
-| Tales from Earth-6: A Celebration of Stan Lee                            | DC Comics                      | 1       | 12&#x2F;27&#x2F;2022 |
-| Wonder Woman Historia: The Amazons                                       | DC Comics                      | 3       | 12&#x2F;27&#x2F;2022 |
-| Frankenstein: New World                                                  | Dark Horse Comics              | 4       | 12&#x2F;28&#x2F;2022 |
-| John Stewart: The Emerald Knight                                         | DC Comics                      | 1       | 12&#x2F;27&#x2F;2022 |
-| Alpha Betas                                                              | Whatnot Publishing             | 3       | 12&#x2F;28&#x2F;2022 |
-| Doctor Strange: Fall Sunrise                                             | Marvel Comics                  | 2       | 12&#x2F;28&#x2F;2022 |
-| Thud: Double Vision                                                      | Scout Comics                   | 3       | 12&#x2F;28&#x2F;2022 |
-| Copra                                                                    | Copra Press                    | 44      | 12&#x2F;28&#x2F;2022 |
-| Planet Comics                                                            | Antarctic Press                | 12      | 12&#x2F;28&#x2F;2022 |
-| Plush                                                                    | Image Comics                   | 2       | 12&#x2F;28&#x2F;2022 |
-| Tarot: Witch of the Black Rose                                           | BroadSword Comics              | 13      | 12&#x2F;28&#x2F;2022 |
-| Thunderbolts                                                             | Marvel Comics                  | 5       | 12&#x2F;28&#x2F;2022 |
-| Black Clover                                                             | VIZ Media                      | 34      | 12&#x2F;25&#x2F;2022 |
-| Gold Digger                                                              | Antarctic Press                | 29      | 12&#x2F;28&#x2F;2022 |
-| Shang-Chi and the Ten Rings                                              | Marvel Comics                  | 6       | 12&#x2F;28&#x2F;2022 |
-| Punchline: The Gotham Game                                               | DC Comics                      | 3       | 12&#x2F;27&#x2F;2022 |
-| Love and Capes: Home For the Holidays                                    | Maerkle Comics                 | 1       | 12&#x2F;28&#x2F;2022 |
-| Room Service                                                             | Other                          | 1       | 12&#x2F;31&#x2F;2022 |
-| Red Winter: Fallout                                                      | Scout Comics                   | 1       | 12&#x2F;28&#x2F;2022 |
-| The Riddler: Year One                                                    | DC Comics                      | 2       | 12&#x2F;27&#x2F;2022 |
-| Batman: The Audio Adventures                                             | DC Comics                      | 4       | 12&#x2F;27&#x2F;2022 |
-| Once Upon a Time at the End of the World                                 | BOOM! Studios                  | 2       | 12&#x2F;28&#x2F;2022 |
-| Tangled River                                                            | It&#39;s Alive                     | 5       | 12&#x2F;28&#x2F;2022 |
-| My Hero Academia                                                         | VIZ Media                      | 37      | 12&#x2F;25&#x2F;2022 |
-| Dragon Whisperer: The Search For Obsidian                                | Red 5                          | 5       | 12&#x2F;28&#x2F;2022 |
-| Delphinium                                                               | Strangers Fanzine              | 1       | 12&#x2F;30&#x2F;2022 |
-| Harley Quinn                                                             | DC Comics                      | 25      | 12&#x2F;27&#x2F;2022 |
-| Sacrament                                                                | Artists Writers &amp; Artisans Inc | 5       | 12&#x2F;28&#x2F;2022 |
-| Strange Attractors                                                       | It&#39;s Alive                     | 8       | 12&#x2F;28&#x2F;2022 |
-| Bill &amp; Ted&#39;s Excellent Holiday Special                                   | Opus Comics                    | 1       | 12&#x2F;28&#x2F;2022 |
-| Divide                                                                   | Comics Experience Publishing   | 2       | 12&#x2F;28&#x2F;2022 |
-| Sparks of Chaos                                                          | Comics Experience Publishing   | 3       | 12&#x2F;28&#x2F;2022 |
-| Creepshow                                                                | Skybound                       | 4       | 12&#x2F;28&#x2F;2022 |
-| DC: Mech                                                                 | DC Comics                      | 6       | 12&#x2F;27&#x2F;2022 |
-| A Guardian                                                               | Source Point Press             | 3       | 12&#x2F;28&#x2F;2022 |
-| Saga of a Doomed Universe                                                | Comics Experience Publishing   | 3       | 12&#x2F;28&#x2F;2022 |
-| The Roadie                                                               | Dark Horse Comics              | 4       | 12&#x2F;28&#x2F;2022 |
-| Archie Jumbo Comics Digest                                               | Archie Comics                  | 33      | 12&#x2F;28&#x2F;2022 |
-| Venom                                                                    | Marvel Comics                  | 14      | 12&#x2F;28&#x2F;2022 |
+| Name                                                             | Publisher                      | Issue # | Date       |
+| ---------------------------------------------------------------- | ------------------------------ | ------- | ---------- |
+| Red Winter: Fallout                                              | Scout Comics                   | 2       | 01&#x2F;04&#x2F;2023 |
+| Shang-Chi: Master of the Ten Rings                               | Marvel Comics                  | 1       | 01&#x2F;04&#x2F;2023 |
+| Grit N Gears                                                     | Blood Moon Comics              | 1       | 01&#x2F;04&#x2F;2023 |
+| The Avengers                                                     | Marvel Comics                  | 64      | 01&#x2F;04&#x2F;2023 |
+| Robyn Hood: Dagon                                                | Zenescope                      | 1       | 01&#x2F;04&#x2F;2023 |
+| Punchline Special                                                | Antarctic Press                | 1       | 01&#x2F;04&#x2F;2023 |
+| Batman                                                           | DC Comics                      | 13      | 01&#x2F;03&#x2F;2023 |
+| Secret Invasion                                                  | Marvel Comics                  | 3       | 01&#x2F;04&#x2F;2023 |
+| The Magic Order 3                                                | Image Comics                   | 6       | 01&#x2F;04&#x2F;2023 |
+| Earthdivers                                                      | IDW Publishing                 | 4       | 01&#x2F;04&#x2F;2023 |
+| Star Trek                                                        | IDW Publishing                 | 3       | 01&#x2F;04&#x2F;2023 |
+| Fantastic Four                                                   | Marvel Comics                  | 3       | 01&#x2F;04&#x2F;2023 |
+| Eternal Descent                                                  | Opus Comics                    | 3       | 01&#x2F;04&#x2F;2023 |
+| Escape from Wyoming                                              | Bad Idea Comics                | 3       | 01&#x2F;04&#x2F;2023 |
+| Batman: Knightwatch                                              | DC Comics                      | 5       | 01&#x2F;03&#x2F;2023 |
+| Black Clover                                                     | VIZ Media                      | 34      | 01&#x2F;06&#x2F;2023 |
+| Strange Attractors                                               | It&#39;s Alive                     | 7       | 01&#x2F;04&#x2F;2023 |
+| My Little Pony                                                   | IDW Publishing                 | 8       | 01&#x2F;04&#x2F;2023 |
+| Dark Knights of Steel                                            | DC Comics                      | 9       | 01&#x2F;03&#x2F;2023 |
+| Parker Girls                                                     | Abstract Studio                | 4       | 01&#x2F;04&#x2F;2023 |
+| Poison Ivy                                                       | DC Comics                      | 8       | 01&#x2F;03&#x2F;2023 |
+| Emo Girl                                                         | Blacktooth Comics              | 4       | 01&#x2F;04&#x2F;2023 |
+| Captain America: Sentinel of Liberty                             | Marvel Comics                  | 8       | 01&#x2F;04&#x2F;2023 |
+| Unnatural: Blue Blood                                            | Image Comics                   | 5       | 01&#x2F;04&#x2F;2023 |
+| Betty and Veronica Jumbo Comics Digest                           | Archie Comics                  | 31      | 01&#x2F;04&#x2F;2023 |
+| Spawn                                                            | Image Comics                   | 33      | 01&#x2F;04&#x2F;2023 |
+| Marvel Previews                                                  | Marvel Comics                  | 16      | 01&#x2F;04&#x2F;2023 |
+| Teenage Mutant Ninja Turtles: The Armageddon Game - The Alliance | IDW Publishing                 | 3       | 01&#x2F;04&#x2F;2023 |
+| Reignbow the Brute                                               | Other                          | 1       | 01&#x2F;01&#x2F;2023 |
+| Roachmill                                                        | It&#39;s Alive                     | 3       | 01&#x2F;04&#x2F;2023 |
+| X-Men: Red                                                       | Marvel Comics                  | 10      | 01&#x2F;04&#x2F;2023 |
+| Horror Comics                                                    | Antarctic Press                | 18      | 01&#x2F;04&#x2F;2023 |
+| Scarlet Witch                                                    | Marvel Comics                  | 1       | 01&#x2F;04&#x2F;2023 |
+| Gangster Ass Barista                                             | Black Mask Studios             | 1       | 01&#x2F;04&#x2F;2023 |
+| Kaya                                                             | Image Comics                   | 4       | 01&#x2F;04&#x2F;2023 |
+| Rick and Morty vs. Cthulhu                                       | Oni Press                      | 2       | 01&#x2F;04&#x2F;2023 |
+| Sonic the Hedgehog                                               | IDW Publishing                 | 56      | 01&#x2F;04&#x2F;2023 |
+| Nita Hawes&#39; Nightmare Blog                                       | Image Comics                   | 11      | 01&#x2F;04&#x2F;2023 |
+| Astronaut Down                                                   | AfterShock Comics              | 5       | 01&#x2F;04&#x2F;2023 |
+| Mosely                                                           | BOOM! Studios                  | 1       | 01&#x2F;04&#x2F;2023 |
+| Trojan                                                           | Artists Writers &amp; Artisans Inc | 1       | 01&#x2F;04&#x2F;2023 |
+| Magic: The Gathering                                             | BOOM! Studios                  | 22      | 01&#x2F;04&#x2F;2023 |
+| Chainsaw Man                                                     | VIZ Media                      | 11      | 01&#x2F;03&#x2F;2023 |
+| X-Men: Legends                                                   | Marvel Comics                  | 5       | 01&#x2F;04&#x2F;2023 |
+| X-Force                                                          | Marvel Comics                  | 36      | 01&#x2F;04&#x2F;2023 |
+| Children of the Black Sun                                        | Ablaze                         | 1       | 01&#x2F;04&#x2F;2023 |
+| Blade Runner 2039                                                | Titan Books                    | 2       | 01&#x2F;04&#x2F;2023 |
+| Like Wind on a Dry Branch                                        | LINE Webtoon                   | 10      | 01&#x2F;07&#x2F;2023 |
+| Vampirella vs. Red Sonja                                         | Dynamite                       | 3       | 01&#x2F;04&#x2F;2023 |
+| Rogue State                                                      | Black Mask Studios             | 2       | 01&#x2F;04&#x2F;2023 |
+| Joe Fixit                                                        | Marvel Comics                  | 1       | 01&#x2F;04&#x2F;2023 |
+| Kaiju No. 8                                                      | VIZ Media                      | 77      | 01&#x2F;06&#x2F;2023 |
+| A Calculated Man                                                 | AfterShock Comics              | 4       | 01&#x2F;04&#x2F;2023 |
+| Titan Mouse of Might                                             | Blood Moon Comics              | 1       | 01&#x2F;04&#x2F;2023 |
+| My Hero Academia                                                 | VIZ Media                      | 37      | 01&#x2F;06&#x2F;2023 |
+| Phoenix Files                                                    | Zenescope                      | 1       | 01&#x2F;04&#x2F;2023 |
+| Nervous Rex                                                      | It&#39;s Alive                     | 4       | 01&#x2F;04&#x2F;2023 |
+| Radiant Pink                                                     | Image Comics                   | 2       | 01&#x2F;04&#x2F;2023 |
+| Spider-Man                                                       | Marvel Comics                  | 4       | 01&#x2F;04&#x2F;2023 |
+| Planet Hulk: Worldbreaker                                        | Marvel Comics                  | 3       | 01&#x2F;04&#x2F;2023 |
+| Category Zero Conflict                                           | Scout Comics                   | 2       | 01&#x2F;04&#x2F;2023 |
+| Jujutsu Kaisen                                                   | VIZ Media                      | 20      | 01&#x2F;06&#x2F;2023 |
+| The Joker: The Man Who Stopped Laughing                          | DC Comics                      | 4       | 01&#x2F;03&#x2F;2023 |
+| Hammerfall                                                       | Opus Comics                    | 1       | 01&#x2F;04&#x2F;2023 |
+| Family Time                                                      | Ablaze                         | 2       | 01&#x2F;04&#x2F;2023 |
+| Deathgasm                                                        | Opus Comics                    | 1       | 01&#x2F;04&#x2F;2023 |
+| Ultraman: The Mystery of Ultraseven                              | Marvel Comics                  | 5       | 01&#x2F;04&#x2F;2023 |
+| Cover the Dead with Lime                                         | Blood Moon Comics              | 4       | 01&#x2F;04&#x2F;2023 |
+| She Brings A Devil                                               | Bad Bug Media                  | 1       | 01&#x2F;01&#x2F;2023 |
+| Star Wars                                                        | Marvel Comics                  | 30      | 01&#x2F;04&#x2F;2023 |
+| Destiny, NY                                                      | Black Mask Studios             | 13      | 01&#x2F;04&#x2F;2023 |
+| Bulls of Beacon Hill                                             | AfterShock Comics              | 1       | 01&#x2F;04&#x2F;2023 |
+| The Walking Dead Deluxe                                          | Skybound                       | 54      | 01&#x2F;04&#x2F;2023 |
+| Marauders                                                        | Marvel Comics                  | 10      | 01&#x2F;04&#x2F;2023 |
+| The 06 Protocol                                                  | AfterShock Comics              | 3       | 01&#x2F;04&#x2F;2023 |
+| Captain Marvel                                                   | Marvel Comics                  | 45      | 01&#x2F;04&#x2F;2023 |
+| Gotham City: Year One                                            | DC Comics                      | 4       | 01&#x2F;03&#x2F;2023 |
+| Action Journalism                                                | Oni Press                      | 4       | 01&#x2F;04&#x2F;2023 |
+| Purgatori Must Die!                                              | Dynamite                       | 1       | 01&#x2F;04&#x2F;2023 |
+| Scotch McTiernan&#39;s Holiday Party                                 | Image Comics                   | 1       | 01&#x2F;04&#x2F;2023 |
+| Stillwater                                                       | Skybound                       | 17      | 01&#x2F;04&#x2F;2023 |
+| The Approach                                                     | BOOM! Studios                  | 3       | 01&#x2F;04&#x2F;2023 |
+| The 06 Protocol                                                  | AfterShock Comics              | 4       | 01&#x2F;04&#x2F;2023 |
+| The Atonement Bell                                               | Red 5                          | 3       | 01&#x2F;04&#x2F;2023 |
+| Naruto: Konoha&#39;s Story - The Steam Ninja Scrolls - The Manga     | VIZ Media                      | 6       | 01&#x2F;06&#x2F;2023 |
+| Gold Goblin                                                      | Marvel Comics                  | 3       | 01&#x2F;04&#x2F;2023 |
+| Sulfur Wells                                                     | Blood Moon Comics              | 6       | 01&#x2F;04&#x2F;2023 |
+| Sword of Azrael                                                  | DC Comics                      | 6       | 01&#x2F;03&#x2F;2023 |
 
 </details>
