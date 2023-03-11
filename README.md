@@ -24,67 +24,49 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 
 | Name                                                             | Publisher                      | Issue # | Date       |
 | ---------------------------------------------------------------- | ------------------------------ | ------- | ---------- |
-| Northern Blood                                                   | Blood Moon Comics              | 2       | 03&#x2F;08&#x2F;2023 |
+| Rubber Match                                                     | Other                          | 0       | 03&#x2F;08&#x2F;2023 |
 | Children of the Black Sun                                        | Ablaze                         | 3       | 03&#x2F;08&#x2F;2023 |
-| Back to Fairtaylia                                               | Invader Comics                 | 4       | 03&#x2F;08&#x2F;2023 |
-| &quot;The Greatest Name in Comics&quot; Daredevil                          | Lev Gleason - Comic House      | 3       | 03&#x2F;08&#x2F;2023 |
 | Betty and Veronica Friends Forever: Rock and Roll                | Archie Comics                  | 1       | 03&#x2F;08&#x2F;2023 |
 | The Avengers                                                     | Marvel Comics                  | 66      | 03&#x2F;08&#x2F;2023 |
-| Playthings                                                       | Scout Comics                   | 5       | 03&#x2F;07&#x2F;2023 |
 | Big Ethel Energy: Season 2                                       | Archie Comics                  | 3       | 03&#x2F;08&#x2F;2023 |
-| Junction Jones and the Corduroy Conspiracy                       | Scout Comics                   | 1       | 03&#x2F;08&#x2F;2023 |
-| Black Sheep                                                      | Other                          | 1       | 03&#x2F;08&#x2F;2023 |
 | Fantastic Four                                                   | Marvel Comics                  | 5       | 03&#x2F;08&#x2F;2023 |
 | Star Wars: The High Republic                                     | Marvel Comics                  | 6       | 03&#x2F;08&#x2F;2023 |
-| Quested                                                          | Whatnot Publishing             | 4       | 03&#x2F;08&#x2F;2023 |
-| Ascencia                                                         | Wake Entertainment             | 17      | 03&#x2F;08&#x2F;2023 |
+| Jaywalk                                                          | Domino Books                   | 3       | 03&#x2F;08&#x2F;2023 |
 | Archie Jumbo Comics Digest                                       | Archie Comics                  | 33      | 03&#x2F;08&#x2F;2023 |
 | Clear                                                            | Dark Horse Comics              | 1       | 03&#x2F;08&#x2F;2023 |
-| Monster Fun Ghoulish Gaming Special                              | Rebellion                      | 0       | 03&#x2F;08&#x2F;2023 |
-| Dream Master                                                     | BlackBox Comics                | 4       | 03&#x2F;08&#x2F;2023 |
 | Monkey Prince                                                    | DC Comics                      | 12      | 03&#x2F;07&#x2F;2023 |
 | Teenage Mutant Ninja Turtles: The Armageddon Game - The Alliance | IDW Publishing                 | 5       | 03&#x2F;08&#x2F;2023 |
 | Moon Knight                                                      | Marvel Comics                  | 21      | 03&#x2F;08&#x2F;2023 |
 | Adventures of Superman: Jon Kent                                 | DC Comics                      | 1       | 03&#x2F;07&#x2F;2023 |
 | Star Wars: Bounty Hunters                                        | Marvel Comics                  | 32      | 03&#x2F;08&#x2F;2023 |
+| Godslap                                                          | Other                          | 3       | 03&#x2F;09&#x2F;2023 |
 | Blood Tree                                                       | Image Comics                   | 2       | 03&#x2F;08&#x2F;2023 |
 | The Joker: The Man Who Stopped Laughing                          | DC Comics                      | 6       | 03&#x2F;07&#x2F;2023 |
 | The Life and Death of the Brave Captain Suave                    | Scout Comics                   | 5       | 03&#x2F;08&#x2F;2023 |
 | Gospel                                                           | Image Comics                   | 5       | 03&#x2F;08&#x2F;2023 |
 | Static: Shadows of Dakota                                        | Milestone                      | 2       | 03&#x2F;07&#x2F;2023 |
 | Godzilla Rivals: Mothra vs. Titanosaurus                         | IDW Publishing                 | 1       | 03&#x2F;08&#x2F;2023 |
-| Superbabes Starring Femforce                                     | AC Comics                      | 14      | 03&#x2F;08&#x2F;2023 |
-| Carmen Courageous                                                | Scout Comics                   | 1       | 03&#x2F;08&#x2F;2023 |
 | New Mutants: Lethal Legion                                       | Marvel Comics                  | 1       | 03&#x2F;08&#x2F;2023 |
 | Stoneheart                                                       | Image Comics                   | 1       | 03&#x2F;08&#x2F;2023 |
 | The Flash                                                        | DC Comics                      | 79      | 03&#x2F;07&#x2F;2023 |
 | The Trident of Aurelia                                           | Battle Quest Comics            | 2       | 03&#x2F;08&#x2F;2023 |
-| Stray Sheep                                                      | Blood Moon Comics              | 2       | 03&#x2F;08&#x2F;2023 |
-| Eternus                                                          | Scout Comics                   | 3       | 03&#x2F;08&#x2F;2023 |
 | X-23: Deadly Regenesis                                           | Marvel Comics                  | 1       | 03&#x2F;08&#x2F;2023 |
-| They&#39;re All Terrible                                             | Bad Idea Comics                | 3       | 03&#x2F;08&#x2F;2023 |
 | Silver Surfer: Ghost Light                                       | Marvel Comics                  | 2       | 03&#x2F;08&#x2F;2023 |
-| Ridgeline                                                        | AfterShock Comics              | 1       | 03&#x2F;08&#x2F;2023 |
 | Know Your Station                                                | BOOM! Studios                  | 4       | 03&#x2F;08&#x2F;2023 |
-| Fallen                                                           | Red 5                          | 1       | 03&#x2F;08&#x2F;2023 |
-| We Wicked Ones                                                   | Scout Comics                   | 1       | 03&#x2F;08&#x2F;2023 |
 | West of Sundown                                                  | Vault Comics                   | 9       | 03&#x2F;08&#x2F;2023 |
 | Batman &amp; The Joker: The Deadly Duo                               | DC Comics                      | 5       | 03&#x2F;07&#x2F;2023 |
+| Samurai Doggy                                                    | AfterShock Comics              | 4       | 03&#x2F;08&#x2F;2023 |
 | Black Clover                                                     | VIZ Media                      | 35      | 03&#x2F;05&#x2F;2023 |
 | Poison Ivy                                                       | DC Comics                      | 10      | 03&#x2F;07&#x2F;2023 |
 | Photonik: Man of Light                                           | Fair Square Comics             | 1       | 03&#x2F;08&#x2F;2023 |
 | Tales from Nottingham                                            | Mad Cave Studios               | 2       | 03&#x2F;08&#x2F;2023 |
-| Eternus                                                          | Scout Comics                   | 4       | 03&#x2F;08&#x2F;2023 |
 | Killchella                                                       | Scout Comics                   | 3       | 03&#x2F;08&#x2F;2023 |
 | Nightcrawlers                                                    | Marvel Comics                  | 2       | 03&#x2F;08&#x2F;2023 |
 | Assassin&#39;s Apprentice                                            | Dark Horse Comics              | 4       | 03&#x2F;08&#x2F;2023 |
-| Hoan of Orcs                                                     | Blood Moon Comics              | 1       | 03&#x2F;08&#x2F;2023 |
-| Canuck Beyond                                                    | Lev Gleason - Comic House      | 3       | 03&#x2F;08&#x2F;2023 |
 | Bloodline: Daughter of Blade                                     | Marvel Comics                  | 2       | 03&#x2F;08&#x2F;2023 |
 | The Gimmick                                                      | Ahoy Comics                    | 1       | 03&#x2F;08&#x2F;2023 |
-| West Coast Canuck                                                | Lev Gleason - Comic House      | 2       | 03&#x2F;08&#x2F;2023 |
 | Almighty                                                         | Image Comics                   | 2       | 03&#x2F;08&#x2F;2023 |
-| Stray Sheep                                                      | Blood Moon Comics              | 3       | 03&#x2F;08&#x2F;2023 |
+| Spy x Family                                                     | VIZ Media                      | 76      | 03&#x2F;05&#x2F;2023 |
 | Scarlet Witch                                                    | Marvel Comics                  | 3       | 03&#x2F;08&#x2F;2023 |
 | Predator                                                         | Marvel Comics                  | 1       | 03&#x2F;08&#x2F;2023 |
 | Vampirella vs. Red Sonja                                         | Dynamite                       | 5       | 03&#x2F;08&#x2F;2023 |
@@ -97,20 +79,14 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Cherish                                                          | Dynamite                       | 5       | 03&#x2F;08&#x2F;2023 |
 | Two Graves                                                       | Image Comics                   | 5       | 03&#x2F;08&#x2F;2023 |
 | Rogue Sun                                                        | Image Comics                   | 11      | 03&#x2F;08&#x2F;2023 |
-| Phoenix Files                                                    | Zenescope                      | 2       | 03&#x2F;08&#x2F;2023 |
 | Like Wind on a Dry Branch                                        | LINE Webtoon                   | 11      | 03&#x2F;11&#x2F;2023 |
 | Star Wars: Sana Starros                                          | Marvel Comics                  | 2       | 03&#x2F;08&#x2F;2023 |
-| The Atonement Bell                                               | Red 5                          | 4       | 03&#x2F;08&#x2F;2023 |
-| Silver Streak Season One                                         | Lev Gleason - Comic House      | 3       | 03&#x2F;08&#x2F;2023 |
+| Deadpool and Wolverine                                           | Panini Comics                  | 1       | 03&#x2F;09&#x2F;2023 |
 | X-Men                                                            | Marvel Comics                  | 20      | 03&#x2F;08&#x2F;2023 |
-| Sereno                                                           | Comics Experience Publishing   | 1       | 03&#x2F;08&#x2F;2023 |
+| SubZero Chapter                                                  | LINE Webtoon                   | 15      | 03&#x2F;06&#x2F;2023 |
 | The Flash: One-Minute War - Start the Clock                      | DC Comics                      | 1       | 03&#x2F;07&#x2F;2023 |
-| Cover the Dead with Lime                                         | Blood Moon Comics              | 4       | 03&#x2F;08&#x2F;2023 |
-| Miracle Kingdom                                                  | Scout Comics                   | 1       | 03&#x2F;08&#x2F;2023 |
-| Rest In Peace                                                    | Scout Comics                   | 1       | 03&#x2F;08&#x2F;2023 |
-| Hamelin                                                          | Action Lab Comics              | 2       | 03&#x2F;08&#x2F;2023 |
+| 2000 AD                                                          | Rebellion                      | 23      | 03&#x2F;08&#x2F;2023 |
 | Oswald and the Star-Chaser                                       | Scout Comics                   | 1       | 03&#x2F;08&#x2F;2023 |
-| Category Zero Conflict                                           | Scout Comics                   | 4       | 03&#x2F;08&#x2F;2023 |
 | My Hero Academia                                                 | VIZ Media                      | 38      | 03&#x2F;05&#x2F;2023 |
 | Space Job                                                        | Dark Horse Comics              | 2       | 03&#x2F;08&#x2F;2023 |
 | Dejah Thoris                                                     | Dynamite                       | 1       | 03&#x2F;08&#x2F;2023 |
@@ -119,10 +95,8 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 | Gretel: Seeds of Despair                                         | Zenescope                      | 1       | 03&#x2F;08&#x2F;2023 |
 | Cyanide Swamp                                                    | Other                          | 0       | 03&#x2F;08&#x2F;2023 |
 | Black Tape                                                       | Artists Writers &amp; Artisans Inc | 2       | 03&#x2F;08&#x2F;2023 |
-| Maeve Rising Warrior                                             | Red 5                          | 2       | 03&#x2F;08&#x2F;2023 |
 | The Amazing Spider-Man                                           | Marvel Comics                  | 21      | 03&#x2F;08&#x2F;2023 |
 | Mary Jane &amp; Black Cat                                            | Marvel Comics                  | 4       | 03&#x2F;08&#x2F;2023 |
 | Black Panther                                                    | Marvel Comics                  | 15      | 03&#x2F;08&#x2F;2023 |
-| Sulfur Wells                                                     | Blood Moon Comics              | 6       | 03&#x2F;08&#x2F;2023 |
 
 </details>
