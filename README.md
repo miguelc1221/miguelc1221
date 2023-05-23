@@ -11,7 +11,6 @@ I’m a Front-End Developer with a passion for creating attractive user-friendly
 <img width="100%" alt="Interests title image" src="./assets/interests2.svg">
 
 - Reading Comics and Manga 
-- Collecting [Sixth Scale Figures](https://www.sideshow.com/)
 - Video Games
 - Hiking
 - Biking
