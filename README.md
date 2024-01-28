@@ -23,103 +23,98 @@ designers to ensure a top-tier user experience. My areas of interest span across
 <details>
   <summary>Comics (Click to expand)</summary>
 
-| Name                                                        | Publisher                      | Issue # | Date       |
-| ----------------------------------------------------------- | ------------------------------ | ------- | ---------- |
-| Klaus Nomi: A Graphic Biography and Collaborative Anthology | Other                          | 0       | 01&#x2F;24&#x2F;2024 |
-| Bad Omens: Concrete Jungle                                  | Sumerian Comics                | 4       | 01&#x2F;24&#x2F;2024 |
-| Daredevil: Black Armor                                      | Marvel Comics                  | 3       | 01&#x2F;24&#x2F;2024 |
-| Gargoyles: Dark Ages                                        | Dynamite                       | 5       | 01&#x2F;24&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                                | IDW Publishing                 | 14      | 01&#x2F;24&#x2F;2024 |
-| Van Helsing: Vampire Hunter                                 | Zenescope                      | 1       | 01&#x2F;24&#x2F;2024 |
-| Midnight Western Theatre: Witch Trial                       | Scout Comics                   | 5       | 01&#x2F;24&#x2F;2024 |
-| Edenfrost                                                   | Mad Cave Studios               | 2       | 01&#x2F;24&#x2F;2024 |
-| Trakovi                                                     | Scout Comics                   | 5       | 01&#x2F;24&#x2F;2024 |
-| Akolyte                                                     | Konkret Comics                 | 4       | 01&#x2F;24&#x2F;2024 |
-| Mighty Morphin Power Rangers                                | BOOM! Studios                  | 11      | 01&#x2F;24&#x2F;2024 |
-| Archie Jumbo Comics Digest                                  | Archie Comics                  | 34      | 01&#x2F;24&#x2F;2024 |
-| Justice Ducks                                               | Dynamite                       | 1       | 01&#x2F;24&#x2F;2024 |
-| One Piece                                                   | VIZ Media                      | 11      | 01&#x2F;21&#x2F;2024 |
-| Blade in the Dark                                           | Scout Comics                   | 4       | 01&#x2F;24&#x2F;2024 |
-| Dune: House Harkonnen                                       | BOOM! Studios                  | 12      | 01&#x2F;24&#x2F;2024 |
-| The Bone Orchard Mythos: Tenement                           | Image Comics                   | 8       | 01&#x2F;24&#x2F;2024 |
-| Mech Cadets                                                 | BOOM! Studios                  | 5       | 01&#x2F;24&#x2F;2024 |
-| Bruce Dickinson&#39;s The Mandrake Project                      | Z2 Comics                      | 1       | 01&#x2F;24&#x2F;2024 |
-| Punisher                                                    | Marvel Comics                  | 3       | 01&#x2F;24&#x2F;2024 |
-| Nightfall Double Feature                                    | Vault Comics                   | 4       | 01&#x2F;24&#x2F;2024 |
-| The Penguin                                                 | DC Comics                      | 6       | 01&#x2F;23&#x2F;2024 |
-| Amazons Attack                                              | DC Comics                      | 4       | 01&#x2F;23&#x2F;2024 |
-| Star Wars: Thrawn - Alliances                               | Marvel Comics                  | 1       | 01&#x2F;24&#x2F;2024 |
-| Star Trek: Defiant Annual                                   | IDW Publishing                 | 1       | 01&#x2F;24&#x2F;2024 |
-| Spy x Family                                                | VIZ Media                      | 94      | 01&#x2F;21&#x2F;2024 |
-| Dead Detective                                              | BlackBox Comics                | 2       | 01&#x2F;24&#x2F;2024 |
-| Harley Quinn                                                | DC Comics                      | 36      | 01&#x2F;23&#x2F;2024 |
-| Titans: Beast World                                         | DC Comics                      | 5       | 01&#x2F;23&#x2F;2024 |
-| Slow Burn                                                   | BOOM! Studios                  | 4       | 01&#x2F;24&#x2F;2024 |
-| Invasive                                                    | Oni Press                      | 2       | 01&#x2F;24&#x2F;2024 |
-| Starfinder: Angels of the Drift                             | Dynamite                       | 5       | 01&#x2F;24&#x2F;2024 |
-| Banshees                                                    | Scout Comics                   | 5       | 01&#x2F;24&#x2F;2024 |
-| Grimm Fairy Tales Annual 2023                               | Zenescope                      | 0       | 01&#x2F;24&#x2F;2024 |
-| Al Capone Vampire                                           | American Mythology             | 4       | 01&#x2F;24&#x2F;2024 |
-| Spider-Woman                                                | Marvel Comics                  | 3       | 01&#x2F;24&#x2F;2024 |
-| Grimm Fairy Tales                                           | Zenescope                      | 79      | 01&#x2F;24&#x2F;2024 |
-| X-Force                                                     | Marvel Comics                  | 48      | 01&#x2F;24&#x2F;2024 |
-| Hexagon Bridge                                              | Image Comics                   | 5       | 01&#x2F;24&#x2F;2024 |
-| Newburn                                                     | Image Comics                   | 14      | 01&#x2F;24&#x2F;2024 |
-| Disney Villains: Hades                                      | Dynamite                       | 5       | 01&#x2F;24&#x2F;2024 |
-| Lady Death: Cybernetic Desecration                          | Coffin Comics                  | 2       | 01&#x2F;24&#x2F;2024 |
-| G.O.D.S.                                                    | Marvel Comics                  | 4       | 01&#x2F;24&#x2F;2024 |
-| Superior Spider-Man                                         | Marvel Comics                  | 3       | 01&#x2F;24&#x2F;2024 |
-| Dungeons &amp; Dragons: Saturday Morning Adventures             | IDW Publishing                 | 1       | 01&#x2F;24&#x2F;2024 |
-| Jungle Comics                                               | Antarctic Press                | 24      | 01&#x2F;24&#x2F;2024 |
-| Star Wars: The High Republic Adventures                     | Dark Horse Comics              | 2       | 01&#x2F;24&#x2F;2024 |
-| My Hero Academia                                            | VIZ Media                      | 41      | 01&#x2F;21&#x2F;2024 |
-| The Schlub                                                  | Image Comics                   | 6       | 01&#x2F;24&#x2F;2024 |
-| Lotus Land                                                  | BOOM! Studios                  | 3       | 01&#x2F;24&#x2F;2024 |
-| Zawa + The Belly of the Beast                               | BOOM! Studios                  | 3       | 01&#x2F;24&#x2F;2024 |
-| Ghost Machine                                               | Image Comics                   | 1       | 01&#x2F;24&#x2F;2024 |
-| Green Arrow                                                 | DC Comics                      | 8       | 01&#x2F;23&#x2F;2024 |
-| Blood Force Trauma                                          | Dead Gremlin Comix             | 7       | 01&#x2F;23&#x2F;2024 |
-| Requiem in Relke                                            | Other                          | 1       | 01&#x2F;26&#x2F;2024 |
-| Junior Baker the Righteous Faker                            | Image Comics                   | 5       | 01&#x2F;24&#x2F;2024 |
-| Miguel O&#39;Hara: Spider-Man 2099                              | Marvel Comics                  | 4       | 01&#x2F;24&#x2F;2024 |
-| The Holy Roller                                             | Image Comics                   | 3       | 01&#x2F;24&#x2F;2024 |
-| Batman: The Brave and the Bold                              | DC Comics                      | 9       | 01&#x2F;23&#x2F;2024 |
-| Comic Book Creator                                          | TwoMorrows                     | 33      | 01&#x2F;24&#x2F;2024 |
-| White River Monster                                         | Blood Moon Comics              | 4       | 01&#x2F;24&#x2F;2024 |
-| The Immortal Thor                                           | Marvel Comics                  | 6       | 01&#x2F;24&#x2F;2024 |
-| Judge Dredd: Megazine                                       | Rebellion                      | 46      | 01&#x2F;24&#x2F;2024 |
-| Damn Them All                                               | BOOM! Studios                  | 12      | 01&#x2F;24&#x2F;2024 |
-| Rumpus Room                                                 | Artists Writers &amp; Artisans Inc | 5       | 01&#x2F;24&#x2F;2024 |
-| Rick and Morty:  Meeseeks P.I.                              | Oni Press                      | 3       | 01&#x2F;24&#x2F;2024 |
-| Shudder Magazine                                            | Warrant Publishing             | 15      | 01&#x2F;24&#x2F;2024 |
-| Project: Cryptid                                            | Ahoy Comics                    | 5       | 01&#x2F;24&#x2F;2024 |
-| Quested                                                     | Massive Publishing             | 1       | 01&#x2F;24&#x2F;2024 |
-| Star Trek Explorer                                          | Titan Books                    | 10      | 01&#x2F;24&#x2F;2024 |
-| A Legacy of Violence                                        | Mad Cave Studios               | 9       | 01&#x2F;24&#x2F;2024 |
-| Universal Monsters: Dracula                                 | Image Comics                   | 4       | 01&#x2F;24&#x2F;2024 |
-| Savage Pulp                                                 | Blood Moon Comics              | 1       | 01&#x2F;24&#x2F;2024 |
-| Detective Comics                                            | DC Comics                      | 10      | 01&#x2F;23&#x2F;2024 |
-| Empath                                                      | BlackBox Comics                | 3       | 01&#x2F;24&#x2F;2024 |
-| Lady Death vs. Zombie Tramp                                 | Still Ill Princess             | 1       | 01&#x2F;22&#x2F;2024 |
-| Resurrection of Magneto                                     | Marvel Comics                  | 1       | 01&#x2F;24&#x2F;2024 |
-| Skeeters                                                    | Mad Cave Studios               | 2       | 01&#x2F;24&#x2F;2024 |
-| Cyberpunk 2077: XOXO                                        | Dark Horse Comics              | 4       | 01&#x2F;24&#x2F;2024 |
-| Edie:  You Are What Eats You                                | Blood Moon Comics              | 1       | 01&#x2F;24&#x2F;2024 |
-| Red Sonja                                                   | Dynamite                       | 7       | 01&#x2F;24&#x2F;2024 |
-| Crashdown                                                   | Whatnot Publishing             | 1       | 01&#x2F;24&#x2F;2024 |
-| Beast of Bower Boulevard                                    | American Mythology             | 3       | 01&#x2F;24&#x2F;2024 |
-| Mundus Tenebras                                             | Blood Moon Comics              | 3       | 01&#x2F;24&#x2F;2024 |
-| Blade Runner 2039                                           | Titan Books                    | 9       | 01&#x2F;24&#x2F;2024 |
-| Spawn                                                       | Image Comics                   | 34      | 01&#x2F;24&#x2F;2024 |
-| The Flash                                                   | DC Comics                      | 5       | 01&#x2F;23&#x2F;2024 |
-| Power Girl                                                  | DC Comics                      | 5       | 01&#x2F;23&#x2F;2024 |
-| Akolyte                                                     | Konkret Comics                 | 3       | 01&#x2F;24&#x2F;2024 |
-| Dungeons &amp; Dragons: Fortune Finder                          | IDW Publishing                 | 3       | 01&#x2F;24&#x2F;2024 |
-| Here Comes Calico                                           | Other                          | 8       | 01&#x2F;24&#x2F;2024 |
-| Faceless and the Family                                     | Oni Press                      | 3       | 01&#x2F;24&#x2F;2024 |
-| A Splatter Western One-Shot                                 | Other                          | 4       | 01&#x2F;24&#x2F;2024 |
-| Power Pack: Into the Storm                                  | Marvel Comics                  | 1       | 01&#x2F;24&#x2F;2024 |
-| Titans: Beast World Tour – Star City                        | DC Comics                      | 1       | 01&#x2F;23&#x2F;2024 |
-| Deer Editor                                                 | Mad Cave Studios               | 1       | 01&#x2F;24&#x2F;2024 |
+| Name                                          | Publisher                      | Issue # | Date       |
+| --------------------------------------------- | ------------------------------ | ------- | ---------- |
+| Dark Ride                                     | Image Comics                   | 10      | 01&#x2F;31&#x2F;2024 |
+| Omega Gang                                    | Scout Comics                   | 7       | 01&#x2F;31&#x2F;2024 |
+| Jungle Comics                                 | Antarctic Press                | 25      | 01&#x2F;31&#x2F;2024 |
+| Manga Z                                       | Antarctic Press                | 19      | 01&#x2F;31&#x2F;2024 |
+| Somna                                         | DSTLRY                         | 2       | 01&#x2F;31&#x2F;2024 |
+| Spectrum: The Worlds of Gerry Anderson        | Time Bomb Comics               | 2       | 01&#x2F;31&#x2F;2024 |
+| Spine-Tingling Spider-Man                     | Marvel Comics                  | 4       | 01&#x2F;31&#x2F;2024 |
+| Coda                                          | BOOM! Studios                  | 5       | 01&#x2F;31&#x2F;2024 |
+| Batman and Robin 2024 Annual                  | DC Comics                      | 0       | 01&#x2F;30&#x2F;2024 |
+| Haunted House: A Love Story                   | Blood Moon Comics              | 3       | 01&#x2F;31&#x2F;2024 |
+| Robotech: Rick Hunter                         | Titan Books                    | 3       | 01&#x2F;31&#x2F;2024 |
+| Betty and Veronica Jumbo Comics Digest        | Archie Comics                  | 32      | 01&#x2F;31&#x2F;2024 |
+| Dust                                          | Scout Comics                   | 6       | 01&#x2F;31&#x2F;2024 |
+| Working Class Wizards                         | Band of Bards                  | 1       | 01&#x2F;31&#x2F;2024 |
+| Power Rangers Unlimited: The Morphin Masters  | BOOM! Studios                  | 1       | 01&#x2F;31&#x2F;2024 |
+| Amorini: Amateur Cupid                        | Space Between Entertainment    | 1       | 02&#x2F;01&#x2F;2024 |
+| Avengers: Twilight                            | Marvel Comics                  | 2       | 01&#x2F;31&#x2F;2024 |
+| Syphon                                        | Image Comics                   | 3       | 01&#x2F;31&#x2F;2024 |
+| Dying Days                                    | Red 5                          | 3       | 01&#x2F;31&#x2F;2024 |
+| Dark Souls: The Willow King                   | Titan Books                    | 1       | 01&#x2F;31&#x2F;2024 |
+| The Dead Lucky                                | Image Comics                   | 11      | 01&#x2F;31&#x2F;2024 |
+| Greenhorns                                    | Keenspot                       | 2       | 01&#x2F;31&#x2F;2024 |
+| The Devil That Wears My Face                  | Mad Cave Studios               | 4       | 01&#x2F;31&#x2F;2024 |
+| King Kong: The Great War                      | Dynamite                       | 6       | 01&#x2F;31&#x2F;2024 |
+| Previews: Customer Order Form                 | Diamond Publications           | 42      | 01&#x2F;31&#x2F;2024 |
+| Sirens of the City                            | BOOM! Studios                  | 6       | 01&#x2F;31&#x2F;2024 |
+| The Seance Room: Harry&#39;s Opus                 | Source Point Press             | 1       | 01&#x2F;31&#x2F;2024 |
+| Dead X-Men                                    | Marvel Comics                  | 1       | 01&#x2F;31&#x2F;2024 |
+| Doctor Who Magazine                           | Panini Comics                  | 60      | 02&#x2F;01&#x2F;2024 |
+| Avengers Inc.                                 | Marvel Comics                  | 5       | 01&#x2F;31&#x2F;2024 |
+| Batman: Off-World                             | DC Comics                      | 3       | 01&#x2F;30&#x2F;2024 |
+| Star Wars: Doctor Aphra                       | Marvel Comics                  | 40      | 01&#x2F;31&#x2F;2024 |
+| Holmes &amp; Houdini                              | Zenescope                      | 1       | 01&#x2F;31&#x2F;2024 |
+| Hell Riot                                     | Other                          | 4       | 02&#x2F;01&#x2F;2024 |
+| W0rldtr33                                     | Image Comics                   | 7       | 01&#x2F;31&#x2F;2024 |
+| Interstellar Dust                             | Antarctic Press                | 3       | 01&#x2F;31&#x2F;2024 |
+| Power Girl: Uncovered                         | DC Comics                      | 1       | 01&#x2F;30&#x2F;2024 |
+| The Sire: Lost in Time                        | Dren Productions               | 3       | 01&#x2F;31&#x2F;2024 |
+| One Piece                                     | VIZ Media                      | 11      | 01&#x2F;28&#x2F;2024 |
+| House of Slaughter Pen &amp; Ink                  | BOOM! Studios                  | 1       | 01&#x2F;31&#x2F;2024 |
+| Capable                                       | Advent Comics                  | 2       | 01&#x2F;31&#x2F;2024 |
+| Bombshell and TommTomm                        | American Mythology             | 4       | 01&#x2F;31&#x2F;2024 |
+| Tuskers                                       | Comics Experience Publishing   | 2       | 01&#x2F;31&#x2F;2024 |
+| Rick and Morty: Maximum Crescendo             | Oni Press                      | 1       | 01&#x2F;30&#x2F;2024 |
+| Previews                                      | Diamond Publications           | 42      | 01&#x2F;31&#x2F;2024 |
+| Charred Remains                               | Mad Cave Studios               | 2       | 01&#x2F;31&#x2F;2024 |
+| Deadly Hands of Kung-Fu: Gang War             | Marvel Comics                  | 2       | 01&#x2F;31&#x2F;2024 |
+| Edenwood                                      | Image Comics                   | 4       | 01&#x2F;31&#x2F;2024 |
+| Alan Scott: The Green Lantern                 | DC Comics                      | 4       | 01&#x2F;30&#x2F;2024 |
+| Rad Wraith                                    | Scout Comics                   | 2       | 01&#x2F;31&#x2F;2024 |
+| Duke                                          | Image Comics                   | 2       | 01&#x2F;31&#x2F;2024 |
+| Miguel O&#39;Hara: Spider-Man 2099                | Marvel Comics                  | 5       | 01&#x2F;31&#x2F;2024 |
+| Cinderella: Princess of Death                 | Zenescope                      | 1       | 01&#x2F;31&#x2F;2024 |
+| Grimm Fairy Tales                             | Zenescope                      | 80      | 01&#x2F;31&#x2F;2024 |
+| Moon Man                                      | Image Comics                   | 1       | 01&#x2F;31&#x2F;2024 |
+| The Cryptidnals                               | Blacktooth Comics              | 5       | 01&#x2F;31&#x2F;2024 |
+| Titans: Beast World                           | DC Comics                      | 6       | 01&#x2F;30&#x2F;2024 |
+| Harriet Tubman: Demon Slayer                  | Whatnot Publishing             | 5       | 01&#x2F;31&#x2F;2024 |
+| The Agent                                     | Ablaze                         | 2       | 01&#x2F;31&#x2F;2024 |
+| Trinity Special                               | DC Comics                      | 1       | 01&#x2F;30&#x2F;2024 |
+| Local Man                                     | Image Comics                   | 9       | 01&#x2F;31&#x2F;2024 |
+| Lilo &amp; Stitch                                 | Dynamite                       | 1       | 01&#x2F;31&#x2F;2024 |
+| American Psycho                               | Sumerian Comics                | 3       | 01&#x2F;31&#x2F;2024 |
+| Spider-Boy                                    | Marvel Comics                  | 3       | 01&#x2F;31&#x2F;2024 |
+| Wolverine                                     | Marvel Comics                  | 42      | 01&#x2F;31&#x2F;2024 |
+| Jill and the Killers                          | Oni Press                      | 1       | 01&#x2F;31&#x2F;2024 |
+| Batman &#x2F; Superman: World&#39;s Finest 2024 Annual | DC Comics                      | 0       | 01&#x2F;30&#x2F;2024 |
+| Pathfinder: Wake the Dead                     | Dynamite                       | 5       | 01&#x2F;31&#x2F;2024 |
+| Undead Evil                                   | Asylum Press                   | 1       | 01&#x2F;31&#x2F;2024 |
+| Vanity Remastered Edition                     | Scout Comics                   | 2       | 01&#x2F;31&#x2F;2024 |
+| Sidequest                                     | Scout Comics                   | 4       | 01&#x2F;31&#x2F;2024 |
+| King Spawn                                    | Image Comics                   | 30      | 01&#x2F;31&#x2F;2024 |
+| Marvel Super Heroes Secret Wars: Battleworld  | Marvel Comics                  | 3       | 01&#x2F;31&#x2F;2024 |
+| Star Trek: Picard&#39;s Academy                   | IDW Publishing                 | 5       | 01&#x2F;31&#x2F;2024 |
+| Project Riese                                 | Mad Cave Studios               | 6       | 01&#x2F;31&#x2F;2024 |
+| The Incredible Hulk                           | Marvel Comics                  | 8       | 01&#x2F;31&#x2F;2024 |
+| ORCS!: The Gift                               | BOOM! Studios                  | 2       | 01&#x2F;31&#x2F;2024 |
+| Dying Days                                    | Red 5                          | 4       | 01&#x2F;31&#x2F;2024 |
+| Killadelphia                                  | Image Comics                   | 33      | 01&#x2F;31&#x2F;2024 |
+| Quest                                         | Image Comics                   | 5       | 01&#x2F;31&#x2F;2024 |
+| Hexpaw: Left Paw of the Devil                 | Blood Moon Comics              | 2       | 01&#x2F;31&#x2F;2024 |
+| Squish and Squash                             | Keenspot                       | 2       | 01&#x2F;31&#x2F;2024 |
+| Marvel&#39;s Voices: Legends                      | Marvel Comics                  | 1       | 01&#x2F;31&#x2F;2024 |
+| Tuskers                                       | Comics Experience Publishing   | 1       | 01&#x2F;31&#x2F;2024 |
+| Maniac of New York: Don&#39;t Call It a Comeback  | AfterShock Comics              | 3       | 01&#x2F;31&#x2F;2024 |
+| DC Power 2024                                 | DC Comics                      | 1       | 01&#x2F;30&#x2F;2024 |
+| The 06 Protocol                               | AfterShock Comics              | 4       | 01&#x2F;31&#x2F;2024 |
+| Drive Like Hell                               | Dark Horse Comics              | 4       | 01&#x2F;31&#x2F;2024 |
+| Carnage                                       | Marvel Comics                  | 3       | 01&#x2F;31&#x2F;2024 |
+| The Ribbon Queen                              | Artists Writers &amp; Artisans Inc | 7       | 01&#x2F;31&#x2F;2024 |
+| Sheena: Queen of the Jungle: Fatal Exams      | Dynamite                       | 5       | 01&#x2F;31&#x2F;2024 |
 
 </details>
