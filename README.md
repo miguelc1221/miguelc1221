@@ -23,172 +23,175 @@ designers to ensure a top-tier user experience. My areas of interest span across
 <details>
   <summary>Comics (Click to expand)</summary>
 
-| Name                                             | Publisher          | Issue # | Date       |
-| ------------------------------------------------ | ------------------ | ------- | ---------- |
-| Commercial Space                                 | Scout Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| Titan: The Ultra Man                             | Advent Comics      | 3       | 04&#x2F;03&#x2F;2024 |
-| Hack &#x2F; Slash: Back to School                     | Image Comics       | 4       | 04&#x2F;03&#x2F;2024 |
-| Hack &#x2F; Slash: Back to School                     | Image Comics       | 4       | 04&#x2F;03&#x2F;2024 |
-| Lady Liar                                        | LINE Webtoon       | 60      | 04&#x2F;04&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Alien: Black, White &amp; Blood                      | Marvel Comics      | 3       | 04&#x2F;03&#x2F;2024 |
-| Alien: Black, White &amp; Blood                      | Marvel Comics      | 3       | 04&#x2F;03&#x2F;2024 |
-| Alien: Black, White &amp; Blood                      | Marvel Comics      | 3       | 04&#x2F;03&#x2F;2024 |
-| Alter Ego                                        | TwoMorrows         | 18      | 04&#x2F;03&#x2F;2024 |
-| Antarctica                                       | Image Comics       | 10      | 04&#x2F;03&#x2F;2024 |
-| Antarctica                                       | Image Comics       | 10      | 04&#x2F;03&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie &amp; Friends: Hot Rod Racing                 | Archie Comics      | 1       | 04&#x2F;04&#x2F;2024 |
-| Archie Jumbo Comics Digest                       | Archie Comics      | 34      | 04&#x2F;03&#x2F;2024 |
-| The Avengers                                     | Marvel Comics      | 12      | 04&#x2F;03&#x2F;2024 |
-| The Avengers                                     | Marvel Comics      | 12      | 04&#x2F;03&#x2F;2024 |
-| The Avengers                                     | Marvel Comics      | 12      | 04&#x2F;03&#x2F;2024 |
-| The Avengers                                     | Marvel Comics      | 12      | 04&#x2F;03&#x2F;2024 |
-| Big Ethel Energy: Season 2                       | Archie Comics      | 59      | 04&#x2F;03&#x2F;2024 |
-| Blood Desert                                     | Other              | 33      | 04&#x2F;03&#x2F;2024 |
-| Britannia: Great Fire of Rome                    | Valiant            | 1       | 04&#x2F;03&#x2F;2024 |
-| Britannia: Great Fire of Rome                    | Valiant            | 1       | 04&#x2F;03&#x2F;2024 |
-| Can I Scream                                     | Keenspot           | 1       | 04&#x2F;03&#x2F;2024 |
-| Can I Scream                                     | Keenspot           | 1       | 04&#x2F;03&#x2F;2024 |
-| Can I Scream                                     | Keenspot           | 1       | 04&#x2F;03&#x2F;2024 |
-| Can I Scream                                     | Keenspot           | 1       | 04&#x2F;03&#x2F;2024 |
-| Captain America                                  | Marvel Comics      | 8       | 04&#x2F;03&#x2F;2024 |
-| Captain America                                  | Marvel Comics      | 8       | 04&#x2F;03&#x2F;2024 |
-| Captain America                                  | Marvel Comics      | 8       | 04&#x2F;03&#x2F;2024 |
-| Captain America                                  | Marvel Comics      | 8       | 04&#x2F;03&#x2F;2024 |
-| Cinderella Murder For All Seasons                | Zenescope          | 1       | 04&#x2F;03&#x2F;2024 |
-| Cinderella Murder For All Seasons                | Zenescope          | 1       | 04&#x2F;03&#x2F;2024 |
-| Cinderella Murder For All Seasons                | Zenescope          | 1       | 04&#x2F;03&#x2F;2024 |
-| Cinderella Murder For All Seasons                | Zenescope          | 1       | 04&#x2F;03&#x2F;2024 |
-| Cinderella Murder For All Seasons                | Zenescope          | 1       | 04&#x2F;03&#x2F;2024 |
-| Comic Book Creator                               | TwoMorrows         | 34      | 04&#x2F;03&#x2F;2024 |
-| Crashdown                                        | Whatnot Publishing | 3       | 04&#x2F;03&#x2F;2024 |
-| Crashdown                                        | Whatnot Publishing | 3       | 04&#x2F;03&#x2F;2024 |
-| Crashdown                                        | Whatnot Publishing | 3       | 04&#x2F;03&#x2F;2024 |
-| Crashdown                                        | Whatnot Publishing | 3       | 04&#x2F;03&#x2F;2024 |
-| Crashdown                                        | Whatnot Publishing | 3       | 04&#x2F;03&#x2F;2024 |
-| Crashdown                                        | Whatnot Publishing | 3       | 04&#x2F;03&#x2F;2024 |
-| Crave                                            | Image Comics       | 5       | 04&#x2F;03&#x2F;2024 |
-| Crave                                            | Image Comics       | 5       | 04&#x2F;03&#x2F;2024 |
-| Crave                                            | Image Comics       | 5       | 04&#x2F;03&#x2F;2024 |
-| Dark Souls: The Willow King                      | Titan Books        | 3       | 04&#x2F;03&#x2F;2024 |
-| Dark Souls: The Willow King                      | Titan Books        | 3       | 04&#x2F;03&#x2F;2024 |
-| Dark Souls: The Willow King                      | Titan Books        | 3       | 04&#x2F;03&#x2F;2024 |
-| Dark Souls: The Willow King                      | Titan Books        | 3       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deadpool                                         | Marvel Comics      | 1       | 04&#x2F;03&#x2F;2024 |
-| Deep Cuts                                        | Image Comics       | 6       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Disney Villains: Cruella De Vil                  | Dynamite           | 3       | 04&#x2F;03&#x2F;2024 |
-| Doctor Strange                                   | Marvel Comics      | 14      | 04&#x2F;03&#x2F;2024 |
-| Doctor Strange                                   | Marvel Comics      | 14      | 04&#x2F;03&#x2F;2024 |
-| Doctor Strange                                   | Marvel Comics      | 14      | 04&#x2F;03&#x2F;2024 |
-| Dungeons &amp; Dragons Ravenloft: Caravan of Curses  | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Dungeons &amp; Dragons Ravenloft: Caravan of Curses  | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| The Fog                                          | Massive Publishing | 2       | 04&#x2F;03&#x2F;2024 |
-| The Fog                                          | Massive Publishing | 2       | 04&#x2F;03&#x2F;2024 |
-| The Fog                                          | Massive Publishing | 2       | 04&#x2F;03&#x2F;2024 |
-| The Fog                                          | Massive Publishing | 2       | 04&#x2F;03&#x2F;2024 |
-| Free Marvel Must-Haves                           | Marvel Comics      | 2       | 04&#x2F;03&#x2F;2024 |
-| Geiger                                           | Image Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| Geiger                                           | Image Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| Geiger                                           | Image Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| Geiger                                           | Image Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| Ghostlore                                        | BOOM! Studios      | 9       | 04&#x2F;03&#x2F;2024 |
-| Ghostlore                                        | BOOM! Studios      | 9       | 04&#x2F;03&#x2F;2024 |
-| Ghostlore                                        | BOOM! Studios      | 9       | 04&#x2F;03&#x2F;2024 |
-| Ghostlore                                        | BOOM! Studios      | 9       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Godzilla vs. the Mighty Morphin Power Rangers II | IDW Publishing     | 1       | 04&#x2F;03&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Grim                                             | BOOM! Studios      | 16      | 04&#x2F;03&#x2F;2024 |
-| Gumaa: The Beginning of Her                      | Titan Books        | 5       | 04&#x2F;03&#x2F;2024 |
-| Gumaa: The Beginning of Her                      | Titan Books        | 5       | 04&#x2F;03&#x2F;2024 |
-| Gumaa: The Beginning of Her                      | Titan Books        | 5       | 04&#x2F;03&#x2F;2024 |
-| Gunslinger Spawn                                 | Image Comics       | 30      | 04&#x2F;03&#x2F;2024 |
-| Gunslinger Spawn                                 | Image Comics       | 30      | 04&#x2F;03&#x2F;2024 |
-| Hack&#x2F;Slash: Kill Your Idols                      | Image Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| Hack&#x2F;Slash: Kill Your Idols                      | Image Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| Hack&#x2F;Slash: Kill Your Idols                      | Image Comics       | 1       | 04&#x2F;03&#x2F;2024 |
-| The Immortal Thor                                | Marvel Comics      | 9       | 04&#x2F;03&#x2F;2024 |
-| The Immortal Thor                                | Marvel Comics      | 9       | 04&#x2F;03&#x2F;2024 |
-| The Immortal Thor                                | Marvel Comics      | 9       | 04&#x2F;03&#x2F;2024 |
-| The Immortal Thor                                | Marvel Comics      | 9       | 04&#x2F;03&#x2F;2024 |
-| The Immortal Thor                                | Marvel Comics      | 9       | 04&#x2F;03&#x2F;2024 |
-| Kaya                                             | Image Comics       | 17      | 04&#x2F;03&#x2F;2024 |
-| Kaya                                             | Image Comics       | 17      | 04&#x2F;03&#x2F;2024 |
-| King Kong: The Great War                         | Dynamite           | 5       | 04&#x2F;03&#x2F;2024 |
-| King Kong: The Great War                         | Dynamite           | 5       | 04&#x2F;03&#x2F;2024 |
-| King Kong: The Great War                         | Dynamite           | 5       | 04&#x2F;03&#x2F;2024 |
-| King Kong: The Great War                         | Dynamite           | 5       | 04&#x2F;03&#x2F;2024 |
-| King Kong: The Great War                         | Dynamite           | 5       | 04&#x2F;03&#x2F;2024 |
-| The Last Mermaid                                 | Image Comics       | 2       | 04&#x2F;03&#x2F;2024 |
-| Livewire &amp; The Secret Weapons                    | Valiant            | 1       | 04&#x2F;03&#x2F;2024 |
-| Livewire &amp; The Secret Weapons                    | Valiant            | 1       | 04&#x2F;03&#x2F;2024 |
-| Love Everlasting                                 | Image Comics       | 14      | 04&#x2F;03&#x2F;2024 |
-| Minor Threats: The Fastest Way Down              | Dark Horse Comics  | 1       | 04&#x2F;03&#x2F;2024 |
-| Minor Threats: The Fastest Way Down              | Dark Horse Comics  | 1       | 04&#x2F;03&#x2F;2024 |
-| Minor Threats: The Fastest Way Down              | Dark Horse Comics  | 1       | 04&#x2F;03&#x2F;2024 |
-| Minor Threats: The Fastest Way Down              | Dark Horse Comics  | 1       | 04&#x2F;03&#x2F;2024 |
-| Minor Threats: The Fastest Way Down              | Dark Horse Comics  | 1       | 04&#x2F;03&#x2F;2024 |
-| Minor Threats: The Fastest Way Down              | Dark Horse Comics  | 1       | 04&#x2F;03&#x2F;2024 |
-| Minor Threats: The Fastest Way Down              | Dark Horse Comics  | 1       | 04&#x2F;03&#x2F;2024 |
-| Mortal Terror                                    | Dark Horse Comics  | 3       | 04&#x2F;03&#x2F;2024 |
-| Mortal Terror                                    | Dark Horse Comics  | 3       | 04&#x2F;03&#x2F;2024 |
-| Neurocron                                        | Invader Comics     | 3       | 04&#x2F;03&#x2F;2024 |
-| The One Hand                                     | Image Comics       | 3       | 04&#x2F;03&#x2F;2024 |
-| The One Hand                                     | Image Comics       | 3       | 04&#x2F;03&#x2F;2024 |
+| Name                                              | Publisher                      | Issue # | Date       |
+| ------------------------------------------------- | ------------------------------ | ------- | ---------- |
+| Beneath the Trees Where Nobody Sees               | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Aliens: What If...?                               | Marvel Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| Aliens: What If...?                               | Marvel Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| Aliens: What If...?                               | Marvel Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| Aliens: What If...?                               | Marvel Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| The Amazing Spider-Man                            | Marvel Comics                  | 47      | 04&#x2F;10&#x2F;2024 |
+| Beneath the Trees Where Nobody Sees               | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Beneath the Trees Where Nobody Sees               | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Beneath the Trees Where Nobody Sees               | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Betty and Veronica Jumbo Comics Digest            | Archie Comics                  | 32      | 04&#x2F;10&#x2F;2024 |
+| Big Ethel Energy: Season 2                        | Archie Comics                  | 60      | 04&#x2F;10&#x2F;2024 |
+| Buddy McGill                                      | Advent Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| The Cabinet                                       | Image Comics                   | 3       | 04&#x2F;10&#x2F;2024 |
+| The Cabinet                                       | Image Comics                   | 3       | 04&#x2F;10&#x2F;2024 |
+| The Cabinet                                       | Image Comics                   | 3       | 04&#x2F;10&#x2F;2024 |
+| The Cabinet                                       | Image Comics                   | 3       | 04&#x2F;10&#x2F;2024 |
+| Calexit Battle Of Universal City                  | Black Mask Studios             | 3       | 04&#x2F;10&#x2F;2024 |
+| Calexit Battle Of Universal City                  | Black Mask Studios             | 3       | 04&#x2F;10&#x2F;2024 |
+| Calexit Battle Of Universal City                  | Black Mask Studios             | 3       | 04&#x2F;10&#x2F;2024 |
+| Calexit Battle Of Universal City                  | Black Mask Studios             | 3       | 04&#x2F;10&#x2F;2024 |
+| Capable                                           | Advent Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| Capable                                           | Advent Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| Carnage                                           | Marvel Comics                  | 6       | 04&#x2F;10&#x2F;2024 |
+| Carnage                                           | Marvel Comics                  | 6       | 04&#x2F;10&#x2F;2024 |
+| Carnage                                           | Marvel Comics                  | 6       | 04&#x2F;10&#x2F;2024 |
+| Count Crowley: Mediocre Midnight Monster Hunter   | Dark Horse Comics              | 3       | 04&#x2F;10&#x2F;2024 |
+| Count Crowley: Mediocre Midnight Monster Hunter   | Dark Horse Comics              | 3       | 04&#x2F;10&#x2F;2024 |
+| The Crying Boy                                    | Keenspot                       | 2       | 04&#x2F;10&#x2F;2024 |
+| The Crying Boy                                    | Keenspot                       | 2       | 04&#x2F;10&#x2F;2024 |
+| The Crying Boy                                    | Keenspot                       | 2       | 04&#x2F;10&#x2F;2024 |
+| The Crying Boy                                    | Keenspot                       | 2       | 04&#x2F;10&#x2F;2024 |
+| Cullen Bunn&#39;s Body Bag                            | Massive Publishing             | 1       | 04&#x2F;10&#x2F;2024 |
+| Dark Spaces: Dungeon                              | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Dark Spaces: Dungeon                              | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Dark Spaces: Dungeon                              | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Dark Spaces: Dungeon                              | IDW Publishing                 | 5       | 04&#x2F;10&#x2F;2024 |
+| Deadweights                                       | Ahoy Comics                    | 1       | 04&#x2F;10&#x2F;2024 |
+| Deadweights                                       | Ahoy Comics                    | 1       | 04&#x2F;10&#x2F;2024 |
+| Dungeons &amp; Dragons: The Thief of Many Things      | IDW Publishing                 | 1       | 04&#x2F;10&#x2F;2024 |
+| Dungeons &amp; Dragons: The Thief of Many Things      | IDW Publishing                 | 1       | 04&#x2F;10&#x2F;2024 |
+| Earthdivers                                       | IDW Publishing                 | 16      | 04&#x2F;10&#x2F;2024 |
+| Earthdivers                                       | IDW Publishing                 | 16      | 04&#x2F;10&#x2F;2024 |
+| Edge of Spider-Verse                              | Marvel Comics                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Edge of Spider-Verse                              | Marvel Comics                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Edge of Spider-Verse                              | Marvel Comics                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Edge of Spider-Verse                              | Marvel Comics                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Edge of Spider-Verse                              | Marvel Comics                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Edge of Spider-Verse                              | Marvel Comics                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Edge of Spider-Verse                              | Marvel Comics                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Fairy Tale Team-Up: Robyn Hood &amp; Gretel           | Zenescope                      | 1       | 04&#x2F;10&#x2F;2024 |
+| Fairy Tale Team-Up: Robyn Hood &amp; Gretel           | Zenescope                      | 1       | 04&#x2F;10&#x2F;2024 |
+| Fairy Tale Team-Up: Robyn Hood &amp; Gretel           | Zenescope                      | 1       | 04&#x2F;10&#x2F;2024 |
+| Fairy Tale Team-Up: Robyn Hood &amp; Gretel           | Zenescope                      | 1       | 04&#x2F;10&#x2F;2024 |
+| Fairy Tale Team-Up: Robyn Hood &amp; Gretel           | Zenescope                      | 1       | 04&#x2F;10&#x2F;2024 |
+| Fantastic Four                                    | Marvel Comics                  | 19      | 04&#x2F;10&#x2F;2024 |
+| Fantastic Four                                    | Marvel Comics                  | 19      | 04&#x2F;10&#x2F;2024 |
+| Fantastic Four                                    | Marvel Comics                  | 19      | 04&#x2F;10&#x2F;2024 |
+| Fantastic Four                                    | Marvel Comics                  | 19      | 04&#x2F;10&#x2F;2024 |
+| Femforce                                          | AC Comics                      | 20      | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hercules                                          | Dynamite                       | 1       | 04&#x2F;10&#x2F;2024 |
+| Hexpaw: Left Paw of the Devil                     | Blood Moon Comics              | 3       | 04&#x2F;10&#x2F;2024 |
+| Hexpaw: Left Paw of the Devil                     | Blood Moon Comics              | 3       | 04&#x2F;10&#x2F;2024 |
+| Homeland                                          | Advent Comics                  | 0       | 04&#x2F;10&#x2F;2024 |
+| House of Slaughter                                | BOOM! Studios                  | 22      | 04&#x2F;10&#x2F;2024 |
+| House of Slaughter                                | BOOM! Studios                  | 22      | 04&#x2F;10&#x2F;2024 |
+| House of Slaughter                                | BOOM! Studios                  | 22      | 04&#x2F;10&#x2F;2024 |
+| House of Slaughter                                | BOOM! Studios                  | 22      | 04&#x2F;10&#x2F;2024 |
+| House of Slaughter                                | BOOM! Studios                  | 22      | 04&#x2F;10&#x2F;2024 |
+| House of Slaughter                                | BOOM! Studios                  | 22      | 04&#x2F;10&#x2F;2024 |
+| House of Slaughter                                | BOOM! Studios                  | 22      | 04&#x2F;10&#x2F;2024 |
+| I Hate Fairyland                                  | Image Comics                   | 13      | 04&#x2F;10&#x2F;2024 |
+| I Hate Fairyland                                  | Image Comics                   | 13      | 04&#x2F;10&#x2F;2024 |
+| The Incredible Hulk                               | Marvel Comics                  | 11      | 04&#x2F;10&#x2F;2024 |
+| The Incredible Hulk                               | Marvel Comics                  | 11      | 04&#x2F;10&#x2F;2024 |
+| The Incredible Hulk                               | Marvel Comics                  | 11      | 04&#x2F;10&#x2F;2024 |
+| The Invincible Iron Man                           | Marvel Comics                  | 17      | 04&#x2F;10&#x2F;2024 |
+| The Invincible Iron Man                           | Marvel Comics                  | 17      | 04&#x2F;10&#x2F;2024 |
+| The Invincible Iron Man                           | Marvel Comics                  | 17      | 04&#x2F;10&#x2F;2024 |
+| Jennifer Blood: Battle Diary                      | Dynamite                       | 5       | 04&#x2F;10&#x2F;2024 |
+| Jennifer Blood: Battle Diary                      | Dynamite                       | 5       | 04&#x2F;10&#x2F;2024 |
+| Jennifer Blood: Battle Diary                      | Dynamite                       | 5       | 04&#x2F;10&#x2F;2024 |
+| Jennifer Blood: Battle Diary                      | Dynamite                       | 5       | 04&#x2F;10&#x2F;2024 |
+| Jennifer Blood: Battle Diary                      | Dynamite                       | 5       | 04&#x2F;10&#x2F;2024 |
+| Jennifer Blood: Battle Diary                      | Dynamite                       | 5       | 04&#x2F;10&#x2F;2024 |
+| Jennifer Blood: Battle Diary                      | Dynamite                       | 5       | 04&#x2F;10&#x2F;2024 |
+| Jim Henson&#39;s Labyrinth: Archive Edition           | BOOM! Studios                  | 1       | 04&#x2F;10&#x2F;2024 |
+| Jim Henson&#39;s Labyrinth: Archive Edition           | BOOM! Studios                  | 1       | 04&#x2F;10&#x2F;2024 |
+| A Legacy of Violence                              | Mad Cave Studios               | 12      | 04&#x2F;10&#x2F;2024 |
+| Little Black Book                                 | Artists Writers &amp; Artisans Inc | 2       | 04&#x2F;10&#x2F;2024 |
+| Little Black Book                                 | Artists Writers &amp; Artisans Inc | 2       | 04&#x2F;10&#x2F;2024 |
+| Little Black Book                                 | Artists Writers &amp; Artisans Inc | 2       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return          | BOOM! Studios                  | 3       | 04&#x2F;10&#x2F;2024 |
+| Monsters Are My Business (And Business is Bloody) | Dark Horse Comics              | 1       | 04&#x2F;10&#x2F;2024 |
+| Ms. Marvel: Mutant Menace                         | Marvel Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| Ms. Marvel: Mutant Menace                         | Marvel Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| Ms. Marvel: Mutant Menace                         | Marvel Comics                  | 2       | 04&#x2F;10&#x2F;2024 |
+| My Little Pony: Set Your Sail                     | IDW Publishing                 | 1       | 04&#x2F;10&#x2F;2024 |
+| My Little Pony: Set Your Sail                     | IDW Publishing                 | 1       | 04&#x2F;10&#x2F;2024 |
+| Napalm Lullaby                                    | Image Comics                   | 2       | 04&#x2F;10&#x2F;2024 |
+| Napalm Lullaby                                    | Image Comics                   | 2       | 04&#x2F;10&#x2F;2024 |
+| Nottingham                                        | Mad Cave Studios               | 11      | 04&#x2F;10&#x2F;2024 |
+| Nottingham                                        | Mad Cave Studios               | 11      | 04&#x2F;10&#x2F;2024 |
+| Nouns: Nountown                                   | Titan Books                    | 2       | 04&#x2F;10&#x2F;2024 |
+| Nouns: Nountown                                   | Titan Books                    | 2       | 04&#x2F;10&#x2F;2024 |
+| Phantom Road                                      | Image Comics                   | 10      | 04&#x2F;10&#x2F;2024 |
+| Phantom Road                                      | Image Comics                   | 10      | 04&#x2F;10&#x2F;2024 |
+| Rat City                                          | Image Comics                   | 1       | 04&#x2F;10&#x2F;2024 |
+| Rat City                                          | Image Comics                   | 1       | 04&#x2F;10&#x2F;2024 |
+| Resurrection of Magneto                           | Marvel Comics                  | 4       | 04&#x2F;10&#x2F;2024 |
+| Resurrection of Magneto                           | Marvel Comics                  | 4       | 04&#x2F;10&#x2F;2024 |
+| Resurrection of Magneto                           | Marvel Comics                  | 4       | 04&#x2F;10&#x2F;2024 |
+| The Scorched                                      | Image Comics                   | 28      | 04&#x2F;10&#x2F;2024 |
+| The Scorched                                      | Image Comics                   | 28      | 04&#x2F;10&#x2F;2024 |
+| The Seance Room: Harry&#39;s Opus                     | Source Point Press             | 1       | 04&#x2F;10&#x2F;2024 |
+| Silicon Bandits                                   | Other                          | 1       | 04&#x2F;10&#x2F;2024 |
+| Silicon Bandits                                   | Other                          | 1       | 04&#x2F;10&#x2F;2024 |
+| Silicon Bandits                                   | Other                          | 1       | 04&#x2F;10&#x2F;2024 |
+| Snaps                                             | Scout Comics                   | 1       | 04&#x2F;10&#x2F;2024 |
+| Snaps                                             | Scout Comics                   | 1       | 04&#x2F;10&#x2F;2024 |
+| Snaps                                             | Scout Comics                   | 1       | 04&#x2F;10&#x2F;2024 |
+| St. Mercy: Godland                                | Image Comics                   | 1       | 04&#x2F;10&#x2F;2024 |
+| St. Mercy: Godland                                | Image Comics                   | 1       | 04&#x2F;10&#x2F;2024 |
+| Star Trek Explorer                                | Titan Books                    | 11      | 04&#x2F;10&#x2F;2024 |
+| Star Trek Explorer                                | Titan Books                    | 11      | 04&#x2F;10&#x2F;2024 |
+| Star Wars: Darth Vader                            | Marvel Comics                  | 45      | 04&#x2F;10&#x2F;2024 |
+| Star Wars: Darth Vader                            | Marvel Comics                  | 45      | 04&#x2F;10&#x2F;2024 |
+| Star Wars: Darth Vader                            | Marvel Comics                  | 45      | 04&#x2F;10&#x2F;2024 |
+| Star Wars: Darth Vader                            | Marvel Comics                  | 45      | 04&#x2F;10&#x2F;2024 |
+| Star Wars: Darth Vader                            | Marvel Comics                  | 45      | 04&#x2F;10&#x2F;2024 |
+| Star Wars: Darth Vader                            | Marvel Comics                  | 45      | 04&#x2F;10&#x2F;2024 |
 
 </details>
