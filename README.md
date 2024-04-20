@@ -85,6 +85,11 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Spectacular Spider-Men                                        | Marvel Comics     | 2       | 04&#x2F;17&#x2F;2024 |
 | The Spectacular Spider-Men                                        | Marvel Comics     | 2       | 04&#x2F;17&#x2F;2024 |
 | The Spectacular Spider-Men                                        | Marvel Comics     | 2       | 04&#x2F;17&#x2F;2024 |
+| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
+| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
+| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
+| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
+| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
 | Catwoman                                                          | DC Comics         | 64      | 04&#x2F;16&#x2F;2024 |
 | Catwoman                                                          | DC Comics         | 64      | 04&#x2F;16&#x2F;2024 |
 | Catwoman                                                          | DC Comics         | 64      | 04&#x2F;16&#x2F;2024 |
@@ -96,24 +101,19 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Catwoman                                                          | DC Comics         | 64      | 04&#x2F;16&#x2F;2024 |
 | Dead X-Men                                                        | Marvel Comics     | 4       | 04&#x2F;17&#x2F;2024 |
 | Dead X-Men                                                        | Marvel Comics     | 4       | 04&#x2F;17&#x2F;2024 |
-| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
-| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
-| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
-| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
-| Cobra Commander                                                   | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
 | Spider-Boy                                                        | Marvel Comics     | 6       | 04&#x2F;17&#x2F;2024 |
 | Spider-Boy                                                        | Marvel Comics     | 6       | 04&#x2F;17&#x2F;2024 |
 | Spider-Boy                                                        | Marvel Comics     | 6       | 04&#x2F;17&#x2F;2024 |
 | Spider-Boy                                                        | Marvel Comics     | 6       | 04&#x2F;17&#x2F;2024 |
-| Green Lantern: War Journal                                        | DC Comics         | 8       | 04&#x2F;16&#x2F;2024 |
-| Green Lantern: War Journal                                        | DC Comics         | 8       | 04&#x2F;16&#x2F;2024 |
-| Green Lantern: War Journal                                        | DC Comics         | 8       | 04&#x2F;16&#x2F;2024 |
 | John Constantine, Hellblazer: Dead in America                     | DC Comics         | 4       | 04&#x2F;16&#x2F;2024 |
 | John Constantine, Hellblazer: Dead in America                     | DC Comics         | 4       | 04&#x2F;16&#x2F;2024 |
 | Batman: Off-World                                                 | DC Comics         | 4       | 04&#x2F;16&#x2F;2024 |
 | Batman: Off-World                                                 | DC Comics         | 4       | 04&#x2F;16&#x2F;2024 |
 | Batman: Off-World                                                 | DC Comics         | 4       | 04&#x2F;16&#x2F;2024 |
 | Batman: Off-World                                                 | DC Comics         | 4       | 04&#x2F;16&#x2F;2024 |
+| Green Lantern: War Journal                                        | DC Comics         | 8       | 04&#x2F;16&#x2F;2024 |
+| Green Lantern: War Journal                                        | DC Comics         | 8       | 04&#x2F;16&#x2F;2024 |
+| Green Lantern: War Journal                                        | DC Comics         | 8       | 04&#x2F;16&#x2F;2024 |
 | Jay Garrick: The Flash                                            | DC Comics         | 6       | 04&#x2F;16&#x2F;2024 |
 | Jay Garrick: The Flash                                            | DC Comics         | 6       | 04&#x2F;16&#x2F;2024 |
 | Jay Garrick: The Flash                                            | DC Comics         | 6       | 04&#x2F;16&#x2F;2024 |
@@ -127,6 +127,10 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Ghost Rider: Final Vengeance                                      | Marvel Comics     | 2       | 04&#x2F;17&#x2F;2024 |
 | Ghost Rider: Final Vengeance                                      | Marvel Comics     | 2       | 04&#x2F;17&#x2F;2024 |
 | Ghost Rider: Final Vengeance                                      | Marvel Comics     | 2       | 04&#x2F;17&#x2F;2024 |
+| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
+| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
+| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
+| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
 | Spider-Woman                                                      | Marvel Comics     | 6       | 04&#x2F;17&#x2F;2024 |
 | Spider-Woman                                                      | Marvel Comics     | 6       | 04&#x2F;17&#x2F;2024 |
 | Spider-Woman                                                      | Marvel Comics     | 6       | 04&#x2F;17&#x2F;2024 |
@@ -136,16 +140,12 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | What If...?: Venom                                                | Marvel Comics     | 3       | 04&#x2F;17&#x2F;2024 |
 | What If...?: Venom                                                | Marvel Comics     | 3       | 04&#x2F;17&#x2F;2024 |
 | What If...?: Venom                                                | Marvel Comics     | 3       | 04&#x2F;17&#x2F;2024 |
-| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
-| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
-| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
-| Roxxon Presents: Thor                                             | Marvel Comics     | 1       | 04&#x2F;17&#x2F;2024 |
-| Captain Marvel                                                    | Marvel Comics     | 7       | 04&#x2F;17&#x2F;2024 |
-| Captain Marvel                                                    | Marvel Comics     | 7       | 04&#x2F;17&#x2F;2024 |
-| Captain Marvel                                                    | Marvel Comics     | 7       | 04&#x2F;17&#x2F;2024 |
 | Helen of Wyndhorn                                                 | Dark Horse Comics | 2       | 04&#x2F;17&#x2F;2024 |
 | Helen of Wyndhorn                                                 | Dark Horse Comics | 2       | 04&#x2F;17&#x2F;2024 |
 | Helen of Wyndhorn                                                 | Dark Horse Comics | 2       | 04&#x2F;17&#x2F;2024 |
+| Captain Marvel                                                    | Marvel Comics     | 7       | 04&#x2F;17&#x2F;2024 |
+| Captain Marvel                                                    | Marvel Comics     | 7       | 04&#x2F;17&#x2F;2024 |
+| Captain Marvel                                                    | Marvel Comics     | 7       | 04&#x2F;17&#x2F;2024 |
 | Animal Pound                                                      | BOOM! Studios     | 3       | 04&#x2F;17&#x2F;2024 |
 | Animal Pound                                                      | BOOM! Studios     | 3       | 04&#x2F;17&#x2F;2024 |
 | Animal Pound                                                      | BOOM! Studios     | 3       | 04&#x2F;17&#x2F;2024 |
@@ -175,19 +175,18 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Something Epic                                                    | Image Comics      | 9       | 04&#x2F;17&#x2F;2024 |
 | Something Epic                                                    | Image Comics      | 9       | 04&#x2F;17&#x2F;2024 |
 | Something Epic                                                    | Image Comics      | 9       | 04&#x2F;17&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 2       | 04&#x2F;17&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 2       | 04&#x2F;17&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 2       | 04&#x2F;17&#x2F;2024 |
 | Sam and Twitch: Case Files                                        | Image Comics      | 2       | 04&#x2F;17&#x2F;2024 |
 | Sam and Twitch: Case Files                                        | Image Comics      | 2       | 04&#x2F;17&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 2       | 04&#x2F;17&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 2       | 04&#x2F;17&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 2       | 04&#x2F;17&#x2F;2024 |
-| Blue Book: 1947                                                   | Dark Horse Comics | 3       | 04&#x2F;17&#x2F;2024 |
-| Blue Book: 1947                                                   | Dark Horse Comics | 3       | 04&#x2F;17&#x2F;2024 |
-| Blue Book: 1947                                                   | Dark Horse Comics | 3       | 04&#x2F;17&#x2F;2024 |
 | Star Trek                                                         | IDW Publishing    | 19      | 04&#x2F;17&#x2F;2024 |
 | Star Trek                                                         | IDW Publishing    | 19      | 04&#x2F;17&#x2F;2024 |
 | Star Trek                                                         | IDW Publishing    | 19      | 04&#x2F;17&#x2F;2024 |
+| Blue Book: 1947                                                   | Dark Horse Comics | 3       | 04&#x2F;17&#x2F;2024 |
+| Blue Book: 1947                                                   | Dark Horse Comics | 3       | 04&#x2F;17&#x2F;2024 |
+| Blue Book: 1947                                                   | Dark Horse Comics | 3       | 04&#x2F;17&#x2F;2024 |
 | James Bond 007                                                    | Dynamite          | 4       | 04&#x2F;17&#x2F;2024 |
-| Hack &#x2F; Slash: Back to School                                      | Image Comics      | 4       | 04&#x2F;17&#x2F;2024 |
 | The Displaced                                                     | BOOM! Studios     | 3       | 04&#x2F;17&#x2F;2024 |
 | The Displaced                                                     | BOOM! Studios     | 3       | 04&#x2F;17&#x2F;2024 |
 | The Displaced                                                     | BOOM! Studios     | 3       | 04&#x2F;17&#x2F;2024 |
