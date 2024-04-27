@@ -69,6 +69,7 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Something is Killing the Children                         | BOOM! Studios  | 36      | 04&#x2F;24&#x2F;2024 |
 | Something is Killing the Children                         | BOOM! Studios  | 36      | 04&#x2F;24&#x2F;2024 |
 | Something is Killing the Children                         | BOOM! Studios  | 36      | 04&#x2F;24&#x2F;2024 |
+| Something is Killing the Children                         | BOOM! Studios  | 36      | 04&#x2F;24&#x2F;2024 |
 | Green Arrow                                               | DC Comics      | 11      | 04&#x2F;23&#x2F;2024 |
 | Green Arrow                                               | DC Comics      | 11      | 04&#x2F;23&#x2F;2024 |
 | Daredevil                                                 | Marvel Comics  | 8       | 04&#x2F;24&#x2F;2024 |
@@ -135,9 +136,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Teenage Mutant Ninja Turtles                              | IDW Publishing | 15      | 04&#x2F;24&#x2F;2024 |
 | Teenage Mutant Ninja Turtles                              | IDW Publishing | 15      | 04&#x2F;24&#x2F;2024 |
 | Teenage Mutant Ninja Turtles                              | IDW Publishing | 15      | 04&#x2F;24&#x2F;2024 |
-| Superior Spider-Man                                       | Marvel Comics  | 6       | 04&#x2F;24&#x2F;2024 |
-| Superior Spider-Man                                       | Marvel Comics  | 6       | 04&#x2F;24&#x2F;2024 |
-| Superior Spider-Man                                       | Marvel Comics  | 6       | 04&#x2F;24&#x2F;2024 |
 | X-Men: Forever                                            | Marvel Comics  | 2       | 04&#x2F;24&#x2F;2024 |
 | X-Men: Forever                                            | Marvel Comics  | 2       | 04&#x2F;24&#x2F;2024 |
 | X-Men: Forever                                            | Marvel Comics  | 2       | 04&#x2F;24&#x2F;2024 |
@@ -145,12 +143,15 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | X-Men: Forever                                            | Marvel Comics  | 2       | 04&#x2F;24&#x2F;2024 |
 | X-Men: Forever                                            | Marvel Comics  | 2       | 04&#x2F;24&#x2F;2024 |
 | Monstress                                                 | Image Comics   | 51      | 04&#x2F;24&#x2F;2024 |
-| Blade                                                     | Marvel Comics  | 10      | 04&#x2F;24&#x2F;2024 |
-| Blade                                                     | Marvel Comics  | 10      | 04&#x2F;24&#x2F;2024 |
-| Blade                                                     | Marvel Comics  | 10      | 04&#x2F;24&#x2F;2024 |
+| Superior Spider-Man                                       | Marvel Comics  | 6       | 04&#x2F;24&#x2F;2024 |
+| Superior Spider-Man                                       | Marvel Comics  | 6       | 04&#x2F;24&#x2F;2024 |
+| Superior Spider-Man                                       | Marvel Comics  | 6       | 04&#x2F;24&#x2F;2024 |
 | Batman: The Brave and the Bold                            | DC Comics      | 12      | 04&#x2F;23&#x2F;2024 |
 | Batman: The Brave and the Bold                            | DC Comics      | 12      | 04&#x2F;23&#x2F;2024 |
 | Batman: The Brave and the Bold                            | DC Comics      | 12      | 04&#x2F;23&#x2F;2024 |
+| Blade                                                     | Marvel Comics  | 10      | 04&#x2F;24&#x2F;2024 |
+| Blade                                                     | Marvel Comics  | 10      | 04&#x2F;24&#x2F;2024 |
+| Blade                                                     | Marvel Comics  | 10      | 04&#x2F;24&#x2F;2024 |
 | Power Girl                                                | DC Comics      | 8       | 04&#x2F;23&#x2F;2024 |
 | Power Girl                                                | DC Comics      | 8       | 04&#x2F;23&#x2F;2024 |
 | Power Girl                                                | DC Comics      | 8       | 04&#x2F;23&#x2F;2024 |
@@ -174,10 +175,18 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Conan the Barbarian                                       | Titan Books    | 10      | 04&#x2F;24&#x2F;2024 |
 | Conan the Barbarian                                       | Titan Books    | 10      | 04&#x2F;24&#x2F;2024 |
 | Conan the Barbarian                                       | Titan Books    | 10      | 04&#x2F;24&#x2F;2024 |
-| Wolverine: Madripoor Knights                              | Marvel Comics  | 3       | 04&#x2F;25&#x2F;2024 |
-| Wolverine: Madripoor Knights                              | Marvel Comics  | 3       | 04&#x2F;25&#x2F;2024 |
-| Wolverine: Madripoor Knights                              | Marvel Comics  | 3       | 04&#x2F;25&#x2F;2024 |
-| Wolverine: Madripoor Knights                              | Marvel Comics  | 3       | 04&#x2F;25&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
+| Universal Monsters: Creature from the Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics  | 1       | 04&#x2F;24&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics  | 1       | 04&#x2F;24&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics  | 1       | 04&#x2F;24&#x2F;2024 |
@@ -187,14 +196,5 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics  | 1       | 04&#x2F;24&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics  | 1       | 04&#x2F;24&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics  | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
-| Universal Monsters: Creature From The Black Lagoon Lives! | Image Comics   | 1       | 04&#x2F;24&#x2F;2024 |
 
 </details>
