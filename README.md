@@ -72,6 +72,9 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Redcoat                                                           | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
 | Redcoat                                                           | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
 | Redcoat                                                           | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
+| The Amazing Spider-Man: Blood Hunt                                | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| The Amazing Spider-Man: Blood Hunt                                | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| The Amazing Spider-Man: Blood Hunt                                | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
 | Ice Cream Man                                                     | Image Comics                   | 39      | 05&#x2F;15&#x2F;2024 |
 | Ice Cream Man                                                     | Image Comics                   | 39      | 05&#x2F;15&#x2F;2024 |
 | Carnage                                                           | Marvel Comics                  | 7       | 05&#x2F;15&#x2F;2024 |
@@ -79,24 +82,60 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Carnage                                                           | Marvel Comics                  | 7       | 05&#x2F;15&#x2F;2024 |
 | Blue Beetle                                                       | DC Comics                      | 9       | 05&#x2F;14&#x2F;2024 |
 | Blue Beetle                                                       | DC Comics                      | 9       | 05&#x2F;14&#x2F;2024 |
-| The Amazing Spider-Man: Blood Hunt                                | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| The Amazing Spider-Man: Blood Hunt                                | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| The Amazing Spider-Man: Blood Hunt                                | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
 | The Walking Dead Deluxe                                           | Image Comics                   | 89      | 05&#x2F;15&#x2F;2024 |
 | The Walking Dead Deluxe                                           | Image Comics                   | 89      | 05&#x2F;15&#x2F;2024 |
 | The Walking Dead Deluxe                                           | Image Comics                   | 89      | 05&#x2F;15&#x2F;2024 |
 | Ms. Marvel: Mutant Menace                                         | Marvel Comics                  | 3       | 05&#x2F;15&#x2F;2024 |
 | Ms. Marvel: Mutant Menace                                         | Marvel Comics                  | 3       | 05&#x2F;15&#x2F;2024 |
 | Ms. Marvel: Mutant Menace                                         | Marvel Comics                  | 3       | 05&#x2F;15&#x2F;2024 |
-| Red Hood: The Hill                                                | DC Comics                      | 4       | 05&#x2F;14&#x2F;2024 |
-| Red Hood: The Hill                                                | DC Comics                      | 4       | 05&#x2F;14&#x2F;2024 |
 | Weapon X-Men                                                      | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
 | Weapon X-Men                                                      | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
+| Red Hood: The Hill                                                | DC Comics                      | 4       | 05&#x2F;14&#x2F;2024 |
+| Red Hood: The Hill                                                | DC Comics                      | 4       | 05&#x2F;14&#x2F;2024 |
 | G.I. Joe: A Real American Hero                                    | Image Comics                   | 30      | 05&#x2F;15&#x2F;2024 |
 | G.I. Joe: A Real American Hero                                    | Image Comics                   | 30      | 05&#x2F;15&#x2F;2024 |
 | G.I. Joe: A Real American Hero                                    | Image Comics                   | 30      | 05&#x2F;15&#x2F;2024 |
 | G.I. Joe: A Real American Hero                                    | Image Comics                   | 30      | 05&#x2F;15&#x2F;2024 |
 | G.I. Joe: A Real American Hero                                    | Image Comics                   | 30      | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| Thundercats                                                       | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
+| What If...?: Venom                                                | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
+| What If...?: Venom                                                | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
 | What If...?: Venom                                                | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
 | What If...?: Venom                                                | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
 | What If...?: Venom                                                | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
@@ -108,24 +147,24 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Suicide Squad: Dream Team                                         | DC Comics                      | 3       | 05&#x2F;14&#x2F;2024 |
 | Suicide Squad: Dream Team                                         | DC Comics                      | 3       | 05&#x2F;14&#x2F;2024 |
 | Suicide Squad: Dream Team                                         | DC Comics                      | 3       | 05&#x2F;14&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
 | Outsiders                                                         | DC Comics                      | 7       | 05&#x2F;14&#x2F;2024 |
 | Outsiders                                                         | DC Comics                      | 7       | 05&#x2F;14&#x2F;2024 |
 | Outsiders                                                         | DC Comics                      | 7       | 05&#x2F;14&#x2F;2024 |
 | Star Wars: Mace Windu                                             | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
 | Star Wars: Mace Windu                                             | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
 | Star Wars: Mace Windu                                             | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Venom: Separation Anxiety                                         | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
 | Dark Ride                                                         | Image Comics                   | 12      | 05&#x2F;15&#x2F;2024 |
 | Dark Ride                                                         | Image Comics                   | 12      | 05&#x2F;15&#x2F;2024 |
 | Dark Ride                                                         | Image Comics                   | 12      | 05&#x2F;15&#x2F;2024 |
@@ -138,6 +177,7 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Something Epic                                                    | Image Comics                   | 10      | 05&#x2F;15&#x2F;2024 |
 | Napalm Lullaby                                                    | Image Comics                   | 3       | 05&#x2F;15&#x2F;2024 |
 | Napalm Lullaby                                                    | Image Comics                   | 3       | 05&#x2F;15&#x2F;2024 |
+| Briar                                                             | BOOM! Studios                  | 5       | 05&#x2F;15&#x2F;2024 |
 | Briar                                                             | BOOM! Studios                  | 5       | 05&#x2F;15&#x2F;2024 |
 | Briar                                                             | BOOM! Studios                  | 5       | 05&#x2F;15&#x2F;2024 |
 | Briar                                                             | BOOM! Studios                  | 5       | 05&#x2F;15&#x2F;2024 |
@@ -168,28 +208,28 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Displaced                                                     | BOOM! Studios                  | 4       | 05&#x2F;15&#x2F;2024 |
 | The Displaced                                                     | BOOM! Studios                  | 4       | 05&#x2F;15&#x2F;2024 |
 | The Displaced                                                     | BOOM! Studios                  | 4       | 05&#x2F;15&#x2F;2024 |
+| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
+| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
+| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
+| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
+| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
+| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
+| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
 | I Heart Skull-Crusher                                             | BOOM! Studios                  | 3       | 05&#x2F;15&#x2F;2024 |
 | I Heart Skull-Crusher                                             | BOOM! Studios                  | 3       | 05&#x2F;15&#x2F;2024 |
 | I Heart Skull-Crusher                                             | BOOM! Studios                  | 3       | 05&#x2F;15&#x2F;2024 |
 | I Heart Skull-Crusher                                             | BOOM! Studios                  | 3       | 05&#x2F;15&#x2F;2024 |
 | I Heart Skull-Crusher                                             | BOOM! Studios                  | 3       | 05&#x2F;15&#x2F;2024 |
-| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
-| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
-| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
-| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
-| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
-| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
-| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
-| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
-| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
-| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
-| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
-| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
-| Godzilla: 70th Anniversary                                        | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
 | Uncanny Valley                                                    | BOOM! Studios                  | 2       | 05&#x2F;15&#x2F;2024 |
 | Uncanny Valley                                                    | BOOM! Studios                  | 2       | 05&#x2F;15&#x2F;2024 |
 | Uncanny Valley                                                    | BOOM! Studios                  | 2       | 05&#x2F;15&#x2F;2024 |
 | Uncanny Valley                                                    | BOOM! Studios                  | 2       | 05&#x2F;15&#x2F;2024 |
+| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
+| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
+| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
+| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
+| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
+| Gargoyles: Quest                                                  | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
 | Monolith                                                          | Image Comics                   | 1       | 05&#x2F;15&#x2F;2024 |
 | Monolith                                                          | Image Comics                   | 1       | 05&#x2F;15&#x2F;2024 |
 | Gun Honey: Collision Course                                       | Titan Books                    | 1       | 05&#x2F;15&#x2F;2024 |
@@ -215,14 +255,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Gun Honey: Collision Course                                       | Titan Books                    | 1       | 05&#x2F;15&#x2F;2024 |
 | Gun Honey: Collision Course                                       | Titan Books                    | 1       | 05&#x2F;15&#x2F;2024 |
 | Gun Honey: Collision Course                                       | Titan Books                    | 1       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
-| Disney Villains: Cruella De Vil                                   | Dynamite                       | 4       | 05&#x2F;15&#x2F;2024 |
 | Masters Of The Universe: Revolution                               | Dark Horse Comics              | 1       | 05&#x2F;15&#x2F;2024 |
 | Masters Of The Universe: Revolution                               | Dark Horse Comics              | 1       | 05&#x2F;15&#x2F;2024 |
 | Hercules                                                          | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
@@ -238,105 +270,102 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Hercules                                                          | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
 | Hercules                                                          | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
 | Hercules                                                          | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
 | Looney Tunes                                                      | DC Comics                      | 27      | 05&#x2F;14&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Darkwing Duck: Justice Ducks                                      | Dynamite                       | 3       | 05&#x2F;15&#x2F;2024 |
 | The Amazing Spider-Man                                            | Marvel Comics                  | 25      | 05&#x2F;15&#x2F;2024 |
 | The Weatherman                                                    | Image Comics                   | 5       | 05&#x2F;15&#x2F;2024 |
 | My Hero Academia                                                  | VIZ Media                      | 42      | 05&#x2F;12&#x2F;2024 |
+| U &amp; I                                                             | Artists Writers &amp; Artisans Inc | 4       | 05&#x2F;15&#x2F;2024 |
+| U &amp; I                                                             | Artists Writers &amp; Artisans Inc | 4       | 05&#x2F;15&#x2F;2024 |
+| U &amp; I                                                             | Artists Writers &amp; Artisans Inc | 4       | 05&#x2F;15&#x2F;2024 |
 | One Piece                                                         | VIZ Media                      | 11      | 05&#x2F;12&#x2F;2024 |
-| U &amp; I                                                             | Artists Writers &amp; Artisans Inc | 4       | 05&#x2F;15&#x2F;2024 |
-| U &amp; I                                                             | Artists Writers &amp; Artisans Inc | 4       | 05&#x2F;15&#x2F;2024 |
-| U &amp; I                                                             | Artists Writers &amp; Artisans Inc | 4       | 05&#x2F;15&#x2F;2024 |
-| Principles of Necromancy                                          | Magma Comix                    | 2       | 05&#x2F;15&#x2F;2024 |
-| Principles of Necromancy                                          | Magma Comix                    | 2       | 05&#x2F;15&#x2F;2024 |
-| Principles of Necromancy                                          | Magma Comix                    | 2       | 05&#x2F;15&#x2F;2024 |
+| The Principles of Necromancy                                      | Magma Comix                    | 2       | 05&#x2F;15&#x2F;2024 |
+| The Principles of Necromancy                                      | Magma Comix                    | 2       | 05&#x2F;15&#x2F;2024 |
+| The Principles of Necromancy                                      | Magma Comix                    | 2       | 05&#x2F;15&#x2F;2024 |
 | X-O Manowar: Invictus                                             | Valiant                        | 1       | 05&#x2F;15&#x2F;2024 |
 | X-O Manowar: Invictus                                             | Valiant                        | 1       | 05&#x2F;15&#x2F;2024 |
 | X-O Manowar: Invictus                                             | Valiant                        | 1       | 05&#x2F;15&#x2F;2024 |
 | X-O Manowar: Invictus                                             | Valiant                        | 1       | 05&#x2F;15&#x2F;2024 |
 | X-O Manowar: Invictus                                             | Valiant                        | 1       | 05&#x2F;15&#x2F;2024 |
+| Sanction                                                          | Mad Cave Studios               | 1       | 05&#x2F;15&#x2F;2024 |
+| Sanction                                                          | Mad Cave Studios               | 1       | 05&#x2F;15&#x2F;2024 |
 | Heartpiercer                                                      | Dark Horse Comics              | 1       | 05&#x2F;15&#x2F;2024 |
 | The Cabinet                                                       | Image Comics                   | 4       | 05&#x2F;15&#x2F;2024 |
 | The Cabinet                                                       | Image Comics                   | 4       | 05&#x2F;15&#x2F;2024 |
 | The Cabinet                                                       | Image Comics                   | 4       | 05&#x2F;15&#x2F;2024 |
 | The Cabinet                                                       | Image Comics                   | 4       | 05&#x2F;15&#x2F;2024 |
-| Sanction                                                          | Mad Cave Studios               | 1       | 05&#x2F;15&#x2F;2024 |
-| Sanction                                                          | Mad Cave Studios               | 1       | 05&#x2F;15&#x2F;2024 |
 | When The Blood Has Dried                                          | Mad Cave Studios               | 2       | 05&#x2F;15&#x2F;2024 |
 | Shudder Magazine                                                  | Warrant Publishing             | 17      | 05&#x2F;15&#x2F;2024 |
 | Batman and Robin and Howard                                       | DC Comics                      | 3       | 05&#x2F;14&#x2F;2024 |
-| Saint Seiya: Knights of the Zodiac - Time Odyssey                 | Ablaze                         | 5       | 05&#x2F;15&#x2F;2024 |
-| Saint Seiya: Knights of the Zodiac - Time Odyssey                 | Ablaze                         | 5       | 05&#x2F;15&#x2F;2024 |
-| Saint Seiya: Knights of the Zodiac - Time Odyssey                 | Ablaze                         | 5       | 05&#x2F;15&#x2F;2024 |
-| Saint Seiya: Knights of the Zodiac - Time Odyssey                 | Ablaze                         | 5       | 05&#x2F;15&#x2F;2024 |
-| Saint Seiya: Knights of the Zodiac - Time Odyssey                 | Ablaze                         | 5       | 05&#x2F;15&#x2F;2024 |
-| Saint Seiya: Knights of the Zodiac - Time Odyssey                 | Ablaze                         | 5       | 05&#x2F;15&#x2F;2024 |
+| Transformers                                                      | Image Comics                   | 6       | 05&#x2F;15&#x2F;2024 |
 | Duck and Cover                                                    | Comixology                     | 4       | 05&#x2F;14&#x2F;2024 |
-| Transformers                                                      | Image Comics                   | 6       | 05&#x2F;15&#x2F;2024 |
-| Black Demon Tales: Descent                                        | Scout Comics                   | 1       | 05&#x2F;15&#x2F;2024 |
-| Black Demon Tales: Descent                                        | Scout Comics                   | 1       | 05&#x2F;15&#x2F;2024 |
-| My Little Pony: Kenbucky Roller Derby                             | IDW Publishing                 | 4       | 05&#x2F;15&#x2F;2024 |
-| My Little Pony: Kenbucky Roller Derby                             | IDW Publishing                 | 4       | 05&#x2F;15&#x2F;2024 |
-| Transformers                                                      | Image Comics                   | 5       | 05&#x2F;15&#x2F;2024 |
-| Transformers                                                      | Image Comics                   | 6       | 05&#x2F;15&#x2F;2024 |
-| Oz: Fall of Emerald City                                          | Zenescope                      | 2       | 05&#x2F;15&#x2F;2024 |
-| Oz: Fall of Emerald City                                          | Zenescope                      | 2       | 05&#x2F;15&#x2F;2024 |
-| Oz: Fall of Emerald City                                          | Zenescope                      | 2       | 05&#x2F;15&#x2F;2024 |
-| Transformers                                                      | Image Comics                   | 5       | 05&#x2F;15&#x2F;2024 |
-| St. Mercy: Godland                                                | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
-| St. Mercy: Godland                                                | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
-| Nexus Newspaper Strips, Vol 2: The Battle For Thuneworld          | Rude Dude Productions          | 2       | 05&#x2F;15&#x2F;2024 |
 | Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
-| Cobra Commander                                                   | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
-| Deadpool                                                          | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Lore Olympus                                                      | LINE Webtoon                   | 27      | 05&#x2F;12&#x2F;2024 |
-| Void Rivals                                                       | Image Comics                   | 7       | 05&#x2F;15&#x2F;2024 |
+| Destiny, NY: Mystic Mafia                                         | Black Mask Studios             | 3       | 05&#x2F;15&#x2F;2024 |
+| Destiny, NY: Mystic Mafia                                         | Black Mask Studios             | 3       | 05&#x2F;15&#x2F;2024 |
+| Destiny, NY: Mystic Mafia                                         | Black Mask Studios             | 3       | 05&#x2F;15&#x2F;2024 |
+| Destiny, NY: Mystic Mafia                                         | Black Mask Studios             | 3       | 05&#x2F;15&#x2F;2024 |
+| Destiny, NY: Mystic Mafia                                         | Black Mask Studios             | 3       | 05&#x2F;15&#x2F;2024 |
+| My Little Pony: Kenbucky Roller Derby                             | IDW Publishing                 | 4       | 05&#x2F;15&#x2F;2024 |
+| My Little Pony: Kenbucky Roller Derby                             | IDW Publishing                 | 4       | 05&#x2F;15&#x2F;2024 |
+| Transformers                                                      | Image Comics                   | 5       | 05&#x2F;15&#x2F;2024 |
 | Teenage Mutant Ninja Turtles: Black, White, &amp; Green               | IDW Publishing                 | 1       | 05&#x2F;15&#x2F;2024 |
+| Transformers                                                      | Image Comics                   | 6       | 05&#x2F;15&#x2F;2024 |
+| Transformers                                                      | Image Comics                   | 5       | 05&#x2F;15&#x2F;2024 |
+| Oz: Fall of Emerald City                                          | Zenescope                      | 2       | 05&#x2F;15&#x2F;2024 |
+| Oz: Fall of Emerald City                                          | Zenescope                      | 2       | 05&#x2F;15&#x2F;2024 |
+| Oz: Fall of Emerald City                                          | Zenescope                      | 2       | 05&#x2F;15&#x2F;2024 |
+| Nexus Newspaper Strips, Vol 2: The Battle For Thuneworld          | Rude Dude Productions          | 2       | 05&#x2F;15&#x2F;2024 |
+| St. Mercy: Godland                                                | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
+| St. Mercy: Godland                                                | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
+| Deadpool                                                          | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Cobra Commander                                                   | Image Comics                   | 2       | 05&#x2F;15&#x2F;2024 |
+| Void Rivals                                                       | Image Comics                   | 7       | 05&#x2F;15&#x2F;2024 |
+| Deadpool                                                          | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
+| Femforce                                                          | AC Comics                      | 20      | 05&#x2F;15&#x2F;2024 |
+| Lore Olympus                                                      | LINE Webtoon                   | 27      | 05&#x2F;12&#x2F;2024 |
+| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
+| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
+| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
+| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
+| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
 | Space Ghost                                                       | Dynamite                       | 1       | 05&#x2F;15&#x2F;2024 |
 | Betty and Veronica Jumbo Comics Digest                            | Archie Comics                  | 32      | 05&#x2F;15&#x2F;2024 |
-| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
-| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
-| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
-| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
-| The Gunhand                                                       | American Mythology             | 1       | 05&#x2F;15&#x2F;2024 |
-| Deadpool                                                          | Marvel Comics                  | 1       | 05&#x2F;15&#x2F;2024 |
 | Armored                                                           | Clover Press                   | 1       | 05&#x2F;15&#x2F;2024 |
 | Armored                                                           | Clover Press                   | 1       | 05&#x2F;15&#x2F;2024 |
-| Long Road to Retribution                                          | Blood Moon Comics              | 1       | 05&#x2F;15&#x2F;2024 |
-| Long Road to Retribution                                          | Blood Moon Comics              | 1       | 05&#x2F;15&#x2F;2024 |
 | Blue Beetle: Edición en Español                                   | DC Comics                      | 9       | 05&#x2F;14&#x2F;2024 |
-| Dust Pirates                                                      | Keenspot                       | 2       | 05&#x2F;15&#x2F;2024 |
 | The Amazing Spider-Man                                            | Marvel Comics                  | 25      | 05&#x2F;15&#x2F;2024 |
-| Heroine Heaven                                                    | AC Comics                      | 5       | 05&#x2F;15&#x2F;2024 |
-| Covenant                                                          | LINE Webtoon                   | 82      | 05&#x2F;12&#x2F;2024 |
 | Saga                                                              | Image Comics                   | 1       | 05&#x2F;15&#x2F;2024 |
-| Space Ghost                                                       | Dynamite                       | 1       | 05&#x2F;15&#x2F;2024 |
-| My Body Unspooling                                                | Silver Sprocket                | 0       | 05&#x2F;15&#x2F;2024 |
 | Uncanny Valley                                                    | BOOM! Studios                  | 1       | 05&#x2F;15&#x2F;2024 |
-| Witch Hammer                                                      | American Mythology             | 4       | 05&#x2F;15&#x2F;2024 |
-| Witch Hammer                                                      | American Mythology             | 4       | 05&#x2F;15&#x2F;2024 |
-| Witch Hammer                                                      | American Mythology             | 4       | 05&#x2F;15&#x2F;2024 |
-| Red Sonja: Empire of the Damned                                   | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
-| I Heart Skull-Crusher                                             | BOOM! Studios                  | 2       | 05&#x2F;15&#x2F;2024 |
+| Space Ghost                                                       | Dynamite                       | 1       | 05&#x2F;15&#x2F;2024 |
+| Covenant                                                          | LINE Webtoon                   | 82      | 05&#x2F;12&#x2F;2024 |
+| My Body Unspooling                                                | Silver Sprocket                | 0       | 05&#x2F;15&#x2F;2024 |
 | The Amazing Spider-Man                                            | Marvel Comics                  | 47      | 05&#x2F;16&#x2F;2024 |
+| Red Sonja: Empire of the Damned                                   | Dynamite                       | 2       | 05&#x2F;15&#x2F;2024 |
+| Ultimate Spider-Man                                               | Marvel Comics                  | 4       | 05&#x2F;15&#x2F;2024 |
+| I Heart Skull-Crusher                                             | BOOM! Studios                  | 2       | 05&#x2F;15&#x2F;2024 |
+| Witch Hammer                                                      | American Mythology             | 4       | 05&#x2F;15&#x2F;2024 |
+| Witch Hammer                                                      | American Mythology             | 4       | 05&#x2F;15&#x2F;2024 |
+| Witch Hammer                                                      | American Mythology             | 4       | 05&#x2F;15&#x2F;2024 |
 | Crazy Latte Thing Called Love                                     | Other                          | 1       | 05&#x2F;15&#x2F;2024 |
-| Kayless                                                           | Silverline Comics              | 2       | 05&#x2F;15&#x2F;2024 |
 | Akogun: Brutalizer of Gods                                        | Oni Press                      | 1       | 05&#x2F;15&#x2F;2024 |
 | Rogues                                                            | Scout Comics                   | 3       | 05&#x2F;15&#x2F;2024 |
-| Dynamite Diva: The Engine Whispers                                | Other                          | 0       | 05&#x2F;15&#x2F;2024 |
 | Hard Juice Style                                                  | Comixology                     | 2       | 05&#x2F;14&#x2F;2024 |
-| Kent Menace VS Techofreak                                         | Other                          | 1       | 05&#x2F;15&#x2F;2024 |
-| Kent Menace VS Techofreak                                         | Other                          | 1       | 05&#x2F;15&#x2F;2024 |
-| Squish and Squash                                                 | Keenspot                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Squish and Squash                                                 | Keenspot                       | 3       | 05&#x2F;15&#x2F;2024 |
-| Squish and Squash                                                 | Keenspot                       | 3       | 05&#x2F;15&#x2F;2024 |
+| Space Ghost                                                       | Dynamite                       | 1       | 05&#x2F;17&#x2F;2024 |
+| Peep                                                              | Other                          | 1       | 05&#x2F;15&#x2F;2024 |
+| Let Her Be Evil                                                   | Other                          | 0       | 05&#x2F;15&#x2F;2024 |
 | The Audra Show                                                    | Other                          | 7       | 05&#x2F;15&#x2F;2024 |
+| The Essential Spread Love Comix                                   | Spread Love Comix              | 4       | 05&#x2F;15&#x2F;2024 |
+| Farrago                                                           | Other                          | 1       | 05&#x2F;15&#x2F;2024 |
+| Spy x Family                                                      | VIZ Media                      | 98      | 05&#x2F;12&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                                      | Mirage Studios                 | 2       | 05&#x2F;16&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                                      | Mirage Studios                 | 2       | 05&#x2F;16&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                                      | Mirage Studios                 | 2       | 05&#x2F;16&#x2F;2024 |
 
 </details>
