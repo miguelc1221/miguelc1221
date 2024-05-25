@@ -56,6 +56,9 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Something is Killing the Children             | BOOM! Studios | 37      | 05&#x2F;22&#x2F;2024 |
 | Something is Killing the Children             | BOOM! Studios | 37      | 05&#x2F;22&#x2F;2024 |
 | Something is Killing the Children             | BOOM! Studios | 37      | 05&#x2F;22&#x2F;2024 |
+| Something is Killing the Children             | BOOM! Studios | 37      | 05&#x2F;22&#x2F;2024 |
+| Something is Killing the Children             | BOOM! Studios | 37      | 05&#x2F;22&#x2F;2024 |
+| Something is Killing the Children             | BOOM! Studios | 37      | 05&#x2F;22&#x2F;2024 |
 | Ultimate Black Panther                        | Marvel Comics | 4       | 05&#x2F;22&#x2F;2024 |
 | Ultimate Black Panther                        | Marvel Comics | 4       | 05&#x2F;22&#x2F;2024 |
 | Ultimate Black Panther                        | Marvel Comics | 4       | 05&#x2F;22&#x2F;2024 |
@@ -90,29 +93,29 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Spectacular Spider-Men                    | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
 | The Spectacular Spider-Men                    | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
 | The Spectacular Spider-Men                    | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
-| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
-| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
-| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
-| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
-| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
 | Star Wars                                     | Marvel Comics | 46      | 05&#x2F;22&#x2F;2024 |
 | Star Wars                                     | Marvel Comics | 46      | 05&#x2F;22&#x2F;2024 |
 | Star Wars                                     | Marvel Comics | 46      | 05&#x2F;22&#x2F;2024 |
 | Star Wars                                     | Marvel Comics | 46      | 05&#x2F;22&#x2F;2024 |
 | Star Wars                                     | Marvel Comics | 46      | 05&#x2F;22&#x2F;2024 |
+| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
+| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
+| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
+| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
+| Cobra Commander                               | Image Comics  | 5       | 05&#x2F;22&#x2F;2024 |
 | Catwoman                                      | DC Comics     | 65      | 05&#x2F;21&#x2F;2024 |
 | Catwoman                                      | DC Comics     | 65      | 05&#x2F;21&#x2F;2024 |
 | Catwoman                                      | DC Comics     | 65      | 05&#x2F;21&#x2F;2024 |
 | Catwoman                                      | DC Comics     | 65      | 05&#x2F;21&#x2F;2024 |
 | Catwoman                                      | DC Comics     | 65      | 05&#x2F;21&#x2F;2024 |
-| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
-| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
-| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
-| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
-| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
-| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
 | Blood Hunt: Red Band Edition                  | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
 | Blood Hunt: Red Band Edition                  | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
+| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
+| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
+| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
+| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
+| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
+| Justice League vs. Godzilla vs. Kong          | DC Comics     | 7       | 05&#x2F;21&#x2F;2024 |
 | Blood Hunt                                    | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
 | Blood Hunt                                    | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
 | Blood Hunt                                    | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
@@ -121,23 +124,23 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Blood Hunt                                    | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
 | Blood Hunt                                    | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
 | Blood Hunt                                    | Marvel Comics | 2       | 05&#x2F;22&#x2F;2024 |
+| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
+| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
+| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
+| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
+| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
+| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
 | Superior Spider-Man                           | Marvel Comics | 7       | 05&#x2F;22&#x2F;2024 |
 | Superior Spider-Man                           | Marvel Comics | 7       | 05&#x2F;22&#x2F;2024 |
-| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
-| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
-| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
-| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
-| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
-| X-Men &#39;97                                     | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
 | The Bat-Man: First Knight                     | DC Comics     | 3       | 05&#x2F;21&#x2F;2024 |
 | The Bat-Man: First Knight                     | DC Comics     | 3       | 05&#x2F;21&#x2F;2024 |
 | The Bat-Man: First Knight                     | DC Comics     | 3       | 05&#x2F;21&#x2F;2024 |
-| The Sensational She-Hulk                      | Marvel Comics | 8       | 05&#x2F;22&#x2F;2024 |
-| The Sensational She-Hulk                      | Marvel Comics | 8       | 05&#x2F;22&#x2F;2024 |
-| The Sensational She-Hulk                      | Marvel Comics | 8       | 05&#x2F;22&#x2F;2024 |
 | Rook: Exodus                                  | Image Comics  | 2       | 05&#x2F;22&#x2F;2024 |
 | Rook: Exodus                                  | Image Comics  | 2       | 05&#x2F;22&#x2F;2024 |
 | Rook: Exodus                                  | Image Comics  | 2       | 05&#x2F;22&#x2F;2024 |
+| The Sensational She-Hulk                      | Marvel Comics | 8       | 05&#x2F;22&#x2F;2024 |
+| The Sensational She-Hulk                      | Marvel Comics | 8       | 05&#x2F;22&#x2F;2024 |
+| The Sensational She-Hulk                      | Marvel Comics | 8       | 05&#x2F;22&#x2F;2024 |
 | John Constantine, Hellblazer: Dead in America | DC Comics     | 5       | 05&#x2F;21&#x2F;2024 |
 | John Constantine, Hellblazer: Dead in America | DC Comics     | 5       | 05&#x2F;21&#x2F;2024 |
 | Alan Scott: The Green Lantern                 | DC Comics     | 6       | 05&#x2F;21&#x2F;2024 |
@@ -145,30 +148,32 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Alan Scott: The Green Lantern                 | DC Comics     | 6       | 05&#x2F;21&#x2F;2024 |
 | Green Lantern: War Journal                    | DC Comics     | 9       | 05&#x2F;21&#x2F;2024 |
 | Green Lantern: War Journal                    | DC Comics     | 9       | 05&#x2F;21&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
+| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
 | Symbiote Spider-Man 2099                      | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
 | Symbiote Spider-Man 2099                      | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
 | Symbiote Spider-Man 2099                      | Marvel Comics | 3       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
-| Spider-Gwen: The Ghost-Spider                 | Marvel Comics | 1       | 05&#x2F;22&#x2F;2024 |
 | Grim                                          | BOOM! Studios | 17      | 05&#x2F;22&#x2F;2024 |
 | Grim                                          | BOOM! Studios | 17      | 05&#x2F;22&#x2F;2024 |
 | Grim                                          | BOOM! Studios | 17      | 05&#x2F;22&#x2F;2024 |
