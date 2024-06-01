@@ -95,16 +95,27 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Power Girl                                                | DC Comics         | 9       | 05&#x2F;28&#x2F;2024 |
 | Power Girl                                                | DC Comics         | 9       | 05&#x2F;28&#x2F;2024 |
 | Power Girl                                                | DC Comics         | 9       | 05&#x2F;28&#x2F;2024 |
-| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
-| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
-| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
-| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
 | The Penguin                                               | DC Comics         | 10      | 05&#x2F;28&#x2F;2024 |
 | The Penguin                                               | DC Comics         | 10      | 05&#x2F;28&#x2F;2024 |
+| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
+| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
+| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
+| Spider-Boy                                                | Marvel Comics     | 7       | 05&#x2F;29&#x2F;2024 |
 | Midnight Sons: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
 | Midnight Sons: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
 | Midnight Sons: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
 | Midnight Sons: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
 | Edge of Spider-Verse                                      | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
 | Edge of Spider-Verse                                      | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
 | Edge of Spider-Verse                                      | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
@@ -115,34 +126,22 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Spider-Punk: Arms Race                                    | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
 | Spider-Punk: Arms Race                                    | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
 | Spider-Punk: Arms Race                                    | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Hellverine                                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Scarlet Witch &amp; Quicksilver                               | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
-| Scarlet Witch &amp; Quicksilver                               | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
-| Scarlet Witch &amp; Quicksilver                               | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
+| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
 | Batman: Dark Age                                          | DC Comics         | 3       | 05&#x2F;28&#x2F;2024 |
 | Batman: Dark Age                                          | DC Comics         | 3       | 05&#x2F;28&#x2F;2024 |
 | Batman: Dark Age                                          | DC Comics         | 3       | 05&#x2F;28&#x2F;2024 |
-| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| Black Panther: Blood Hunt                                 | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
 | Undiscovered Country                                      | Image Comics      | 29      | 05&#x2F;29&#x2F;2024 |
 | Undiscovered Country                                      | Image Comics      | 29      | 05&#x2F;29&#x2F;2024 |
-| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
-| X-Men: The Wedding Special                                | Marvel Comics     | 1       | 05&#x2F;29&#x2F;2024 |
+| Scarlet Witch &amp; Quicksilver                               | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
+| Scarlet Witch &amp; Quicksilver                               | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
+| Scarlet Witch &amp; Quicksilver                               | Marvel Comics     | 4       | 05&#x2F;29&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics     | 2       | 05&#x2F;29&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics     | 2       | 05&#x2F;29&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red                | Marvel Comics     | 2       | 05&#x2F;29&#x2F;2024 |
@@ -161,47 +160,40 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Star Wars: Jango Fett                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
 | Star Wars: Jango Fett                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
 | Star Wars: Jango Fett                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
-| Jackpot and Black Cat                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
-| Jackpot and Black Cat                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
-| Jackpot and Black Cat                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
 | The Six Fingers                                           | Image Comics      | 4       | 05&#x2F;29&#x2F;2024 |
 | The Six Fingers                                           | Image Comics      | 4       | 05&#x2F;29&#x2F;2024 |
 | Sonic the Hedgehog                                        | IDW Publishing    | 69      | 05&#x2F;29&#x2F;2024 |
 | Sonic the Hedgehog                                        | IDW Publishing    | 69      | 05&#x2F;29&#x2F;2024 |
 | Sonic the Hedgehog                                        | IDW Publishing    | 69      | 05&#x2F;29&#x2F;2024 |
+| Jackpot and Black Cat                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
+| Jackpot and Black Cat                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
+| Jackpot and Black Cat                                     | Marvel Comics     | 3       | 05&#x2F;29&#x2F;2024 |
 | Once Upon a Time at the End of the World                  | BOOM! Studios     | 15      | 05&#x2F;29&#x2F;2024 |
 | Once Upon a Time at the End of the World                  | BOOM! Studios     | 15      | 05&#x2F;29&#x2F;2024 |
 | Once Upon a Time at the End of the World                  | BOOM! Studios     | 15      | 05&#x2F;29&#x2F;2024 |
 | Once Upon a Time at the End of the World                  | BOOM! Studios     | 15      | 05&#x2F;29&#x2F;2024 |
 | Once Upon a Time at the End of the World                  | BOOM! Studios     | 15      | 05&#x2F;29&#x2F;2024 |
-| Killadelphia                                              | Image Comics      | 35      | 05&#x2F;29&#x2F;2024 |
-| Killadelphia                                              | Image Comics      | 35      | 05&#x2F;29&#x2F;2024 |
-| Killadelphia                                              | Image Comics      | 35      | 05&#x2F;29&#x2F;2024 |
+| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
+| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
+| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
+| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
+| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
 | Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
 | Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
 | Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
 | Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
-| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
-| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
-| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
-| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
-| DC Pride 2024                                             | DC Comics         | 1       | 05&#x2F;28&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
-| Red Sonja                                                 | Dynamite          | 11      | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
+| Mighty Morphin Power Rangers: The Return                  | BOOM! Studios     | 4       | 05&#x2F;29&#x2F;2024 |
 
 </details>
