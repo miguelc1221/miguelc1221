@@ -141,38 +141,38 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | What If...?: Venom                  | Marvel Comics  | 5       | 06&#x2F;05&#x2F;2024 |
 | What If...?: Venom                  | Marvel Comics  | 5       | 06&#x2F;05&#x2F;2024 |
 | What If...?: Venom                  | Marvel Comics  | 5       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
 | Star Wars: The High Republic        | Marvel Comics  | 8       | 06&#x2F;05&#x2F;2024 |
 | Star Wars: The High Republic        | Marvel Comics  | 8       | 06&#x2F;05&#x2F;2024 |
 | Star Wars: The High Republic        | Marvel Comics  | 8       | 06&#x2F;05&#x2F;2024 |
 | Star Wars: The High Republic        | Marvel Comics  | 8       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
-| Space Ghost                         | Dynamite       | 2       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
 | Get Fury                            | Marvel Comics  | 2       | 06&#x2F;05&#x2F;2024 |
 | Get Fury                            | Marvel Comics  | 2       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Alpha | IDW Publishing | 1       | 06&#x2F;05&#x2F;2024 |
 | I Hate Fairyland                    | Image Comics   | 15      | 06&#x2F;05&#x2F;2024 |
 | I Hate Fairyland                    | Image Comics   | 15      | 06&#x2F;05&#x2F;2024 |
 | Love Everlasting                    | Image Comics   | 15      | 06&#x2F;05&#x2F;2024 |
@@ -182,9 +182,12 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Suicide Squad: Kill Arkham Asylum   | DC Comics      | 5       | 06&#x2F;04&#x2F;2024 |
 | Suicide Squad: Kill Arkham Asylum   | DC Comics      | 5       | 06&#x2F;04&#x2F;2024 |
 | Suicide Squad: Kill Arkham Asylum   | DC Comics      | 5       | 06&#x2F;04&#x2F;2024 |
-| Killadelphia                        | Image Comics   | 36      | 06&#x2F;05&#x2F;2024 |
-| Aliens: What If...?                 | Marvel Comics  | 4       | 06&#x2F;05&#x2F;2024 |
-| Aliens: What If...?                 | Marvel Comics  | 4       | 06&#x2F;05&#x2F;2024 |
+| Falling in Love on the Path to Hell | Image Comics   | 1       | 06&#x2F;05&#x2F;2024 |
+| Falling in Love on the Path to Hell | Image Comics   | 1       | 06&#x2F;05&#x2F;2024 |
+| Falling in Love on the Path to Hell | Image Comics   | 1       | 06&#x2F;05&#x2F;2024 |
+| Falling in Love on the Path to Hell | Image Comics   | 1       | 06&#x2F;05&#x2F;2024 |
+| Falling in Love on the Path to Hell | Image Comics   | 1       | 06&#x2F;05&#x2F;2024 |
+| Falling in Love on the Path to Hell | Image Comics   | 1       | 06&#x2F;05&#x2F;2024 |
 | My Adventures with Superman         | DC Comics      | 1       | 06&#x2F;04&#x2F;2024 |
 | My Adventures with Superman         | DC Comics      | 1       | 06&#x2F;04&#x2F;2024 |
 | My Adventures with Superman         | DC Comics      | 1       | 06&#x2F;04&#x2F;2024 |
