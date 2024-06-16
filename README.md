@@ -23,172 +23,172 @@ designers to ensure a top-tier user experience. My areas of interest span across
 <details>
   <summary>Comics (Click to expand)</summary>
 
-| Name                                            | Publisher     | Issue # | Date       |
-| ----------------------------------------------- | ------------- | ------- | ---------- |
-| Ultimate X-Men                                  | Marvel Comics | 4       | 06&#x2F;12&#x2F;2024 |
-| Ultimate X-Men                                  | Marvel Comics | 4       | 06&#x2F;12&#x2F;2024 |
-| Ultimate X-Men                                  | Marvel Comics | 4       | 06&#x2F;12&#x2F;2024 |
-| Ultimate X-Men                                  | Marvel Comics | 4       | 06&#x2F;12&#x2F;2024 |
-| Ultimate X-Men                                  | Marvel Comics | 4       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Transformers                                    | Image Comics  | 9       | 06&#x2F;12&#x2F;2024 |
-| Miles Morales: Spider-Man                       | Marvel Comics | 21      | 06&#x2F;12&#x2F;2024 |
-| Miles Morales: Spider-Man                       | Marvel Comics | 21      | 06&#x2F;12&#x2F;2024 |
-| Miles Morales: Spider-Man                       | Marvel Comics | 21      | 06&#x2F;12&#x2F;2024 |
-| Fantastic Four                                  | Marvel Comics | 21      | 06&#x2F;12&#x2F;2024 |
-| Fantastic Four                                  | Marvel Comics | 21      | 06&#x2F;12&#x2F;2024 |
-| Fantastic Four                                  | Marvel Comics | 21      | 06&#x2F;12&#x2F;2024 |
-| Fantastic Four                                  | Marvel Comics | 21      | 06&#x2F;12&#x2F;2024 |
-| The Avengers                                    | Marvel Comics | 15      | 06&#x2F;12&#x2F;2024 |
-| The Avengers                                    | Marvel Comics | 15      | 06&#x2F;12&#x2F;2024 |
-| The Avengers                                    | Marvel Comics | 15      | 06&#x2F;12&#x2F;2024 |
-| The Avengers                                    | Marvel Comics | 15      | 06&#x2F;12&#x2F;2024 |
-| Green Lantern                                   | DC Comics     | 12      | 06&#x2F;11&#x2F;2024 |
-| Green Lantern                                   | DC Comics     | 12      | 06&#x2F;11&#x2F;2024 |
-| Green Lantern                                   | DC Comics     | 12      | 06&#x2F;11&#x2F;2024 |
-| Green Lantern                                   | DC Comics     | 12      | 06&#x2F;11&#x2F;2024 |
-| Batman and Robin                                | DC Comics     | 10      | 06&#x2F;11&#x2F;2024 |
-| Batman and Robin                                | DC Comics     | 10      | 06&#x2F;11&#x2F;2024 |
-| Batman and Robin                                | DC Comics     | 10      | 06&#x2F;11&#x2F;2024 |
-| Batman and Robin                                | DC Comics     | 10      | 06&#x2F;11&#x2F;2024 |
-| The Incredible Hulk                             | Marvel Comics | 13      | 06&#x2F;12&#x2F;2024 |
-| The Incredible Hulk                             | Marvel Comics | 13      | 06&#x2F;12&#x2F;2024 |
-| The Incredible Hulk                             | Marvel Comics | 13      | 06&#x2F;12&#x2F;2024 |
-| The Incredible Hulk                             | Marvel Comics | 13      | 06&#x2F;12&#x2F;2024 |
-| G.O.D.S.                                        | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| G.O.D.S.                                        | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| G.O.D.S.                                        | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| G.O.D.S.                                        | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| Star Wars: Darth Vader                          | Marvel Comics | 47      | 06&#x2F;12&#x2F;2024 |
-| Star Wars: Darth Vader                          | Marvel Comics | 47      | 06&#x2F;12&#x2F;2024 |
-| Star Wars: Darth Vader                          | Marvel Comics | 47      | 06&#x2F;12&#x2F;2024 |
-| Star Wars: Darth Vader                          | Marvel Comics | 47      | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt: Red Band Edition                    | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt: Red Band Edition                    | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Blood Hunt                                      | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool                                        | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool                                        | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool                                        | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool                                        | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool                                        | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool                                        | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool                                        | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII                     | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII                     | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII                     | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII                     | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII                     | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Geiger                                          | Image Comics  | 3       | 06&#x2F;12&#x2F;2024 |
-| Geiger                                          | Image Comics  | 3       | 06&#x2F;12&#x2F;2024 |
-| Geiger                                          | Image Comics  | 3       | 06&#x2F;12&#x2F;2024 |
-| The Deviant                                     | Image Comics  | 6       | 06&#x2F;12&#x2F;2024 |
-| The Deviant                                     | Image Comics  | 6       | 06&#x2F;12&#x2F;2024 |
-| The Deviant                                     | Image Comics  | 6       | 06&#x2F;12&#x2F;2024 |
-| Spider-Boy                                      | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| Spider-Boy                                      | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| Spider-Boy                                      | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| Spider-Boy                                      | Marvel Comics | 8       | 06&#x2F;12&#x2F;2024 |
-| The Amazing Spider-Man: Blood Hunt              | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| The Amazing Spider-Man: Blood Hunt              | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Blue Beetle                                     | DC Comics     | 10      | 06&#x2F;11&#x2F;2024 |
-| Blue Beetle                                     | DC Comics     | 10      | 06&#x2F;11&#x2F;2024 |
-| X-Men: Blood Hunt - Jubilee                     | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Blood Hunt - Jubilee                     | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Blood Hunt - Jubilee                     | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Blood Hunt - Jubilee                     | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Blood Hunt - Jubilee                     | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics     | 1       | 06&#x2F;11&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics     | 1       | 06&#x2F;11&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics     | 1       | 06&#x2F;11&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics     | 1       | 06&#x2F;11&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics     | 1       | 06&#x2F;11&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics     | 1       | 06&#x2F;11&#x2F;2024 |
-| Spider-Man: Shadow of the Green Goblin          | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Spider-Man: Shadow of the Green Goblin          | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Spider-Man: Shadow of the Green Goblin          | Marvel Comics | 3       | 06&#x2F;12&#x2F;2024 |
-| Red Hood: The Hill                              | DC Comics     | 5       | 06&#x2F;11&#x2F;2024 |
-| Red Hood: The Hill                              | DC Comics     | 5       | 06&#x2F;11&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Scarlet Witch                                   | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Heir of Apocalypse                       | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Heir of Apocalypse                       | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Heir of Apocalypse                       | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| X-Men: Heir of Apocalypse                       | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Strange Academy: Blood Hunt                     | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Strange Academy: Blood Hunt                     | Marvel Comics | 2       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Thundercats                                     | Dynamite      | 5       | 06&#x2F;12&#x2F;2024 |
-| Ain&#39;t No Grave                                  | Image Comics  | 2       | 06&#x2F;12&#x2F;2024 |
-| Ain&#39;t No Grave                                  | Image Comics  | 2       | 06&#x2F;12&#x2F;2024 |
-| Suicide Squad: Dream Team                       | DC Comics     | 4       | 06&#x2F;11&#x2F;2024 |
-| Suicide Squad: Dream Team                       | DC Comics     | 4       | 06&#x2F;11&#x2F;2024 |
-| Suicide Squad: Dream Team                       | DC Comics     | 4       | 06&#x2F;11&#x2F;2024 |
-| Outsiders                                       | DC Comics     | 8       | 06&#x2F;11&#x2F;2024 |
-| Outsiders                                       | DC Comics     | 8       | 06&#x2F;11&#x2F;2024 |
-| Outsiders                                       | DC Comics     | 8       | 06&#x2F;11&#x2F;2024 |
-| Giant-Size Daredevil                            | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Giant-Size Daredevil                            | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Giant-Size Daredevil                            | Marvel Comics | 1       | 06&#x2F;12&#x2F;2024 |
-| Something Epic                                  | Image Comics  | 11      | 06&#x2F;12&#x2F;2024 |
-| Something Epic                                  | Image Comics  | 11      | 06&#x2F;12&#x2F;2024 |
-| Something Epic                                  | Image Comics  | 11      | 06&#x2F;12&#x2F;2024 |
-| Something Epic                                  | Image Comics  | 11      | 06&#x2F;12&#x2F;2024 |
-| Napalm Lullaby                                  | Image Comics  | 4       | 06&#x2F;12&#x2F;2024 |
-| Napalm Lullaby                                  | Image Comics  | 4       | 06&#x2F;12&#x2F;2024 |
-| Sinister Sons                                   | DC Comics     | 5       | 06&#x2F;11&#x2F;2024 |
-| Sinister Sons                                   | DC Comics     | 5       | 06&#x2F;11&#x2F;2024 |
+| Name                                                              | Publisher         | Issue # | Date       |
+| ----------------------------------------------------------------- | ----------------- | ------- | ---------- |
+| Batman                                                            | DC Comics         | 14      | 06&#x2F;18&#x2F;2024 |
+| Batman                                                            | DC Comics         | 14      | 06&#x2F;18&#x2F;2024 |
+| Batman                                                            | DC Comics         | 14      | 06&#x2F;18&#x2F;2024 |
+| Batman                                                            | DC Comics         | 14      | 06&#x2F;18&#x2F;2024 |
+| Batman                                                            | DC Comics         | 14      | 06&#x2F;18&#x2F;2024 |
+| Ultimate Spider-Man                                               | Marvel Comics     | 6       | 06&#x2F;19&#x2F;2024 |
+| Ultimate Spider-Man                                               | Marvel Comics     | 6       | 06&#x2F;19&#x2F;2024 |
+| Ultimate Spider-Man                                               | Marvel Comics     | 6       | 06&#x2F;19&#x2F;2024 |
+| Ultimate Spider-Man                                               | Marvel Comics     | 6       | 06&#x2F;19&#x2F;2024 |
+| Ultimate Spider-Man                                               | Marvel Comics     | 6       | 06&#x2F;19&#x2F;2024 |
+| Ultimate Spider-Man                                               | Marvel Comics     | 6       | 06&#x2F;19&#x2F;2024 |
+| Nightwing                                                         | DC Comics         | 11      | 06&#x2F;18&#x2F;2024 |
+| Nightwing                                                         | DC Comics         | 11      | 06&#x2F;18&#x2F;2024 |
+| Nightwing                                                         | DC Comics         | 11      | 06&#x2F;18&#x2F;2024 |
+| Nightwing                                                         | DC Comics         | 11      | 06&#x2F;18&#x2F;2024 |
+| Nightwing                                                         | DC Comics         | 11      | 06&#x2F;18&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| The Amazing Spider-Man                                            | Marvel Comics     | 52      | 06&#x2F;19&#x2F;2024 |
+| Batman &#x2F; Superman: World&#39;s Finest                                 | DC Comics         | 28      | 06&#x2F;18&#x2F;2024 |
+| Batman &#x2F; Superman: World&#39;s Finest                                 | DC Comics         | 28      | 06&#x2F;18&#x2F;2024 |
+| Batman &#x2F; Superman: World&#39;s Finest                                 | DC Comics         | 28      | 06&#x2F;18&#x2F;2024 |
+| Batman &#x2F; Superman: World&#39;s Finest                                 | DC Comics         | 28      | 06&#x2F;18&#x2F;2024 |
+| Wonder Woman                                                      | DC Comics         | 10      | 06&#x2F;18&#x2F;2024 |
+| Wonder Woman                                                      | DC Comics         | 10      | 06&#x2F;18&#x2F;2024 |
+| Wonder Woman                                                      | DC Comics         | 10      | 06&#x2F;18&#x2F;2024 |
+| Wonder Woman                                                      | DC Comics         | 10      | 06&#x2F;18&#x2F;2024 |
+| Wonder Woman                                                      | DC Comics         | 10      | 06&#x2F;18&#x2F;2024 |
+| Titans                                                            | DC Comics         | 12      | 06&#x2F;18&#x2F;2024 |
+| Titans                                                            | DC Comics         | 12      | 06&#x2F;18&#x2F;2024 |
+| Titans                                                            | DC Comics         | 12      | 06&#x2F;18&#x2F;2024 |
+| The Immortal Thor                                                 | Marvel Comics     | 12      | 06&#x2F;19&#x2F;2024 |
+| The Immortal Thor                                                 | Marvel Comics     | 12      | 06&#x2F;19&#x2F;2024 |
+| The Immortal Thor                                                 | Marvel Comics     | 12      | 06&#x2F;19&#x2F;2024 |
+| The Immortal Thor                                                 | Marvel Comics     | 12      | 06&#x2F;19&#x2F;2024 |
+| Doctor Strange                                                    | Marvel Comics     | 16      | 06&#x2F;19&#x2F;2024 |
+| Doctor Strange                                                    | Marvel Comics     | 16      | 06&#x2F;19&#x2F;2024 |
+| Doctor Strange                                                    | Marvel Comics     | 16      | 06&#x2F;19&#x2F;2024 |
+| Doctor Strange                                                    | Marvel Comics     | 16      | 06&#x2F;19&#x2F;2024 |
+| Spawn                                                             | Image Comics      | 35      | 06&#x2F;19&#x2F;2024 |
+| Spawn                                                             | Image Comics      | 35      | 06&#x2F;19&#x2F;2024 |
+| The Invincible Iron Man                                           | Marvel Comics     | 19      | 06&#x2F;19&#x2F;2024 |
+| The Invincible Iron Man                                           | Marvel Comics     | 19      | 06&#x2F;19&#x2F;2024 |
+| The Invincible Iron Man                                           | Marvel Comics     | 19      | 06&#x2F;19&#x2F;2024 |
+| The Invincible Iron Man                                           | Marvel Comics     | 19      | 06&#x2F;19&#x2F;2024 |
+| Catwoman                                                          | DC Comics         | 66      | 06&#x2F;18&#x2F;2024 |
+| Catwoman                                                          | DC Comics         | 66      | 06&#x2F;18&#x2F;2024 |
+| Catwoman                                                          | DC Comics         | 66      | 06&#x2F;18&#x2F;2024 |
+| Catwoman                                                          | DC Comics         | 66      | 06&#x2F;18&#x2F;2024 |
+| Catwoman                                                          | DC Comics         | 66      | 06&#x2F;18&#x2F;2024 |
+| House of Slaughter                                                | BOOM! Studios     | 24      | 06&#x2F;19&#x2F;2024 |
+| House of Slaughter                                                | BOOM! Studios     | 24      | 06&#x2F;19&#x2F;2024 |
+| House of Slaughter                                                | BOOM! Studios     | 24      | 06&#x2F;19&#x2F;2024 |
+| House of Slaughter                                                | BOOM! Studios     | 24      | 06&#x2F;19&#x2F;2024 |
+| House of Slaughter                                                | BOOM! Studios     | 24      | 06&#x2F;19&#x2F;2024 |
+| House of Slaughter                                                | BOOM! Studios     | 24      | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Last Ronin II - Re-Evolution    | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| The Sensational She-Hulk                                          | Marvel Comics     | 9       | 06&#x2F;19&#x2F;2024 |
+| The Sensational She-Hulk                                          | Marvel Comics     | 9       | 06&#x2F;19&#x2F;2024 |
+| Captain America                                                   | Marvel Comics     | 10      | 06&#x2F;19&#x2F;2024 |
+| Captain America                                                   | Marvel Comics     | 10      | 06&#x2F;19&#x2F;2024 |
+| Captain America                                                   | Marvel Comics     | 10      | 06&#x2F;19&#x2F;2024 |
+| Captain America                                                   | Marvel Comics     | 10      | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Destro                                                            | Image Comics      | 1       | 06&#x2F;19&#x2F;2024 |
+| Wolverine: Blood Hunt                                             | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Wolverine: Blood Hunt                                             | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| John Constantine, Hellblazer: Dead in America                     | DC Comics         | 6       | 06&#x2F;18&#x2F;2024 |
+| John Constantine, Hellblazer: Dead in America                     | DC Comics         | 6       | 06&#x2F;18&#x2F;2024 |
+| Green Lantern: War Journal                                        | DC Comics         | 10      | 06&#x2F;18&#x2F;2024 |
+| Green Lantern: War Journal                                        | DC Comics         | 10      | 06&#x2F;18&#x2F;2024 |
+| Dracula: Blood Hunt                                               | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Dracula: Blood Hunt                                               | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Black Panther: Blood Hunt                                         | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Black Panther: Blood Hunt                                         | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Helen of Wyndhorn                                                 | Dark Horse Comics | 3       | 06&#x2F;19&#x2F;2024 |
+| Helen of Wyndhorn                                                 | Dark Horse Comics | 3       | 06&#x2F;19&#x2F;2024 |
+| Helen of Wyndhorn                                                 | Dark Horse Comics | 3       | 06&#x2F;19&#x2F;2024 |
+| Spider-Woman                                                      | Marvel Comics     | 8       | 06&#x2F;19&#x2F;2024 |
+| Spider-Woman                                                      | Marvel Comics     | 8       | 06&#x2F;19&#x2F;2024 |
+| The One Hand                                                      | Image Comics      | 5       | 06&#x2F;19&#x2F;2024 |
+| The One Hand                                                      | Image Comics      | 5       | 06&#x2F;19&#x2F;2024 |
+| Captain Marvel                                                    | Marvel Comics     | 9       | 06&#x2F;19&#x2F;2024 |
+| Captain Marvel                                                    | Marvel Comics     | 9       | 06&#x2F;19&#x2F;2024 |
+| Captain Marvel                                                    | Marvel Comics     | 9       | 06&#x2F;19&#x2F;2024 |
+| Captain Marvel                                                    | Marvel Comics     | 9       | 06&#x2F;19&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Venom: Separation Anxiety                                         | Marvel Comics     | 2       | 06&#x2F;19&#x2F;2024 |
+| Star Wars: Jango Fett                                             | Marvel Comics     | 4       | 06&#x2F;19&#x2F;2024 |
+| Star Wars: Jango Fett                                             | Marvel Comics     | 4       | 06&#x2F;19&#x2F;2024 |
+| Star Wars: Jango Fett                                             | Marvel Comics     | 4       | 06&#x2F;19&#x2F;2024 |
+| Star Wars: Jango Fett                                             | Marvel Comics     | 4       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Venomverse Reborn                                                 | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Black, White, &amp; Green               | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Black, White, &amp; Green               | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Black, White, &amp; Green               | IDW Publishing    | 2       | 06&#x2F;19&#x2F;2024 |
+| Briar                                                             | BOOM! Studios     | 6       | 06&#x2F;19&#x2F;2024 |
+| Briar                                                             | BOOM! Studios     | 6       | 06&#x2F;19&#x2F;2024 |
+| Briar                                                             | BOOM! Studios     | 6       | 06&#x2F;19&#x2F;2024 |
+| Briar                                                             | BOOM! Studios     | 6       | 06&#x2F;19&#x2F;2024 |
+| Briar                                                             | BOOM! Studios     | 6       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Uncle Scrooge and the Infinity Dime                               | Marvel Comics     | 1       | 06&#x2F;19&#x2F;2024 |
+| Man&#39;s Best                                                        | BOOM! Studios     | 4       | 06&#x2F;19&#x2F;2024 |
+| Man&#39;s Best                                                        | BOOM! Studios     | 4       | 06&#x2F;19&#x2F;2024 |
+| Man&#39;s Best                                                        | BOOM! Studios     | 4       | 06&#x2F;19&#x2F;2024 |
+| Man&#39;s Best                                                        | BOOM! Studios     | 4       | 06&#x2F;19&#x2F;2024 |
+| Man&#39;s Best                                                        | BOOM! Studios     | 4       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 4       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 4       | 06&#x2F;19&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: The Untold Destiny of the Foot Clan | IDW Publishing    | 4       | 06&#x2F;19&#x2F;2024 |
+| Star Trek                                                         | IDW Publishing    | 21      | 06&#x2F;19&#x2F;2024 |
+| Star Trek                                                         | IDW Publishing    | 21      | 06&#x2F;19&#x2F;2024 |
+| Star Trek                                                         | IDW Publishing    | 21      | 06&#x2F;19&#x2F;2024 |
 
 </details>
