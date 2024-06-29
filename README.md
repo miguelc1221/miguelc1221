@@ -51,6 +51,8 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Something is Killing the Children          | BOOM! Studios | 38      | 06&#x2F;26&#x2F;2024 |
 | Something is Killing the Children          | BOOM! Studios | 38      | 06&#x2F;26&#x2F;2024 |
 | Something is Killing the Children          | BOOM! Studios | 38      | 06&#x2F;26&#x2F;2024 |
+| Something is Killing the Children          | BOOM! Studios | 38      | 06&#x2F;26&#x2F;2024 |
+| Something is Killing the Children          | BOOM! Studios | 38      | 06&#x2F;26&#x2F;2024 |
 | Ultimate Black Panther                     | Marvel Comics | 5       | 06&#x2F;26&#x2F;2024 |
 | Ultimate Black Panther                     | Marvel Comics | 5       | 06&#x2F;26&#x2F;2024 |
 | Ultimate Black Panther                     | Marvel Comics | 5       | 06&#x2F;26&#x2F;2024 |
@@ -93,11 +95,11 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | W0rldtr33                                  | Image Comics  | 11      | 06&#x2F;26&#x2F;2024 |
 | W0rldtr33                                  | Image Comics  | 11      | 06&#x2F;26&#x2F;2024 |
 | W0rldtr33                                  | Image Comics  | 11      | 06&#x2F;26&#x2F;2024 |
+| The Department of Truth                    | Image Comics  | 23      | 06&#x2F;26&#x2F;2024 |
+| The Department of Truth                    | Image Comics  | 23      | 06&#x2F;26&#x2F;2024 |
+| The Department of Truth                    | Image Comics  | 23      | 06&#x2F;26&#x2F;2024 |
 | Blood Hunt: Red Band Edition               | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
 | Blood Hunt: Red Band Edition               | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
-| The Department of Truth                    | Image Comics  | 23      | 06&#x2F;26&#x2F;2024 |
-| The Department of Truth                    | Image Comics  | 23      | 06&#x2F;26&#x2F;2024 |
-| The Department of Truth                    | Image Comics  | 23      | 06&#x2F;26&#x2F;2024 |
 | Harley Quinn                               | DC Comics     | 41      | 06&#x2F;25&#x2F;2024 |
 | Harley Quinn                               | DC Comics     | 41      | 06&#x2F;25&#x2F;2024 |
 | Harley Quinn                               | DC Comics     | 41      | 06&#x2F;25&#x2F;2024 |
@@ -107,22 +109,22 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Harley Quinn                               | DC Comics     | 41      | 06&#x2F;25&#x2F;2024 |
 | Harley Quinn                               | DC Comics     | 41      | 06&#x2F;25&#x2F;2024 |
 | Harley Quinn                               | DC Comics     | 41      | 06&#x2F;25&#x2F;2024 |
-| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
-| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
-| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
-| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
-| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
-| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
+| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Rook: Exodus                               | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
+| Rook: Exodus                               | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
+| Rook: Exodus                               | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
 | King Spawn                                 | Image Comics  | 35      | 06&#x2F;26&#x2F;2024 |
 | King Spawn                                 | Image Comics  | 35      | 06&#x2F;26&#x2F;2024 |
-| Rook: Exodus                               | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
-| Rook: Exodus                               | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
-| Rook: Exodus                               | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
-| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Absolute Power: Ground Zero                | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
+| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
+| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
+| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
+| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
+| X-Men &#39;97                                  | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
 | Superior Spider-Man                        | Marvel Comics | 8       | 06&#x2F;26&#x2F;2024 |
 | Superior Spider-Man                        | Marvel Comics | 8       | 06&#x2F;26&#x2F;2024 |
 | Monstress                                  | Image Comics  | 52      | 06&#x2F;26&#x2F;2024 |
@@ -132,20 +134,20 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Redcoat                                    | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
 | Redcoat                                    | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
 | Redcoat                                    | Image Comics  | 3       | 06&#x2F;26&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
+| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
 | Power Girl                                 | DC Comics     | 10      | 06&#x2F;25&#x2F;2024 |
 | Power Girl                                 | DC Comics     | 10      | 06&#x2F;25&#x2F;2024 |
 | Power Girl                                 | DC Comics     | 10      | 06&#x2F;25&#x2F;2024 |
 | The Penguin                                | DC Comics     | 11      | 06&#x2F;25&#x2F;2024 |
 | The Penguin                                | DC Comics     | 11      | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
-| Zatanna: Bring Down The House              | DC Comics     | 1       | 06&#x2F;25&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider              | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider              | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider              | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
@@ -154,26 +156,26 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Spider-Gwen: The Ghost-Spider              | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider              | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider              | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
 | Symbiote Spider-Man 2099                   | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
 | Symbiote Spider-Man 2099                   | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
 | Symbiote Spider-Man 2099                   | Marvel Comics | 4       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
-| X-Men: Blood Hunt - Magik                  | Marvel Comics | 1       | 06&#x2F;26&#x2F;2024 |
 | Midnight Sons: Blood Hunt                  | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Midnight Sons: Blood Hunt                  | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Midnight Sons: Blood Hunt                  | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Midnight Sons: Blood Hunt                  | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
+| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
+| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
+| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
+| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | The Sacrificers                            | Image Comics  | 9       | 06&#x2F;26&#x2F;2024 |
-| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
-| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
-| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
-| Hellverine                                 | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | The Walking Dead Deluxe                    | Image Comics  | 91      | 06&#x2F;26&#x2F;2024 |
 | The Walking Dead Deluxe                    | Image Comics  | 91      | 06&#x2F;26&#x2F;2024 |
 | The Walking Dead Deluxe                    | Image Comics  | 91      | 06&#x2F;26&#x2F;2024 |
@@ -181,14 +183,13 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Grim                                       | BOOM! Studios | 18      | 06&#x2F;26&#x2F;2024 |
 | Grim                                       | BOOM! Studios | 18      | 06&#x2F;26&#x2F;2024 |
 | Grim                                       | BOOM! Studios | 18      | 06&#x2F;26&#x2F;2024 |
+| X-Men: Heir of Apocalypse                  | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Heir of Apocalypse                  | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
+| X-Men: Heir of Apocalypse                  | Marvel Comics | 2       | 06&#x2F;26&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red | Marvel Comics | 3       | 06&#x2F;26&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red | Marvel Comics | 3       | 06&#x2F;26&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red | Marvel Comics | 3       | 06&#x2F;26&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red | Marvel Comics | 3       | 06&#x2F;26&#x2F;2024 |
 | Star Wars: Darth Maul - Black, White &amp; Red | Marvel Comics | 3       | 06&#x2F;26&#x2F;2024 |
-| Conan the Barbarian                        | Titan Books   | 12      | 06&#x2F;26&#x2F;2024 |
-| Conan the Barbarian                        | Titan Books   | 12      | 06&#x2F;26&#x2F;2024 |
-| Conan the Barbarian                        | Titan Books   | 12      | 06&#x2F;26&#x2F;2024 |
-| Conan the Barbarian                        | Titan Books   | 12      | 06&#x2F;26&#x2F;2024 |
 
 </details>
