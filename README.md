@@ -69,7 +69,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | X-Men                                                             | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | X-Men                                                             | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | X-Men                                                             | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
-| X-Men                                                             | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | The Avengers                                                      | Marvel Comics     | 16      | 07&#x2F;10&#x2F;2024 |
 | The Avengers                                                      | Marvel Comics     | 16      | 07&#x2F;10&#x2F;2024 |
 | The Avengers                                                      | Marvel Comics     | 16      | 07&#x2F;10&#x2F;2024 |
@@ -94,17 +93,17 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Spider-Boy                                                        | Marvel Comics     | 9       | 07&#x2F;10&#x2F;2024 |
 | Spider-Boy                                                        | Marvel Comics     | 9       | 07&#x2F;10&#x2F;2024 |
 | Spider-Boy                                                        | Marvel Comics     | 9       | 07&#x2F;10&#x2F;2024 |
+| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
+| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
+| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
+| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | Ice Cream Man                                                     | Image Comics      | 40      | 07&#x2F;10&#x2F;2024 |
 | Ice Cream Man                                                     | Image Comics      | 40      | 07&#x2F;10&#x2F;2024 |
+| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
+| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
+| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
+| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
 | Symbiote Spider-Man 2099                                          | Marvel Comics     | 5       | 07&#x2F;10&#x2F;2024 |
-| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
-| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
-| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
-| Hulk: Blood Hunt                                                  | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
-| Batman: Gotham by Gaslight - The Kryptonian Age                   | DC Comics         | 2       | 07&#x2F;10&#x2F;2024 |
 | Absolute Power: Task Force VII                                    | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
 | Absolute Power: Task Force VII                                    | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
 | Absolute Power: Task Force VII                                    | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
@@ -122,15 +121,15 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Batman &#39;89: Echoes                                                | DC Comics         | 3       | 07&#x2F;10&#x2F;2024 |
 | Ain&#39;t No Grave                                                    | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
 | Ain&#39;t No Grave                                                    | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
+| From the DC Vault: Death in the Family - Robin Lives              | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
+| From the DC Vault: Death in the Family - Robin Lives              | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
+| From the DC Vault: Death in the Family - Robin Lives              | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
 | Union Jack the Ripper: Blood Hunt                                 | Marvel Comics     | 3       | 07&#x2F;10&#x2F;2024 |
 | Union Jack the Ripper: Blood Hunt                                 | Marvel Comics     | 3       | 07&#x2F;10&#x2F;2024 |
 | Dawnrunner                                                        | Dark Horse Comics | 4       | 07&#x2F;10&#x2F;2024 |
 | Dawnrunner                                                        | Dark Horse Comics | 4       | 07&#x2F;10&#x2F;2024 |
 | Dawnrunner                                                        | Dark Horse Comics | 4       | 07&#x2F;10&#x2F;2024 |
 | Dawnrunner                                                        | Dark Horse Comics | 4       | 07&#x2F;10&#x2F;2024 |
-| From the DC Vault: Death in the Family - Robin Lives              | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
-| From the DC Vault: Death in the Family - Robin Lives              | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
-| From the DC Vault: Death in the Family - Robin Lives              | DC Comics         | 1       | 07&#x2F;10&#x2F;2024 |
 | Outsiders                                                         | DC Comics         | 9       | 07&#x2F;10&#x2F;2024 |
 | Outsiders                                                         | DC Comics         | 9       | 07&#x2F;10&#x2F;2024 |
 | Kid Venom                                                         | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
@@ -142,12 +141,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Kid Venom                                                         | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | Kid Venom                                                         | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | Kid Venom                                                         | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
-| Moon Man                                                          | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
-| Moon Man                                                          | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
-| Moon Man                                                          | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
-| The Savage Sword of Conan                                         | Titan Books       | 3       | 07&#x2F;10&#x2F;2024 |
-| The Savage Sword of Conan                                         | Titan Books       | 3       | 07&#x2F;10&#x2F;2024 |
-| The Savage Sword of Conan                                         | Titan Books       | 3       | 07&#x2F;10&#x2F;2024 |
 | Star Wars: Ahsoka                                                 | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | Star Wars: Ahsoka                                                 | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | Star Wars: Ahsoka                                                 | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
@@ -167,6 +160,12 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Star Wars: Ahsoka                                                 | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 | Falling in Love on the Path to Hell                               | Image Comics      | 2       | 07&#x2F;10&#x2F;2024 |
 | Falling in Love on the Path to Hell                               | Image Comics      | 2       | 07&#x2F;10&#x2F;2024 |
+| Moon Man                                                          | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
+| Moon Man                                                          | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
+| Moon Man                                                          | Image Comics      | 3       | 07&#x2F;10&#x2F;2024 |
+| The Savage Sword of Conan                                         | Titan Books       | 3       | 07&#x2F;10&#x2F;2024 |
+| The Savage Sword of Conan                                         | Titan Books       | 3       | 07&#x2F;10&#x2F;2024 |
+| The Savage Sword of Conan                                         | Titan Books       | 3       | 07&#x2F;10&#x2F;2024 |
 | Kill All Immortals                                                | Dark Horse Comics | 1       | 07&#x2F;10&#x2F;2024 |
 | Kill All Immortals                                                | Dark Horse Comics | 1       | 07&#x2F;10&#x2F;2024 |
 | Kill All Immortals                                                | Dark Horse Comics | 1       | 07&#x2F;10&#x2F;2024 |
@@ -186,9 +185,12 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Annihilation 2099                                                 | Marvel Comics     | 2       | 07&#x2F;10&#x2F;2024 |
 | Annihilation 2099                                                 | Marvel Comics     | 2       | 07&#x2F;10&#x2F;2024 |
 | Annihilation 2099                                                 | Marvel Comics     | 2       | 07&#x2F;10&#x2F;2024 |
-| Sinister Sons                                                     | DC Comics         | 6       | 07&#x2F;10&#x2F;2024 |
-| Sinister Sons                                                     | DC Comics         | 6       | 07&#x2F;10&#x2F;2024 |
 | Star Wars: The High Republic Adventures                           | Dark Horse Comics | 7       | 07&#x2F;10&#x2F;2024 |
 | Star Wars: The High Republic Adventures                           | Dark Horse Comics | 7       | 07&#x2F;10&#x2F;2024 |
+| Sinister Sons                                                     | DC Comics         | 6       | 07&#x2F;10&#x2F;2024 |
+| Sinister Sons                                                     | DC Comics         | 6       | 07&#x2F;10&#x2F;2024 |
+| Giant-Size Silver Surfer                                          | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
+| Giant-Size Silver Surfer                                          | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
+| Giant-Size Silver Surfer                                          | Marvel Comics     | 1       | 07&#x2F;10&#x2F;2024 |
 
 </details>
