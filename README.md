@@ -29,21 +29,22 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Detective Comics                  | DC Comics      | 10      | 07&#x2F;24&#x2F;2024 |
 | Detective Comics                  | DC Comics      | 10      | 07&#x2F;24&#x2F;2024 |
 | Detective Comics                  | DC Comics      | 10      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
+| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
 | Ultimate Black Panther            | Marvel Comics  | 6       | 07&#x2F;24&#x2F;2024 |
 | Ultimate Black Panther            | Marvel Comics  | 6       | 07&#x2F;24&#x2F;2024 |
 | Ultimate Black Panther            | Marvel Comics  | 6       | 07&#x2F;24&#x2F;2024 |
 | Ultimate Black Panther            | Marvel Comics  | 6       | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
-| Something is Killing the Children | BOOM! Studios  | 39      | 07&#x2F;24&#x2F;2024 |
 | Green Arrow                       | DC Comics      | 14      | 07&#x2F;24&#x2F;2024 |
 | Green Arrow                       | DC Comics      | 14      | 07&#x2F;24&#x2F;2024 |
 | Green Arrow                       | DC Comics      | 14      | 07&#x2F;24&#x2F;2024 |
@@ -177,18 +178,20 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
 | Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
 | Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
-| Harley Quinn                      | DC Comics      | 42      | 07&#x2F;24&#x2F;2024 |
-| Harley Quinn                      | DC Comics      | 42      | 07&#x2F;24&#x2F;2024 |
-| Harley Quinn                      | DC Comics      | 42      | 07&#x2F;24&#x2F;2024 |
-| Harley Quinn                      | DC Comics      | 42      | 07&#x2F;24&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII       | Marvel Comics  | 3       | 07&#x2F;24&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII       | Marvel Comics  | 3       | 07&#x2F;24&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII       | Marvel Comics  | 3       | 07&#x2F;24&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII       | Marvel Comics  | 3       | 07&#x2F;24&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII       | Marvel Comics  | 3       | 07&#x2F;24&#x2F;2024 |
-| Deadpool &amp; Wolverine: WWIII       | Marvel Comics  | 3       | 07&#x2F;24&#x2F;2024 |
-| Rook: Exodus                      | Image Comics   | 4       | 07&#x2F;24&#x2F;2024 |
-| Rook: Exodus                      | Image Comics   | 4       | 07&#x2F;24&#x2F;2024 |
-| Rook: Exodus                      | Image Comics   | 4       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
+| Teenage Mutant Ninja Turtles      | IDW Publishing | 1       | 07&#x2F;24&#x2F;2024 |
 
 </details>
