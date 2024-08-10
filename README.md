@@ -127,67 +127,67 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Venom War                      | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
 | Venom War                      | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
 | Venom War                      | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
+| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
+| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
+| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
+| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
+| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
+| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
+| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
 | The Scorched                   | Image Comics  | 32      | 08&#x2F;07&#x2F;2024 |
 | The Scorched                   | Image Comics  | 32      | 08&#x2F;07&#x2F;2024 |
+| The Walking Dead Deluxe        | Image Comics  | 94      | 08&#x2F;07&#x2F;2024 |
+| The Walking Dead Deluxe        | Image Comics  | 94      | 08&#x2F;07&#x2F;2024 |
+| The Walking Dead Deluxe        | Image Comics  | 94      | 08&#x2F;07&#x2F;2024 |
 | Blue Beetle                    | DC Comics     | 11      | 08&#x2F;07&#x2F;2024 |
 | Blue Beetle                    | DC Comics     | 11      | 08&#x2F;07&#x2F;2024 |
-| The Walking Dead Deluxe        | Image Comics  | 94      | 08&#x2F;07&#x2F;2024 |
-| The Walking Dead Deluxe        | Image Comics  | 94      | 08&#x2F;07&#x2F;2024 |
-| The Walking Dead Deluxe        | Image Comics  | 94      | 08&#x2F;07&#x2F;2024 |
-| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
-| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
-| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
-| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
-| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
-| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
-| Spider-Man: Black Suit &amp; Blood | Marvel Comics | 1       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
-| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
 | Ain&#39;t No Grave                 | Image Comics  | 4       | 08&#x2F;07&#x2F;2024 |
 | Ain&#39;t No Grave                 | Image Comics  | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
+| Space Ghost                    | Dynamite      | 4       | 08&#x2F;07&#x2F;2024 |
 | Spider-Man: Reign 2            | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Spider-Man: Reign 2            | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Spider-Man: Reign 2            | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Spider-Man: Reign 2            | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
+| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
+| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
+| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
+| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
+| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
+| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
 | Star Wars: The High Republic   | Marvel Comics | 10      | 08&#x2F;07&#x2F;2024 |
 | Star Wars: The High Republic   | Marvel Comics | 10      | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
+| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
 | Wolverine: Deep Cut            | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Wolverine: Deep Cut            | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Wolverine: Deep Cut            | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Public Domain                  | Image Comics  | 7       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| Gotham City Sirens             | DC Comics     | 1       | 08&#x2F;07&#x2F;2024 |
-| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
-| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
-| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
-| The Power Fantasy              | Image Comics  | 1       | 08&#x2F;07&#x2F;2024 |
-| Kneel Before Zod               | DC Comics     | 8       | 08&#x2F;07&#x2F;2024 |
-| Kneel Before Zod               | DC Comics     | 8       | 08&#x2F;07&#x2F;2024 |
 | Star Wars: Inquisitors         | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Star Wars: Inquisitors         | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
 | Star Wars: Inquisitors         | Marvel Comics | 2       | 08&#x2F;07&#x2F;2024 |
