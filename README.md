@@ -50,6 +50,7 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Transformers                                         | Image Comics      | 11      | 08&#x2F;14&#x2F;2024 |
 | Transformers                                         | Image Comics      | 11      | 08&#x2F;14&#x2F;2024 |
 | Transformers                                         | Image Comics      | 11      | 08&#x2F;14&#x2F;2024 |
+| Transformers                                         | Image Comics      | 11      | 08&#x2F;14&#x2F;2024 |
 | Action Comics                                        | DC Comics         | 10      | 08&#x2F;14&#x2F;2024 |
 | Action Comics                                        | DC Comics         | 10      | 08&#x2F;14&#x2F;2024 |
 | Action Comics                                        | DC Comics         | 10      | 08&#x2F;14&#x2F;2024 |
@@ -101,18 +102,18 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Vengeance of the Moon Knight                         | Marvel Comics     | 8       | 08&#x2F;14&#x2F;2024 |
 | Vengeance of the Moon Knight                         | Marvel Comics     | 8       | 08&#x2F;14&#x2F;2024 |
 | Vengeance of the Moon Knight                         | Marvel Comics     | 8       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
 | Geiger                                               | Image Comics      | 5       | 08&#x2F;14&#x2F;2024 |
 | Geiger                                               | Image Comics      | 5       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| X-Factor                                             | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
 | The Sensational She-Hulk                             | Marvel Comics     | 10      | 08&#x2F;14&#x2F;2024 |
 | The Sensational She-Hulk                             | Marvel Comics     | 10      | 08&#x2F;14&#x2F;2024 |
 | The Sensational She-Hulk                             | Marvel Comics     | 10      | 08&#x2F;14&#x2F;2024 |
@@ -130,26 +131,19 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Batman: Gotham by Gaslight - The Kryptonian Age      | DC Comics         | 3       | 08&#x2F;14&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age      | DC Comics         | 3       | 08&#x2F;14&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age      | DC Comics         | 3       | 08&#x2F;14&#x2F;2024 |
+| Venom War: Spider-Man                                | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Venom War: Spider-Man                                | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Venom War: Spider-Man                                | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
 | From the DC Vault: Death in the Family - Robin Lives | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
 | From the DC Vault: Death in the Family - Robin Lives | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
-| Venom War: Spider-Man                                | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Venom War: Spider-Man                                | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Venom War: Spider-Man                                | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
-| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
-| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
-| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
-| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
-| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
-| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
 | DC vs. Vampires: World War V                         | DC Comics         | 1       | 08&#x2F;14&#x2F;2024 |
 | DC vs. Vampires: World War V                         | DC Comics         | 1       | 08&#x2F;14&#x2F;2024 |
 | DC vs. Vampires: World War V                         | DC Comics         | 1       | 08&#x2F;14&#x2F;2024 |
@@ -163,16 +157,20 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Werewolf by Night                                    | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
 | Werewolf by Night                                    | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
 | Werewolf by Night                                    | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
+| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
+| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
+| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
+| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
+| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
+| Gotham City Sirens                                   | DC Comics         | 2       | 08&#x2F;14&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
+| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
 | Outsiders                                            | DC Comics         | 10      | 08&#x2F;14&#x2F;2024 |
 | Outsiders                                            | DC Comics         | 10      | 08&#x2F;14&#x2F;2024 |
-| Sonic the Hedgehog Annual                            | IDW Publishing    | 20      | 08&#x2F;14&#x2F;2024 |
-| Sonic the Hedgehog Annual                            | IDW Publishing    | 20      | 08&#x2F;14&#x2F;2024 |
-| Sonic the Hedgehog Annual                            | IDW Publishing    | 20      | 08&#x2F;14&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
-| Teenage Mutant Ninja Turtles: Nightwatcher           | IDW Publishing    | 1       | 08&#x2F;14&#x2F;2024 |
 | Falling in Love on the Path to Hell                  | Image Comics      | 3       | 08&#x2F;14&#x2F;2024 |
 | Falling in Love on the Path to Hell                  | Image Comics      | 3       | 08&#x2F;14&#x2F;2024 |
 | Napalm Lullaby                                       | Image Comics      | 6       | 08&#x2F;14&#x2F;2024 |
@@ -183,15 +181,14 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Ultraman X Avengers                                  | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
 | Kill All Immortals                                   | Dark Horse Comics | 2       | 08&#x2F;14&#x2F;2024 |
 | Kill All Immortals                                   | Dark Horse Comics | 2       | 08&#x2F;14&#x2F;2024 |
-| Batman: Wayne Family Adventures                      | DC Comics         | 12      | 08&#x2F;15&#x2F;2024 |
+| Dick Tracy                                           | Mad Cave Studios  | 4       | 08&#x2F;14&#x2F;2024 |
+| Dick Tracy                                           | Mad Cave Studios  | 4       | 08&#x2F;14&#x2F;2024 |
+| Dick Tracy                                           | Mad Cave Studios  | 4       | 08&#x2F;14&#x2F;2024 |
+| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
 | Marvel Super Heroes: Secret Wars                     | Marvel Comics     | 8       | 08&#x2F;14&#x2F;2024 |
-| American Psycho                                      | Sumerian Comics   | 5       | 08&#x2F;14&#x2F;2024 |
-| American Psycho                                      | Sumerian Comics   | 5       | 08&#x2F;14&#x2F;2024 |
-| American Psycho                                      | Sumerian Comics   | 5       | 08&#x2F;14&#x2F;2024 |
-| American Psycho                                      | Sumerian Comics   | 5       | 08&#x2F;14&#x2F;2024 |
-| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
-| Iron Fist 50th Anniversary Special                   | Marvel Comics     | 1       | 08&#x2F;14&#x2F;2024 |
+| Batman: Wayne Family Adventures                      | DC Comics         | 12      | 08&#x2F;15&#x2F;2024 |
 
 </details>
