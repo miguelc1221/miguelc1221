@@ -73,6 +73,23 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Incredible Hulk         | Marvel Comics     | 16      | 09&#x2F;04&#x2F;2024 |
 | Spawn                       | Image Comics      | 35      | 09&#x2F;04&#x2F;2024 |
 | Spawn                       | Image Comics      | 35      | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
+| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
 | The Spectacular Spider-Men  | Marvel Comics     | 7       | 09&#x2F;04&#x2F;2024 |
 | The Spectacular Spider-Men  | Marvel Comics     | 7       | 09&#x2F;04&#x2F;2024 |
 | Birds of Prey               | DC Comics         | 13      | 09&#x2F;04&#x2F;2024 |
@@ -81,23 +98,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Birds of Prey               | DC Comics         | 13      | 09&#x2F;04&#x2F;2024 |
 | Birds of Prey               | DC Comics         | 13      | 09&#x2F;04&#x2F;2024 |
 | Birds of Prey               | DC Comics         | 13      | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
-| Exceptional X-Men           | Marvel Comics     | 1       | 09&#x2F;04&#x2F;2024 |
 | Justice Society of America  | DC Comics         | 11      | 09&#x2F;04&#x2F;2024 |
 | Justice Society of America  | DC Comics         | 11      | 09&#x2F;04&#x2F;2024 |
 | Justice Society of America  | DC Comics         | 11      | 09&#x2F;04&#x2F;2024 |
@@ -142,6 +142,10 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Get Fury                    | Marvel Comics     | 5       | 09&#x2F;04&#x2F;2024 |
 | Venom War: Spider-Man       | Marvel Comics     | 2       | 09&#x2F;04&#x2F;2024 |
 | Venom War: Spider-Man       | Marvel Comics     | 2       | 09&#x2F;04&#x2F;2024 |
+| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
+| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
+| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
+| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
 | Dawnrunner                  | Dark Horse Comics | 5       | 09&#x2F;04&#x2F;2024 |
 | Dawnrunner                  | Dark Horse Comics | 5       | 09&#x2F;04&#x2F;2024 |
 | Dawnrunner                  | Dark Horse Comics | 5       | 09&#x2F;04&#x2F;2024 |
@@ -152,10 +156,21 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Animal Pound                | BOOM! Studios     | 5       | 09&#x2F;04&#x2F;2024 |
 | Animal Pound                | BOOM! Studios     | 5       | 09&#x2F;04&#x2F;2024 |
 | Animal Pound                | BOOM! Studios     | 5       | 09&#x2F;04&#x2F;2024 |
-| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
-| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
-| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
-| Plastic Man No More!        | DC Comics         | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
+| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
 | The Holy Roller             | Image Comics      | 8       | 09&#x2F;04&#x2F;2024 |
 | The Holy Roller             | Image Comics      | 8       | 09&#x2F;04&#x2F;2024 |
 | My Adventures with Superman | DC Comics         | 4       | 09&#x2F;04&#x2F;2024 |
@@ -165,30 +180,21 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Kid Venom                   | Marvel Comics     | 2       | 09&#x2F;04&#x2F;2024 |
 | Kid Venom                   | Marvel Comics     | 2       | 09&#x2F;04&#x2F;2024 |
 | Kid Venom                   | Marvel Comics     | 2       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
-| Minor Arcana                | BOOM! Studios     | 1       | 09&#x2F;04&#x2F;2024 |
 | Cruel Universe              | Oni Press         | 2       | 09&#x2F;04&#x2F;2024 |
 | Cruel Universe              | Oni Press         | 2       | 09&#x2F;04&#x2F;2024 |
 | Cruel Universe              | Oni Press         | 2       | 09&#x2F;04&#x2F;2024 |
 | Cruel Universe              | Oni Press         | 2       | 09&#x2F;04&#x2F;2024 |
 | Cruel Universe              | Oni Press         | 2       | 09&#x2F;04&#x2F;2024 |
-| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
-| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
-| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
-| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
-| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
 | Star Trek                   | IDW Publishing    | 50      | 09&#x2F;04&#x2F;2024 |
 | Star Trek                   | IDW Publishing    | 50      | 09&#x2F;04&#x2F;2024 |
 | Star Trek                   | IDW Publishing    | 50      | 09&#x2F;04&#x2F;2024 |
 | Star Trek                   | IDW Publishing    | 50      | 09&#x2F;04&#x2F;2024 |
+| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
+| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
+| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
+| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
+| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
+| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
+| The Blood Brothers Mother   | DSTLRY            | 2       | 09&#x2F;04&#x2F;2024 |
 
 </details>
