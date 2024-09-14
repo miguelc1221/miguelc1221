@@ -35,15 +35,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Amazing Spider-Man                               | Marvel Comics  | 57      | 09&#x2F;11&#x2F;2024 |
 | The Amazing Spider-Man                               | Marvel Comics  | 57      | 09&#x2F;11&#x2F;2024 |
 | The Amazing Spider-Man                               | Marvel Comics  | 57      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
-| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
 | Uncanny X-Men                                        | Marvel Comics  | 2       | 09&#x2F;11&#x2F;2024 |
 | Uncanny X-Men                                        | Marvel Comics  | 2       | 09&#x2F;11&#x2F;2024 |
 | Uncanny X-Men                                        | Marvel Comics  | 2       | 09&#x2F;11&#x2F;2024 |
@@ -51,6 +42,17 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Uncanny X-Men                                        | Marvel Comics  | 2       | 09&#x2F;11&#x2F;2024 |
 | Uncanny X-Men                                        | Marvel Comics  | 2       | 09&#x2F;11&#x2F;2024 |
 | Uncanny X-Men                                        | Marvel Comics  | 2       | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
+| Transformers                                         | Image Comics   | 12      | 09&#x2F;11&#x2F;2024 |
 | Venom                                                | Marvel Comics  | 37      | 09&#x2F;11&#x2F;2024 |
 | Venom                                                | Marvel Comics  | 37      | 09&#x2F;11&#x2F;2024 |
 | Venom                                                | Marvel Comics  | 37      | 09&#x2F;11&#x2F;2024 |
@@ -71,32 +73,34 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Green Lantern                                        | DC Comics      | 15      | 09&#x2F;11&#x2F;2024 |
 | Green Lantern                                        | DC Comics      | 15      | 09&#x2F;11&#x2F;2024 |
 | Green Lantern                                        | DC Comics      | 15      | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
 | Batman and Robin                                     | DC Comics      | 13      | 09&#x2F;11&#x2F;2024 |
 | Batman and Robin                                     | DC Comics      | 13      | 09&#x2F;11&#x2F;2024 |
 | Batman and Robin                                     | DC Comics      | 13      | 09&#x2F;11&#x2F;2024 |
 | Batman and Robin                                     | DC Comics      | 13      | 09&#x2F;11&#x2F;2024 |
 | Batman and Robin                                     | DC Comics      | 13      | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
-| Wolverine                                            | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 2       | 09&#x2F;11&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 2       | 09&#x2F;11&#x2F;2024 |
 | Teenage Mutant Ninja Turtles                         | IDW Publishing | 2       | 09&#x2F;11&#x2F;2024 |
 | Teenage Mutant Ninja Turtles                         | IDW Publishing | 2       | 09&#x2F;11&#x2F;2024 |
 | Teenage Mutant Ninja Turtles                         | IDW Publishing | 2       | 09&#x2F;11&#x2F;2024 |
@@ -145,17 +149,17 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Captain America                                      | Marvel Comics  | 13      | 09&#x2F;11&#x2F;2024 |
 | Captain America                                      | Marvel Comics  | 13      | 09&#x2F;11&#x2F;2024 |
 | Captain America                                      | Marvel Comics  | 13      | 09&#x2F;11&#x2F;2024 |
-| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
-| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
-| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
-| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
-| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
-| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider                        | Marvel Comics  | 5       | 09&#x2F;11&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider                        | Marvel Comics  | 5       | 09&#x2F;11&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider                        | Marvel Comics  | 5       | 09&#x2F;11&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider                        | Marvel Comics  | 5       | 09&#x2F;11&#x2F;2024 |
 | Spider-Gwen: The Ghost-Spider                        | Marvel Comics  | 5       | 09&#x2F;11&#x2F;2024 |
+| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
+| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
+| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
+| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
+| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
+| Absolute Power: Task Force VII                       | DC Comics      | 6       | 09&#x2F;11&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age      | DC Comics      | 4       | 09&#x2F;11&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age      | DC Comics      | 4       | 09&#x2F;11&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age      | DC Comics      | 4       | 09&#x2F;11&#x2F;2024 |
@@ -181,13 +185,10 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Space Ghost                                          | Dynamite       | 5       | 09&#x2F;11&#x2F;2024 |
 | Space Ghost                                          | Dynamite       | 5       | 09&#x2F;11&#x2F;2024 |
 | Space Ghost                                          | Dynamite       | 5       | 09&#x2F;11&#x2F;2024 |
+| Space Ghost                                          | Dynamite       | 5       | 09&#x2F;11&#x2F;2024 |
 | Batman &#39;89: Echoes                                   | DC Comics      | 4       | 09&#x2F;11&#x2F;2024 |
 | Batman &#39;89: Echoes                                   | DC Comics      | 4       | 09&#x2F;11&#x2F;2024 |
 | Batman &#39;89: Echoes                                   | DC Comics      | 4       | 09&#x2F;11&#x2F;2024 |
-| DC vs. Vampires: World War V                         | DC Comics      | 2       | 09&#x2F;11&#x2F;2024 |
-| DC vs. Vampires: World War V                         | DC Comics      | 2       | 09&#x2F;11&#x2F;2024 |
-| DC vs. Vampires: World War V                         | DC Comics      | 2       | 09&#x2F;11&#x2F;2024 |
-| DC vs. Vampires: World War V                         | DC Comics      | 2       | 09&#x2F;11&#x2F;2024 |
 | Venom War: Wolverine                                 | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
 | Venom War: Wolverine                                 | Marvel Comics  | 1       | 09&#x2F;11&#x2F;2024 |
 
