@@ -75,68 +75,68 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Flash                                       | DC Comics         | 13      | 09&#x2F;25&#x2F;2024 |
 | The Flash                                       | DC Comics         | 13      | 09&#x2F;25&#x2F;2024 |
 | The Flash                                       | DC Comics         | 13      | 09&#x2F;25&#x2F;2024 |
+| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | X-Force                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | X-Force                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | X-Force                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | X-Force                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | X-Force                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
-| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Wolverine: Revenge - Red Band Edition           | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Zatanna: Bring Down The House                   | DC Comics         | 4       | 09&#x2F;25&#x2F;2024 |
 | Zatanna: Bring Down The House                   | DC Comics         | 4       | 09&#x2F;25&#x2F;2024 |
 | Zatanna: Bring Down The House                   | DC Comics         | 4       | 09&#x2F;25&#x2F;2024 |
 | Zatanna: Bring Down The House                   | DC Comics         | 4       | 09&#x2F;25&#x2F;2024 |
 | Zatanna: Bring Down The House                   | DC Comics         | 4       | 09&#x2F;25&#x2F;2024 |
+| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
+| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
+| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
+| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
+| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
+| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
+| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
+| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
+| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
+| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
+| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
+| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
+| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
+| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
 | NYX                                             | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | NYX                                             | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | NYX                                             | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | NYX                                             | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
-| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
-| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
-| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
-| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
-| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
-| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
-| Harley Quinn                                    | DC Comics         | 43      | 09&#x2F;25&#x2F;2024 |
 | Phoenix                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | Phoenix                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | Phoenix                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
 | Phoenix                                         | Marvel Comics     | 3       | 09&#x2F;25&#x2F;2024 |
-| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
-| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
-| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
-| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
-| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
-| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
-| Batman: The Long Halloween - The Last Halloween | DC Comics         | 1       | 09&#x2F;25&#x2F;2024 |
 | Wolverine: Revenge                              | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Wolverine: Revenge                              | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Wolverine: Revenge                              | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Wolverine: Revenge                              | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Wolverine: Revenge                              | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
-| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
-| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
-| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
-| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
-| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
 | Batman: The Brave and the Bold                  | DC Comics         | 17      | 09&#x2F;25&#x2F;2024 |
 | Batman: The Brave and the Bold                  | DC Comics         | 17      | 09&#x2F;25&#x2F;2024 |
 | Batman: The Brave and the Bold                  | DC Comics         | 17      | 09&#x2F;25&#x2F;2024 |
+| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
+| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
+| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
+| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
+| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
+| Absolute Power: Task Force VII                  | DC Comics         | 7       | 09&#x2F;25&#x2F;2024 |
 | Absolute Power: Origins                         | DC Comics         | 3       | 09&#x2F;25&#x2F;2024 |
 | Absolute Power: Origins                         | DC Comics         | 3       | 09&#x2F;25&#x2F;2024 |
+| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
+| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Power Girl                                      | DC Comics         | 13      | 09&#x2F;25&#x2F;2024 |
 | Power Girl                                      | DC Comics         | 13      | 09&#x2F;25&#x2F;2024 |
 | Power Girl                                      | DC Comics         | 13      | 09&#x2F;25&#x2F;2024 |
-| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Phases of the Moon Knight                       | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Helen of Wyndhorn                               | Dark Horse Comics | 5       | 09&#x2F;25&#x2F;2024 |
 | Helen of Wyndhorn                               | Dark Horse Comics | 5       | 09&#x2F;25&#x2F;2024 |
 | Helen of Wyndhorn                               | Dark Horse Comics | 5       | 09&#x2F;25&#x2F;2024 |
@@ -155,6 +155,13 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Feral                                           | Image Comics      | 6       | 09&#x2F;25&#x2F;2024 |
 | Feral                                           | Image Comics      | 6       | 09&#x2F;25&#x2F;2024 |
 | Feral                                           | Image Comics      | 6       | 09&#x2F;25&#x2F;2024 |
+| The Moon Is Following Us                        | Image Comics      | 1       | 09&#x2F;25&#x2F;2024 |
+| The Moon Is Following Us                        | Image Comics      | 1       | 09&#x2F;25&#x2F;2024 |
+| The Moon Is Following Us                        | Image Comics      | 1       | 09&#x2F;25&#x2F;2024 |
+| The Moon Is Following Us                        | Image Comics      | 1       | 09&#x2F;25&#x2F;2024 |
+| The Moon Is Following Us                        | Image Comics      | 1       | 09&#x2F;25&#x2F;2024 |
+| The Moon Is Following Us                        | Image Comics      | 1       | 09&#x2F;25&#x2F;2024 |
+| The Moon Is Following Us                        | Image Comics      | 1       | 09&#x2F;25&#x2F;2024 |
 | Thundercats                                     | Dynamite          | 8       | 09&#x2F;25&#x2F;2024 |
 | Thundercats                                     | Dynamite          | 8       | 09&#x2F;25&#x2F;2024 |
 | Thundercats                                     | Dynamite          | 8       | 09&#x2F;25&#x2F;2024 |
@@ -181,19 +188,9 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Predator vs. Black Panther                      | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Predator vs. Black Panther                      | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Predator vs. Black Panther                      | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Venom War: Zombiotes                            | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Venom War: Zombiotes                            | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Deadpool Team-Up                                | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Deadpool Team-Up                                | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Deadpool Team-Up                                | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
 | Deadpool Team-Up                                | Marvel Comics     | 2       | 09&#x2F;25&#x2F;2024 |
-| Outsiders                                       | DC Comics         | 11      | 09&#x2F;25&#x2F;2024 |
-| Outsiders                                       | DC Comics         | 11      | 09&#x2F;25&#x2F;2024 |
-| Spectregraph                                    | DSTLRY            | 3       | 09&#x2F;25&#x2F;2024 |
-| Spectregraph                                    | DSTLRY            | 3       | 09&#x2F;25&#x2F;2024 |
-| Spectregraph                                    | DSTLRY            | 3       | 09&#x2F;25&#x2F;2024 |
-| Spectregraph                                    | DSTLRY            | 3       | 09&#x2F;25&#x2F;2024 |
-| Spectregraph                                    | DSTLRY            | 3       | 09&#x2F;25&#x2F;2024 |
-| Spectregraph                                    | DSTLRY            | 3       | 09&#x2F;25&#x2F;2024 |
 
 </details>
