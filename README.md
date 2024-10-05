@@ -52,6 +52,12 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Absolute Power                                     | DC Comics      | 4       | 10&#x2F;02&#x2F;2024 |
 | Absolute Power                                     | DC Comics      | 4       | 10&#x2F;02&#x2F;2024 |
 | Absolute Power                                     | DC Comics      | 4       | 10&#x2F;02&#x2F;2024 |
+| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
 | Daredevil                                          | Marvel Comics  | 14      | 10&#x2F;02&#x2F;2024 |
 | Daredevil                                          | Marvel Comics  | 14      | 10&#x2F;02&#x2F;2024 |
 | Daredevil                                          | Marvel Comics  | 14      | 10&#x2F;02&#x2F;2024 |
@@ -65,12 +71,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Immortal Thor                                  | Marvel Comics  | 16      | 10&#x2F;02&#x2F;2024 |
 | The Immortal Thor                                  | Marvel Comics  | 16      | 10&#x2F;02&#x2F;2024 |
 | The Immortal Thor                                  | Marvel Comics  | 16      | 10&#x2F;02&#x2F;2024 |
-| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC All In Special                                  | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
 | Spawn                                              | Image Comics   | 35      | 10&#x2F;02&#x2F;2024 |
 | Spawn                                              | Image Comics   | 35      | 10&#x2F;02&#x2F;2024 |
 | Birds of Prey                                      | DC Comics      | 14      | 10&#x2F;02&#x2F;2024 |
@@ -99,32 +99,30 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Shazam!                                            | DC Comics      | 16      | 10&#x2F;02&#x2F;2024 |
 | Shazam!                                            | DC Comics      | 16      | 10&#x2F;02&#x2F;2024 |
 | Shazam!                                            | DC Comics      | 16      | 10&#x2F;02&#x2F;2024 |
-| Gunslinger Spawn                                   | Image Comics   | 36      | 10&#x2F;02&#x2F;2024 |
-| Gunslinger Spawn                                   | Image Comics   | 36      | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
 | King Spawn                                         | Image Comics   | 38      | 10&#x2F;02&#x2F;2024 |
 | King Spawn                                         | Image Comics   | 38      | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Storm                                              | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
-| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
 | Redcoat                                            | Image Comics   | 6       | 10&#x2F;02&#x2F;2024 |
 | Redcoat                                            | Image Comics   | 6       | 10&#x2F;02&#x2F;2024 |
 | Redcoat                                            | Image Comics   | 6       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
+| Venom War                                          | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
 | The Deviant                                        | Image Comics   | 8       | 10&#x2F;02&#x2F;2024 |
 | The Deviant                                        | Image Comics   | 8       | 10&#x2F;02&#x2F;2024 |
 | The Deviant                                        | Image Comics   | 8       | 10&#x2F;02&#x2F;2024 |
@@ -141,8 +139,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Venom War: Spider-Man                              | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
 | Venom War: Spider-Man                              | Marvel Comics  | 3       | 10&#x2F;02&#x2F;2024 |
 | Get Fury                                           | Marvel Comics  | 6       | 10&#x2F;02&#x2F;2024 |
-| Wolverine: Deep Cut                                | Marvel Comics  | 4       | 10&#x2F;02&#x2F;2024 |
-| Wolverine: Deep Cut                                | Marvel Comics  | 4       | 10&#x2F;02&#x2F;2024 |
 | Plastic Man No More!                               | DC Comics      | 2       | 10&#x2F;02&#x2F;2024 |
 | Plastic Man No More!                               | DC Comics      | 2       | 10&#x2F;02&#x2F;2024 |
 | Hyde Street                                        | Image Comics   | 1       | 10&#x2F;02&#x2F;2024 |
@@ -154,6 +150,8 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Hyde Street                                        | Image Comics   | 1       | 10&#x2F;02&#x2F;2024 |
 | Hyde Street                                        | Image Comics   | 1       | 10&#x2F;02&#x2F;2024 |
 | Hyde Street                                        | Image Comics   | 1       | 10&#x2F;02&#x2F;2024 |
+| Wolverine: Deep Cut                                | Marvel Comics  | 4       | 10&#x2F;02&#x2F;2024 |
+| Wolverine: Deep Cut                                | Marvel Comics  | 4       | 10&#x2F;02&#x2F;2024 |
 | Teenage Mutant Ninja Turtles: Nightwatcher         | IDW Publishing | 2       | 10&#x2F;02&#x2F;2024 |
 | Teenage Mutant Ninja Turtles: Nightwatcher         | IDW Publishing | 2       | 10&#x2F;02&#x2F;2024 |
 | Teenage Mutant Ninja Turtles: Nightwatcher         | IDW Publishing | 2       | 10&#x2F;02&#x2F;2024 |
@@ -167,28 +165,31 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Star Wars: Inquisitors                             | Marvel Comics  | 4       | 10&#x2F;02&#x2F;2024 |
 | My Adventures with Superman                        | DC Comics      | 5       | 10&#x2F;02&#x2F;2024 |
 | My Adventures with Superman                        | DC Comics      | 5       | 10&#x2F;02&#x2F;2024 |
+| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
+| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
 | Cruel Universe                                     | Oni Press      | 3       | 10&#x2F;02&#x2F;2024 |
 | Cruel Universe                                     | Oni Press      | 3       | 10&#x2F;02&#x2F;2024 |
 | Cruel Universe                                     | Oni Press      | 3       | 10&#x2F;02&#x2F;2024 |
 | Cruel Universe                                     | Oni Press      | 3       | 10&#x2F;02&#x2F;2024 |
 | Cruel Universe                                     | Oni Press      | 3       | 10&#x2F;02&#x2F;2024 |
+| DC&#39;s I Know What You Did Last Crisis               | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC&#39;s I Know What You Did Last Crisis               | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
+| DC&#39;s I Know What You Did Last Crisis               | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
 | Ultraman X Avengers                                | Marvel Comics  | 2       | 10&#x2F;02&#x2F;2024 |
 | Ultraman X Avengers                                | Marvel Comics  | 2       | 10&#x2F;02&#x2F;2024 |
-| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC Horror Presents: Creature Commandos             | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC&#39;s I Know What You Did Last Crisis               | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC&#39;s I Know What You Did Last Crisis               | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| DC&#39;s I Know What You Did Last Crisis               | DC Comics      | 1       | 10&#x2F;02&#x2F;2024 |
-| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| Star Wars: The Battle of Jakku - Insurgency Rising | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
 | Ghost Rider: Robbie Reyes Special                  | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
 | Ghost Rider: Robbie Reyes Special                  | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
 | Ghost Rider: Robbie Reyes Special                  | Marvel Comics  | 1       | 10&#x2F;02&#x2F;2024 |
-| The Batman &amp; Scooby-Doo Mysteries                  | DC Comics      | 10      | 10&#x2F;02&#x2F;2024 |
+| Conan: Battle of the Black Stone                   | Titan Books    | 2       | 10&#x2F;02&#x2F;2024 |
+| Conan: Battle of the Black Stone                   | Titan Books    | 2       | 10&#x2F;02&#x2F;2024 |
+| Conan: Battle of the Black Stone                   | Titan Books    | 2       | 10&#x2F;02&#x2F;2024 |
+| Conan: Battle of the Black Stone                   | Titan Books    | 2       | 10&#x2F;02&#x2F;2024 |
 | Conan: Battle of the Black Stone                   | Titan Books    | 2       | 10&#x2F;02&#x2F;2024 |
 
 </details>
