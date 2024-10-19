@@ -84,20 +84,36 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Wolverine                                                      | Marvel Comics  | 2       | 10&#x2F;16&#x2F;2024 |
 | Wolverine                                                      | Marvel Comics  | 2       | 10&#x2F;16&#x2F;2024 |
 | Wolverine                                                      | Marvel Comics  | 2       | 10&#x2F;16&#x2F;2024 |
+| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
+| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
+| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
+| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
+| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
+| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
 | The Spectacular Spider-Men                                     | Marvel Comics  | 8       | 10&#x2F;16&#x2F;2024 |
 | The Spectacular Spider-Men                                     | Marvel Comics  | 8       | 10&#x2F;16&#x2F;2024 |
-| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
-| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
-| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
-| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
-| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
-| Catwoman                                                       | DC Comics      | 69      | 10&#x2F;16&#x2F;2024 |
 | The Department of Truth                                        | Image Comics   | 26      | 10&#x2F;16&#x2F;2024 |
 | The Department of Truth                                        | Image Comics   | 26      | 10&#x2F;16&#x2F;2024 |
 | The Department of Truth                                        | Image Comics   | 26      | 10&#x2F;16&#x2F;2024 |
 | The Department of Truth                                        | Image Comics   | 26      | 10&#x2F;16&#x2F;2024 |
 | The Department of Truth                                        | Image Comics   | 26      | 10&#x2F;16&#x2F;2024 |
 | The Department of Truth                                        | Image Comics   | 26      | 10&#x2F;16&#x2F;2024 |
+| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
+| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
+| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
+| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
+| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Radiant Black                                                  | Image Comics   | 30      | 10&#x2F;16&#x2F;2024 |
 | Destro                                                         | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
 | Destro                                                         | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
 | Destro                                                         | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
@@ -105,20 +121,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Destro                                                         | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
 | Destro                                                         | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
 | Radiant Black                                                  | Image Comics   | 30      | 10&#x2F;16&#x2F;2024 |
-| Radiant Black                                                  | Image Comics   | 30      | 10&#x2F;16&#x2F;2024 |
-| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
-| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
-| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
-| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
-| Batman and Robin: Year One                                     | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                                   | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
 | House of Slaughter                                             | BOOM! Studios  | 26      | 10&#x2F;16&#x2F;2024 |
 | House of Slaughter                                             | BOOM! Studios  | 26      | 10&#x2F;16&#x2F;2024 |
 | House of Slaughter                                             | BOOM! Studios  | 26      | 10&#x2F;16&#x2F;2024 |
@@ -143,21 +145,21 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Dark Knights of Steel: Allwinter                               | DC Comics      | 4       | 10&#x2F;16&#x2F;2024 |
 | Dark Knights of Steel: Allwinter                               | DC Comics      | 4       | 10&#x2F;16&#x2F;2024 |
 | Dark Knights of Steel: Allwinter                               | DC Comics      | 4       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
-| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
 | Batman: Full Moon                                              | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
 | Batman: Full Moon                                              | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
 | Batman: Full Moon                                              | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
 | Batman: Full Moon                                              | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
 | Batman: Full Moon                                              | DC Comics      | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Mystique                                                       | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
 | The Walking Dead Deluxe                                        | Image Comics   | 99      | 10&#x2F;16&#x2F;2024 |
 | The Walking Dead Deluxe                                        | Image Comics   | 99      | 10&#x2F;16&#x2F;2024 |
 | The Walking Dead Deluxe                                        | Image Comics   | 99      | 10&#x2F;16&#x2F;2024 |
@@ -187,10 +189,8 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Falling in Love on the Path to Hell                            | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
 | Falling in Love on the Path to Hell                            | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
 | Falling in Love on the Path to Hell                            | Image Comics   | 5       | 10&#x2F;16&#x2F;2024 |
-| Blood Hunters                                                  | Marvel Comics  | 3       | 10&#x2F;16&#x2F;2024 |
-| Blood Hunters                                                  | Marvel Comics  | 3       | 10&#x2F;16&#x2F;2024 |
-| Local Man                                                      | Image Comics   | 25      | 10&#x2F;16&#x2F;2024 |
-| Local Man                                                      | Image Comics   | 25      | 10&#x2F;16&#x2F;2024 |
-| Local Man                                                      | Image Comics   | 25      | 10&#x2F;16&#x2F;2024 |
+| Crypt of Shadows                                               | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Crypt of Shadows                                               | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
+| Crypt of Shadows                                               | Marvel Comics  | 1       | 10&#x2F;16&#x2F;2024 |
 
 </details>
