@@ -51,6 +51,25 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Action Comics                                        | DC Comics      | 10      | 10&#x2F;23&#x2F;2024 |
 | Action Comics                                        | DC Comics      | 10      | 10&#x2F;23&#x2F;2024 |
 | Action Comics                                        | DC Comics      | 10      | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
 | X-Men                                                | Marvel Comics  | 6       | 10&#x2F;23&#x2F;2024 |
 | X-Men                                                | Marvel Comics  | 6       | 10&#x2F;23&#x2F;2024 |
 | X-Men                                                | Marvel Comics  | 6       | 10&#x2F;23&#x2F;2024 |
@@ -58,23 +77,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | X-Men                                                | Marvel Comics  | 6       | 10&#x2F;23&#x2F;2024 |
 | X-Men                                                | Marvel Comics  | 6       | 10&#x2F;23&#x2F;2024 |
 | X-Men                                                | Marvel Comics  | 6       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Absolute Wonder Woman                                | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
 | Green Arrow                                          | DC Comics      | 17      | 10&#x2F;23&#x2F;2024 |
 | Green Arrow                                          | DC Comics      | 17      | 10&#x2F;23&#x2F;2024 |
 | Green Arrow                                          | DC Comics      | 17      | 10&#x2F;23&#x2F;2024 |
@@ -83,6 +85,18 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Avengers                                         | Marvel Comics  | 19      | 10&#x2F;23&#x2F;2024 |
 | The Avengers                                         | Marvel Comics  | 19      | 10&#x2F;23&#x2F;2024 |
 | The Avengers                                         | Marvel Comics  | 19      | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
+| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
 | Void Rivals                                          | Image Comics   | 13      | 10&#x2F;23&#x2F;2024 |
 | Void Rivals                                          | Image Comics   | 13      | 10&#x2F;23&#x2F;2024 |
 | Void Rivals                                          | Image Comics   | 13      | 10&#x2F;23&#x2F;2024 |
@@ -90,18 +104,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Void Rivals                                          | Image Comics   | 13      | 10&#x2F;23&#x2F;2024 |
 | Void Rivals                                          | Image Comics   | 13      | 10&#x2F;23&#x2F;2024 |
 | Void Rivals                                          | Image Comics   | 13      | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                         | IDW Publishing | 3       | 10&#x2F;23&#x2F;2024 |
 | The Flash                                            | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
 | The Flash                                            | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
 | The Flash                                            | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
@@ -119,6 +121,17 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Harley Quinn                                         | DC Comics      | 44      | 10&#x2F;23&#x2F;2024 |
 | Harley Quinn                                         | DC Comics      | 44      | 10&#x2F;23&#x2F;2024 |
 | Harley Quinn                                         | DC Comics      | 44      | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
+| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
 | Rook: Exodus                                         | Image Comics   | 6       | 10&#x2F;23&#x2F;2024 |
 | Rook: Exodus                                         | Image Comics   | 6       | 10&#x2F;23&#x2F;2024 |
 | Rook: Exodus                                         | Image Comics   | 6       | 10&#x2F;23&#x2F;2024 |
@@ -127,17 +140,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | X-Factor                                             | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
 | X-Factor                                             | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
 | X-Factor                                             | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
-| Iron Man                                             | Marvel Comics  | 1       | 10&#x2F;23&#x2F;2024 |
 | Batman: The Brave and the Bold                       | DC Comics      | 18      | 10&#x2F;23&#x2F;2024 |
 | Batman: The Brave and the Bold                       | DC Comics      | 18      | 10&#x2F;23&#x2F;2024 |
 | Batman: The Brave and the Bold                       | DC Comics      | 18      | 10&#x2F;23&#x2F;2024 |
@@ -154,23 +156,23 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Spider-Boy                                           | Marvel Comics  | 12      | 10&#x2F;23&#x2F;2024 |
 | John Constantine, Hellblazer: Dead in America        | DC Comics      | 10      | 10&#x2F;23&#x2F;2024 |
 | John Constantine, Hellblazer: Dead in America        | DC Comics      | 10      | 10&#x2F;23&#x2F;2024 |
+| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
+| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
 | Scarlet Witch                                        | Marvel Comics  | 5       | 10&#x2F;23&#x2F;2024 |
 | Scarlet Witch                                        | Marvel Comics  | 5       | 10&#x2F;23&#x2F;2024 |
 | Scarlet Witch                                        | Marvel Comics  | 5       | 10&#x2F;23&#x2F;2024 |
-| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
-| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
-| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
-| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
-| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
-| Green Lantern: Dark                                  | DC Comics      | 1       | 10&#x2F;23&#x2F;2024 |
 | Dazzler                                              | Marvel Comics  | 2       | 10&#x2F;23&#x2F;2024 |
 | Dazzler                                              | Marvel Comics  | 2       | 10&#x2F;23&#x2F;2024 |
 | Dazzler                                              | Marvel Comics  | 2       | 10&#x2F;23&#x2F;2024 |
 | Dazzler                                              | Marvel Comics  | 2       | 10&#x2F;23&#x2F;2024 |
+| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
+| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
+| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
+| Power Girl                                           | DC Comics      | 14      | 10&#x2F;23&#x2F;2024 |
 | The Power Fantasy                                    | Image Comics   | 3       | 10&#x2F;23&#x2F;2024 |
 | The Power Fantasy                                    | Image Comics   | 3       | 10&#x2F;23&#x2F;2024 |
 | The Power Fantasy                                    | Image Comics   | 3       | 10&#x2F;23&#x2F;2024 |
@@ -184,11 +186,11 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Universal Monsters: Frankenstein                     | Image Comics   | 3       | 10&#x2F;23&#x2F;2024 |
 | The Moon Is Following Us                             | Image Comics   | 2       | 10&#x2F;23&#x2F;2024 |
 | The Moon Is Following Us                             | Image Comics   | 2       | 10&#x2F;23&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
-| Spider-Society                                       | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
-| Venom War: Carnage                                   | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
-| Venom War: Carnage                                   | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
+| Conan the Barbarian                                  | Titan Books    | 16      | 10&#x2F;23&#x2F;2024 |
+| Conan the Barbarian                                  | Titan Books    | 16      | 10&#x2F;23&#x2F;2024 |
+| Conan the Barbarian                                  | Titan Books    | 16      | 10&#x2F;23&#x2F;2024 |
+| Werewolf by Night                                    | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
+| Werewolf by Night                                    | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
+| Werewolf by Night                                    | Marvel Comics  | 3       | 10&#x2F;23&#x2F;2024 |
 
 </details>
