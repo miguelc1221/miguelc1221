@@ -75,6 +75,11 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Phases of the Moon Knight                          | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
 | Phases of the Moon Knight                          | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
 | Phases of the Moon Knight                          | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
+| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
 | Feral                                              | Image Comics         | 7       | 10&#x2F;30&#x2F;2024 |
 | Feral                                              | Image Comics         | 7       | 10&#x2F;30&#x2F;2024 |
 | Feral                                              | Image Comics         | 7       | 10&#x2F;30&#x2F;2024 |
@@ -100,21 +105,16 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Thundercats                                        | Dynamite             | 9       | 10&#x2F;30&#x2F;2024 |
 | Thundercats                                        | Dynamite             | 9       | 10&#x2F;30&#x2F;2024 |
 | Thundercats                                        | Dynamite             | 9       | 10&#x2F;30&#x2F;2024 |
-| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Poison Ivy &#x2F; Swamp Thing: Feral Trees              | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
 | Venom War: Zombiotes                               | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
 | Venom War: Zombiotes                               | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
 | Deadpool Team-Up                                   | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
 | Deadpool Team-Up                                   | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
 | Deadpool Team-Up                                   | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
+| Sonic the Hedgehog                                 | IDW Publishing       | 74      | 10&#x2F;30&#x2F;2024 |
+| Sonic the Hedgehog                                 | IDW Publishing       | 74      | 10&#x2F;30&#x2F;2024 |
+| Sonic the Hedgehog                                 | IDW Publishing       | 74      | 10&#x2F;30&#x2F;2024 |
 | Venom War: Fantastic Four                          | Marvel Comics        | 1       | 10&#x2F;30&#x2F;2024 |
 | Venom War: Fantastic Four                          | Marvel Comics        | 1       | 10&#x2F;30&#x2F;2024 |
-| Sonic the Hedgehog                                 | IDW Publishing       | 74      | 10&#x2F;30&#x2F;2024 |
-| Sonic the Hedgehog                                 | IDW Publishing       | 74      | 10&#x2F;30&#x2F;2024 |
-| Sonic the Hedgehog                                 | IDW Publishing       | 74      | 10&#x2F;30&#x2F;2024 |
 | Namor                                              | Marvel Comics        | 4       | 10&#x2F;30&#x2F;2024 |
 | Namor                                              | Marvel Comics        | 4       | 10&#x2F;30&#x2F;2024 |
 | Chasm: Curse of Kaine                              | Marvel Comics        | 3       | 10&#x2F;30&#x2F;2024 |
@@ -132,6 +132,8 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | MultiVersus: Collision Detected                    | DC Comics            | 4       | 10&#x2F;30&#x2F;2024 |
 | MultiVersus: Collision Detected                    | DC Comics            | 4       | 10&#x2F;30&#x2F;2024 |
 | MultiVersus: Collision Detected                    | DC Comics            | 4       | 10&#x2F;30&#x2F;2024 |
+| Penguin Special                                    | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Spawn Kills Every Spawn                            | Image Comics         | 4       | 10&#x2F;30&#x2F;2024 |
 | Spawn Kills Every Spawn                            | Image Comics         | 4       | 10&#x2F;30&#x2F;2024 |
 | Red Sonja                                          | Dynamite             | 15      | 10&#x2F;30&#x2F;2024 |
 | Red Sonja                                          | Dynamite             | 15      | 10&#x2F;30&#x2F;2024 |
@@ -144,48 +146,47 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Red Sonja                                          | Dynamite             | 15      | 10&#x2F;30&#x2F;2024 |
 | Red Sonja                                          | Dynamite             | 15      | 10&#x2F;30&#x2F;2024 |
 | Red Sonja                                          | Dynamite             | 15      | 10&#x2F;30&#x2F;2024 |
-| Penguin Special                                    | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
 | Star Wars: The High Republic Adventures            | Dark Horse Comics    | 11      | 10&#x2F;30&#x2F;2024 |
 | Star Wars: The High Republic Adventures            | Dark Horse Comics    | 11      | 10&#x2F;30&#x2F;2024 |
 | Kaya                                               | Image Comics         | 22      | 10&#x2F;30&#x2F;2024 |
 | Kaya                                               | Image Comics         | 22      | 10&#x2F;30&#x2F;2024 |
 | Batman: Wayne Family Adventures                    | DC Comics            | 13      | 10&#x2F;31&#x2F;2024 |
-| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
-| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
-| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
-| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
-| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
 | Knights vs Samurai                                 | Image Comics         | 2       | 10&#x2F;30&#x2F;2024 |
 | Knights vs Samurai                                 | Image Comics         | 2       | 10&#x2F;30&#x2F;2024 |
-| Lilith                                             | Vault Comics         | 2       | 10&#x2F;30&#x2F;2024 |
-| Lilith                                             | Vault Comics         | 2       | 10&#x2F;30&#x2F;2024 |
-| Lilith                                             | Vault Comics         | 2       | 10&#x2F;30&#x2F;2024 |
-| Lilith                                             | Vault Comics         | 2       | 10&#x2F;30&#x2F;2024 |
-| Lilith                                             | Vault Comics         | 2       | 10&#x2F;30&#x2F;2024 |
-| Lilith                                             | Vault Comics         | 2       | 10&#x2F;30&#x2F;2024 |
+| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
+| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
+| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
+| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
+| Uncanny Valley                                     | BOOM! Studios        | 6       | 10&#x2F;30&#x2F;2024 |
 | Night Club 2                                       | Dark Horse Comics    | 3       | 10&#x2F;30&#x2F;2024 |
 | Night Club 2                                       | Dark Horse Comics    | 3       | 10&#x2F;30&#x2F;2024 |
-| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
-| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
-| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
-| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
-| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
-| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
-| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
-| The Magic Order 5                                  | Dark Horse Comics    | 2       | 10&#x2F;30&#x2F;2024 |
-| The Magic Order 5                                  | Dark Horse Comics    | 2       | 10&#x2F;30&#x2F;2024 |
 | Absolute Batman                                    | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
+| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
+| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
+| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
+| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
+| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
+| Come Find Me: An Autumnal Offering                 | DSTLRY               | 1       | 10&#x2F;30&#x2F;2024 |
+| The Magic Order 5                                  | Dark Horse Comics    | 2       | 10&#x2F;30&#x2F;2024 |
+| The Magic Order 5                                  | Dark Horse Comics    | 2       | 10&#x2F;30&#x2F;2024 |
+| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
 | Dune: House Corrino                                | BOOM! Studios        | 7       | 10&#x2F;30&#x2F;2024 |
 | Dune: House Corrino                                | BOOM! Studios        | 7       | 10&#x2F;30&#x2F;2024 |
 | Dune: House Corrino                                | BOOM! Studios        | 7       | 10&#x2F;30&#x2F;2024 |
 | Dune: House Corrino                                | BOOM! Studios        | 7       | 10&#x2F;30&#x2F;2024 |
 | Previews                                           | Diamond Publications | 43      | 10&#x2F;30&#x2F;2024 |
-| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
-| Wonder Woman: Uncovered                            | DC Comics            | 1       | 10&#x2F;30&#x2F;2024 |
+| Power Rangers: Across the Morphin Grid             | BOOM! Studios        | 1       | 10&#x2F;30&#x2F;2024 |
+| Power Rangers: Across the Morphin Grid             | BOOM! Studios        | 1       | 10&#x2F;30&#x2F;2024 |
+| Power Rangers: Across the Morphin Grid             | BOOM! Studios        | 1       | 10&#x2F;30&#x2F;2024 |
+| Power Rangers: Across the Morphin Grid             | BOOM! Studios        | 1       | 10&#x2F;30&#x2F;2024 |
+| Power Rangers: Across the Morphin Grid             | BOOM! Studios        | 1       | 10&#x2F;30&#x2F;2024 |
+| Power Rangers: Across the Morphin Grid             | BOOM! Studios        | 1       | 10&#x2F;30&#x2F;2024 |
 | Violent Flowers                                    | Image Comics         | 2       | 10&#x2F;30&#x2F;2024 |
 | Violent Flowers                                    | Image Comics         | 2       | 10&#x2F;30&#x2F;2024 |
 | Violent Flowers                                    | Image Comics         | 2       | 10&#x2F;30&#x2F;2024 |
