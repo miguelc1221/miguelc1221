@@ -55,6 +55,8 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Absolute Superman                                  | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
 | Absolute Superman                                  | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
 | Absolute Superman                                  | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| Absolute Superman                                  | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| Absolute Superman                                  | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
 | Action Comics                                      | DC Comics      | 10      | 11&#x2F;06&#x2F;2024 |
 | Action Comics                                      | DC Comics      | 10      | 11&#x2F;06&#x2F;2024 |
 | Action Comics                                      | DC Comics      | 10      | 11&#x2F;06&#x2F;2024 |
@@ -68,6 +70,8 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | X-Men                                              | Marvel Comics  | 7       | 11&#x2F;06&#x2F;2024 |
 | X-Men                                              | Marvel Comics  | 7       | 11&#x2F;06&#x2F;2024 |
 | X-Men                                              | Marvel Comics  | 7       | 11&#x2F;06&#x2F;2024 |
+| Something is Killing the Children                  | BOOM! Studios  | 0       | 11&#x2F;06&#x2F;2024 |
+| Something is Killing the Children                  | BOOM! Studios  | 0       | 11&#x2F;06&#x2F;2024 |
 | Something is Killing the Children                  | BOOM! Studios  | 0       | 11&#x2F;06&#x2F;2024 |
 | Something is Killing the Children                  | BOOM! Studios  | 0       | 11&#x2F;06&#x2F;2024 |
 | Something is Killing the Children                  | BOOM! Studios  | 0       | 11&#x2F;06&#x2F;2024 |
@@ -115,6 +119,14 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | X-Force                                            | Marvel Comics  | 5       | 11&#x2F;06&#x2F;2024 |
 | X-Force                                            | Marvel Comics  | 5       | 11&#x2F;06&#x2F;2024 |
 | X-Force                                            | Marvel Comics  | 5       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
+| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
 | X-Factor                                           | Marvel Comics  | 4       | 11&#x2F;06&#x2F;2024 |
 | X-Factor                                           | Marvel Comics  | 4       | 11&#x2F;06&#x2F;2024 |
 | X-Factor                                           | Marvel Comics  | 4       | 11&#x2F;06&#x2F;2024 |
@@ -122,14 +134,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Shazam!                                            | DC Comics      | 17      | 11&#x2F;06&#x2F;2024 |
 | Shazam!                                            | DC Comics      | 17      | 11&#x2F;06&#x2F;2024 |
 | Shazam!                                            | DC Comics      | 17      | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
-| JSA                                                | DC Comics      | 1       | 11&#x2F;06&#x2F;2024 |
 | Gunslinger Spawn                                   | Image Comics   | 37      | 11&#x2F;06&#x2F;2024 |
 | Gunslinger Spawn                                   | Image Comics   | 37      | 11&#x2F;06&#x2F;2024 |
 | King Spawn                                         | Image Comics   | 39      | 11&#x2F;06&#x2F;2024 |
