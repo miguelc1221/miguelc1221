@@ -45,6 +45,7 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Amazing Spider-Man                          | Marvel Comics     | 61      | 11&#x2F;13&#x2F;2024 |
 | The Amazing Spider-Man                          | Marvel Comics     | 61      | 11&#x2F;13&#x2F;2024 |
 | The Amazing Spider-Man                          | Marvel Comics     | 61      | 11&#x2F;13&#x2F;2024 |
+| The Amazing Spider-Man                          | Marvel Comics     | 61      | 11&#x2F;13&#x2F;2024 |
 | Action Comics                                   | DC Comics         | 10      | 11&#x2F;13&#x2F;2024 |
 | Action Comics                                   | DC Comics         | 10      | 11&#x2F;13&#x2F;2024 |
 | Action Comics                                   | DC Comics         | 10      | 11&#x2F;13&#x2F;2024 |
@@ -53,18 +54,18 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Action Comics                                   | DC Comics         | 10      | 11&#x2F;13&#x2F;2024 |
 | Action Comics                                   | DC Comics         | 10      | 11&#x2F;13&#x2F;2024 |
 | Action Comics                                   | DC Comics         | 10      | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
+| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
 | Ultimate X-Men                                  | Marvel Comics     | 9       | 11&#x2F;13&#x2F;2024 |
 | Ultimate X-Men                                  | Marvel Comics     | 9       | 11&#x2F;13&#x2F;2024 |
 | Ultimate X-Men                                  | Marvel Comics     | 9       | 11&#x2F;13&#x2F;2024 |
 | Ultimate X-Men                                  | Marvel Comics     | 9       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| Uncanny X-Men                                   | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
 | Transformers                                    | Image Comics      | 14      | 11&#x2F;13&#x2F;2024 |
 | Transformers                                    | Image Comics      | 14      | 11&#x2F;13&#x2F;2024 |
 | Transformers                                    | Image Comics      | 14      | 11&#x2F;13&#x2F;2024 |
@@ -97,83 +98,83 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | The Spectacular Spider-Men                      | Marvel Comics     | 9       | 11&#x2F;13&#x2F;2024 |
 | The Spectacular Spider-Men                      | Marvel Comics     | 9       | 11&#x2F;13&#x2F;2024 |
 | The Spectacular Spider-Men                      | Marvel Comics     | 9       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
+| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
 | NYX                                             | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
 | NYX                                             | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
 | NYX                                             | Marvel Comics     | 5       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| G.I. Joe                                        | Image Comics      | 1       | 11&#x2F;13&#x2F;2024 |
-| Radiant Black Ultimate Edition                  | Image Comics      | 30      | 11&#x2F;13&#x2F;2024 |
 | Captain America                                 | Marvel Comics     | 15      | 11&#x2F;13&#x2F;2024 |
 | Captain America                                 | Marvel Comics     | 15      | 11&#x2F;13&#x2F;2024 |
 | Captain America                                 | Marvel Comics     | 15      | 11&#x2F;13&#x2F;2024 |
 | Captain America                                 | Marvel Comics     | 15      | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
+| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics         | 6       | 11&#x2F;13&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics         | 6       | 11&#x2F;13&#x2F;2024 |
 | Batman: Gotham by Gaslight - The Kryptonian Age | DC Comics         | 6       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
-| Psylocke                                        | Marvel Comics     | 1       | 11&#x2F;13&#x2F;2024 |
 | Batman: Dark Age                                | DC Comics         | 6       | 11&#x2F;13&#x2F;2024 |
 | Batman: Dark Age                                | DC Comics         | 6       | 11&#x2F;13&#x2F;2024 |
 | Batman: Dark Age                                | DC Comics         | 6       | 11&#x2F;13&#x2F;2024 |
