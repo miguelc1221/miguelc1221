@@ -67,22 +67,22 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Uncanny X-Men                                   | Marvel Comics  | 6       | 11&#x2F;27&#x2F;2024 |
 | Uncanny X-Men                                   | Marvel Comics  | 6       | 11&#x2F;27&#x2F;2024 |
 | Uncanny X-Men                                   | Marvel Comics  | 6       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
 | Ultimate Black Panther                          | Marvel Comics  | 10      | 11&#x2F;27&#x2F;2024 |
 | Ultimate Black Panther                          | Marvel Comics  | 10      | 11&#x2F;27&#x2F;2024 |
 | Ultimate Black Panther                          | Marvel Comics  | 10      | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Justice League Unlimited                        | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
 | Green Arrow                                     | DC Comics      | 18      | 11&#x2F;27&#x2F;2024 |
 | Green Arrow                                     | DC Comics      | 18      | 11&#x2F;27&#x2F;2024 |
 | Green Arrow                                     | DC Comics      | 18      | 11&#x2F;27&#x2F;2024 |
@@ -122,6 +122,9 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Harley Quinn                                    | DC Comics      | 45      | 11&#x2F;27&#x2F;2024 |
 | Harley Quinn                                    | DC Comics      | 45      | 11&#x2F;27&#x2F;2024 |
 | Harley Quinn                                    | DC Comics      | 45      | 11&#x2F;27&#x2F;2024 |
+| Harley Quinn                                    | DC Comics      | 45      | 11&#x2F;27&#x2F;2024 |
+| Harley Quinn                                    | DC Comics      | 45      | 11&#x2F;27&#x2F;2024 |
+| Harley Quinn                                    | DC Comics      | 45      | 11&#x2F;27&#x2F;2024 |
 | Iron Man                                        | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
 | Iron Man                                        | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
 | Iron Man                                        | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
@@ -143,30 +146,36 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Spider-Boy                                      | Marvel Comics  | 13      | 11&#x2F;27&#x2F;2024 |
 | Spider-Boy                                      | Marvel Comics  | 13      | 11&#x2F;27&#x2F;2024 |
 | Spider-Boy                                      | Marvel Comics  | 13      | 11&#x2F;27&#x2F;2024 |
-| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
-| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
-| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
-| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
 | Mystique                                        | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
 | Mystique                                        | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
 | Mystique                                        | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
 | Mystique                                        | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
-| West Coast Avengers                             | Marvel Comics  | 1       | 11&#x2F;27&#x2F;2024 |
+| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
+| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
+| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
+| Dazzler                                         | Marvel Comics  | 3       | 11&#x2F;27&#x2F;2024 |
 | Hyde Street                                     | Image Comics   | 2       | 11&#x2F;27&#x2F;2024 |
 | Hyde Street                                     | Image Comics   | 2       | 11&#x2F;27&#x2F;2024 |
 | Hyde Street                                     | Image Comics   | 2       | 11&#x2F;27&#x2F;2024 |
+| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
+| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
 | Power Girl                                      | DC Comics      | 15      | 11&#x2F;27&#x2F;2024 |
 | Power Girl                                      | DC Comics      | 15      | 11&#x2F;27&#x2F;2024 |
 | Power Girl                                      | DC Comics      | 15      | 11&#x2F;27&#x2F;2024 |
@@ -176,11 +185,6 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Universal Monsters: Frankenstein                | Image Comics   | 4       | 11&#x2F;27&#x2F;2024 |
 | Universal Monsters: Frankenstein                | Image Comics   | 4       | 11&#x2F;27&#x2F;2024 |
 | Universal Monsters: Frankenstein                | Image Comics   | 4       | 11&#x2F;27&#x2F;2024 |
-| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
-| Black Canary: Best of the Best                  | DC Comics      | 1       | 11&#x2F;27&#x2F;2024 |
 | Blade: Red Band                                 | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
 | Blade: Red Band                                 | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
 | Blade: Red Band                                 | Marvel Comics  | 2       | 11&#x2F;27&#x2F;2024 |
@@ -188,9 +192,5 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Feral                                           | Image Comics   | 8       | 11&#x2F;27&#x2F;2024 |
 | Feral                                           | Image Comics   | 8       | 11&#x2F;27&#x2F;2024 |
 | Feral                                           | Image Comics   | 8       | 11&#x2F;27&#x2F;2024 |
-| Rogue Sun                                       | Image Comics   | 23      | 11&#x2F;27&#x2F;2024 |
-| Hello Darkness                                  | BOOM! Studios  | 5       | 11&#x2F;27&#x2F;2024 |
-| Hello Darkness                                  | BOOM! Studios  | 5       | 11&#x2F;27&#x2F;2024 |
-| Hello Darkness                                  | BOOM! Studios  | 5       | 11&#x2F;27&#x2F;2024 |
 
 </details>
