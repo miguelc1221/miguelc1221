@@ -58,23 +58,23 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Transformers                                | Image Comics  | 15      | 12&#x2F;11&#x2F;2024 |
 | Transformers                                | Image Comics  | 15      | 12&#x2F;11&#x2F;2024 |
 | Transformers                                | Image Comics  | 15      | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
 | Green Lantern                               | DC Comics     | 18      | 12&#x2F;11&#x2F;2024 |
 | Green Lantern                               | DC Comics     | 18      | 12&#x2F;11&#x2F;2024 |
 | Green Lantern                               | DC Comics     | 18      | 12&#x2F;11&#x2F;2024 |
 | Green Lantern                               | DC Comics     | 18      | 12&#x2F;11&#x2F;2024 |
 | Green Lantern                               | DC Comics     | 18      | 12&#x2F;11&#x2F;2024 |
 | Green Lantern                               | DC Comics     | 18      | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Ultimate Universe: One Year In              | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
 | Batman and Robin                            | DC Comics     | 16      | 12&#x2F;11&#x2F;2024 |
 | Batman and Robin                            | DC Comics     | 16      | 12&#x2F;11&#x2F;2024 |
 | Batman and Robin                            | DC Comics     | 16      | 12&#x2F;11&#x2F;2024 |
@@ -112,6 +112,8 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Laura Kinney: Wolverine                     | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
 | Laura Kinney: Wolverine                     | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
 | Laura Kinney: Wolverine                     | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Laura Kinney: Wolverine                     | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Laura Kinney: Wolverine                     | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
 | Batman: Dark Patterns                       | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
 | Batman: Dark Patterns                       | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
 | Batman: Dark Patterns                       | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
@@ -126,16 +128,16 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | DC vs. Vampires: World War V                | DC Comics     | 5       | 12&#x2F;11&#x2F;2024 |
 | DC vs. Vampires: World War V                | DC Comics     | 5       | 12&#x2F;11&#x2F;2024 |
 | DC vs. Vampires: World War V                | DC Comics     | 5       | 12&#x2F;11&#x2F;2024 |
-| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
-| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
-| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
-| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
-| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
 | Superwoman Special                          | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
 | Superwoman Special                          | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
 | Superwoman Special                          | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
 | Superwoman Special                          | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
 | Superwoman Special                          | DC Comics     | 1       | 12&#x2F;11&#x2F;2024 |
+| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
+| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
+| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
+| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
+| Conan the Barbarian                         | Titan Books   | 17      | 12&#x2F;11&#x2F;2024 |
 | Space Ghost                                 | Dynamite      | 8       | 12&#x2F;11&#x2F;2024 |
 | Space Ghost                                 | Dynamite      | 8       | 12&#x2F;11&#x2F;2024 |
 | Space Ghost                                 | Dynamite      | 8       | 12&#x2F;11&#x2F;2024 |
@@ -161,16 +163,14 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Batman &#x2F; Santa Claus: Silent Knight Returns | DC Comics     | 3       | 12&#x2F;11&#x2F;2024 |
 | Batman &#x2F; Santa Claus: Silent Knight Returns | DC Comics     | 3       | 12&#x2F;11&#x2F;2024 |
 | Batman &#x2F; Santa Claus: Silent Knight Returns | DC Comics     | 3       | 12&#x2F;11&#x2F;2024 |
-| Spirits of Vengeance                        | Marvel Comics | 4       | 12&#x2F;11&#x2F;2024 |
-| Spirits of Vengeance                        | Marvel Comics | 4       | 12&#x2F;11&#x2F;2024 |
+| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
+| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
 | Black Lightning                             | DC Comics     | 2       | 12&#x2F;11&#x2F;2024 |
 | Black Lightning                             | DC Comics     | 2       | 12&#x2F;11&#x2F;2024 |
-| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| Your Friendly Neighborhood Spider-Man       | Marvel Comics | 1       | 12&#x2F;11&#x2F;2024 |
-| The Terminator                              | Dynamite      | 3       | 12&#x2F;11&#x2F;2024 |
-| The Terminator                              | Dynamite      | 3       | 12&#x2F;11&#x2F;2024 |
+| Spirits of Vengeance                        | Marvel Comics | 4       | 12&#x2F;11&#x2F;2024 |
+| Spirits of Vengeance                        | Marvel Comics | 4       | 12&#x2F;11&#x2F;2024 |
 | The Terminator                              | Dynamite      | 3       | 12&#x2F;11&#x2F;2024 |
 | The Terminator                              | Dynamite      | 3       | 12&#x2F;11&#x2F;2024 |
 | The Terminator                              | Dynamite      | 3       | 12&#x2F;11&#x2F;2024 |
