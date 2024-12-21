@@ -110,17 +110,17 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Catwoman                                            | DC Comics      | 71      | 12&#x2F;18&#x2F;2024 |
 | Catwoman                                            | DC Comics      | 71      | 12&#x2F;18&#x2F;2024 |
 | Catwoman                                            | DC Comics      | 71      | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
+| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
 | The Spectacular Spider-Men                          | Marvel Comics  | 10      | 12&#x2F;18&#x2F;2024 |
 | The Spectacular Spider-Men                          | Marvel Comics  | 10      | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
-| G.I. Joe                                            | Image Comics   | 2       | 12&#x2F;18&#x2F;2024 |
 | House of Slaughter                                  | BOOM! Studios  | 28      | 12&#x2F;18&#x2F;2024 |
 | House of Slaughter                                  | BOOM! Studios  | 28      | 12&#x2F;18&#x2F;2024 |
 | House of Slaughter                                  | BOOM! Studios  | 28      | 12&#x2F;18&#x2F;2024 |
@@ -156,37 +156,37 @@ designers to ensure a top-tier user experience. My areas of interest span across
 | Plastic Man No More!                                | DC Comics      | 4       | 12&#x2F;18&#x2F;2024 |
 | The Moon Is Following Us                            | Image Comics   | 4       | 12&#x2F;18&#x2F;2024 |
 | The Moon Is Following Us                            | Image Comics   | 4       | 12&#x2F;18&#x2F;2024 |
+| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| The Walking Dead Deluxe                             | Image Comics   | 10      | 12&#x2F;18&#x2F;2024 |
+| The Walking Dead Deluxe                             | Image Comics   | 10      | 12&#x2F;18&#x2F;2024 |
+| The Walking Dead Deluxe                             | Image Comics   | 10      | 12&#x2F;18&#x2F;2024 |
 | The Sacrificers                                     | Image Comics   | 13      | 12&#x2F;18&#x2F;2024 |
 | The Sacrificers                                     | Image Comics   | 13      | 12&#x2F;18&#x2F;2024 |
-| The Walking Dead Deluxe                             | Image Comics   | 10      | 12&#x2F;18&#x2F;2024 |
-| The Walking Dead Deluxe                             | Image Comics   | 10      | 12&#x2F;18&#x2F;2024 |
-| The Walking Dead Deluxe                             | Image Comics   | 10      | 12&#x2F;18&#x2F;2024 |
-| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Green Lantern &#x2F; Green Arrow: World&#39;s Finest Special | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
 | Sentinels                                           | Marvel Comics  | 3       | 12&#x2F;18&#x2F;2024 |
 | Sentinels                                           | Marvel Comics  | 3       | 12&#x2F;18&#x2F;2024 |
-| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| TVA                                                 | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
+| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
+| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
 | Batman &#39;89: Echoes                                  | DC Comics      | 5       | 12&#x2F;18&#x2F;2024 |
 | Batman &#39;89: Echoes                                  | DC Comics      | 5       | 12&#x2F;18&#x2F;2024 |
-| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| Hellverine                                          | Marvel Comics  | 1       | 12&#x2F;18&#x2F;2024 |
-| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
-| Challengers of the Unknown                          | DC Comics      | 1       | 12&#x2F;18&#x2F;2024 |
 | Thundercats                                         | Dynamite       | 11      | 12&#x2F;18&#x2F;2024 |
 | Thundercats                                         | Dynamite       | 11      | 12&#x2F;18&#x2F;2024 |
 | Thundercats                                         | Dynamite       | 11      | 12&#x2F;18&#x2F;2024 |
