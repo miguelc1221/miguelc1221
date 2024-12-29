@@ -23,330 +23,269 @@ designers to ensure a top-tier user experience. My areas of interest span across
 <details>
   <summary>Comics (Click to expand)</summary>
 
-| Name                                             | Publisher             | Issue # | Date       |
-| ------------------------------------------------ | --------------------- | ------- | ---------- |
-| Detective Comics                                 | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Detective Comics                                 | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Detective Comics                                 | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Detective Comics                                 | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Absolute Wonder Woman                            | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Absolute Wonder Woman                            | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Absolute Wonder Woman                            | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Absolute Wonder Woman                            | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Absolute Wonder Woman                            | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| The Amazing Spider-Man                           | Marvel Comics         | 64      | 12&#x2F;25&#x2F;2024 |
-| The Amazing Spider-Man                           | Marvel Comics         | 64      | 12&#x2F;25&#x2F;2024 |
-| The Amazing Spider-Man                           | Marvel Comics         | 64      | 12&#x2F;25&#x2F;2024 |
-| The Amazing Spider-Man                           | Marvel Comics         | 64      | 12&#x2F;25&#x2F;2024 |
-| The Amazing Spider-Man                           | Marvel Comics         | 64      | 12&#x2F;25&#x2F;2024 |
-| Superman                                         | DC Comics             | 21      | 12&#x2F;26&#x2F;2024 |
-| Superman                                         | DC Comics             | 21      | 12&#x2F;26&#x2F;2024 |
-| Superman                                         | DC Comics             | 21      | 12&#x2F;26&#x2F;2024 |
-| Superman                                         | DC Comics             | 21      | 12&#x2F;26&#x2F;2024 |
-| Superman                                         | DC Comics             | 21      | 12&#x2F;26&#x2F;2024 |
-| Superman                                         | DC Comics             | 21      | 12&#x2F;26&#x2F;2024 |
-| Action Comics                                    | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Action Comics                                    | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Action Comics                                    | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Action Comics                                    | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| Action Comics                                    | DC Comics             | 10      | 12&#x2F;26&#x2F;2024 |
-| X-Men                                            | Marvel Comics         | 9       | 12&#x2F;25&#x2F;2024 |
-| X-Men                                            | Marvel Comics         | 9       | 12&#x2F;25&#x2F;2024 |
-| X-Men                                            | Marvel Comics         | 9       | 12&#x2F;25&#x2F;2024 |
-| X-Men                                            | Marvel Comics         | 9       | 12&#x2F;25&#x2F;2024 |
-| X-Men                                            | Marvel Comics         | 9       | 12&#x2F;25&#x2F;2024 |
-| X-Men                                            | Marvel Comics         | 9       | 12&#x2F;25&#x2F;2024 |
-| X-Men                                            | Marvel Comics         | 9       | 12&#x2F;25&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Justice League Unlimited                         | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Ultimate Black Panther                           | Marvel Comics         | 11      | 12&#x2F;25&#x2F;2024 |
-| Ultimate Black Panther                           | Marvel Comics         | 11      | 12&#x2F;25&#x2F;2024 |
-| Ultimate Black Panther                           | Marvel Comics         | 11      | 12&#x2F;25&#x2F;2024 |
-| Ultimate Black Panther                           | Marvel Comics         | 11      | 12&#x2F;25&#x2F;2024 |
-| Green Arrow                                      | DC Comics             | 19      | 12&#x2F;26&#x2F;2024 |
-| Green Arrow                                      | DC Comics             | 19      | 12&#x2F;26&#x2F;2024 |
-| Void Rivals                                      | Image Comics          | 15      | 12&#x2F;26&#x2F;2024 |
-| Void Rivals                                      | Image Comics          | 15      | 12&#x2F;26&#x2F;2024 |
-| Void Rivals                                      | Image Comics          | 15      | 12&#x2F;26&#x2F;2024 |
-| Void Rivals                                      | Image Comics          | 15      | 12&#x2F;26&#x2F;2024 |
-| Void Rivals                                      | Image Comics          | 15      | 12&#x2F;26&#x2F;2024 |
-| Void Rivals                                      | Image Comics          | 15      | 12&#x2F;26&#x2F;2024 |
-| Void Rivals                                      | Image Comics          | 15      | 12&#x2F;26&#x2F;2024 |
-| The Flash                                        | DC Comics             | 16      | 12&#x2F;26&#x2F;2024 |
-| The Flash                                        | DC Comics             | 16      | 12&#x2F;26&#x2F;2024 |
-| The Flash                                        | DC Comics             | 16      | 12&#x2F;26&#x2F;2024 |
-| The Flash                                        | DC Comics             | 16      | 12&#x2F;26&#x2F;2024 |
-| Batman: The Long Halloween – The Last Halloween  | DC Comics             | 4       | 12&#x2F;26&#x2F;2024 |
-| Batman: The Long Halloween – The Last Halloween  | DC Comics             | 4       | 12&#x2F;26&#x2F;2024 |
-| Batman: The Long Halloween – The Last Halloween  | DC Comics             | 4       | 12&#x2F;26&#x2F;2024 |
-| Exceptional X-Men                                | Marvel Comics         | 4       | 12&#x2F;25&#x2F;2024 |
-| Exceptional X-Men                                | Marvel Comics         | 4       | 12&#x2F;25&#x2F;2024 |
-| Exceptional X-Men                                | Marvel Comics         | 4       | 12&#x2F;25&#x2F;2024 |
-| Exceptional X-Men                                | Marvel Comics         | 4       | 12&#x2F;25&#x2F;2024 |
-| Exceptional X-Men                                | Marvel Comics         | 4       | 12&#x2F;25&#x2F;2024 |
-| Exceptional X-Men                                | Marvel Comics         | 4       | 12&#x2F;25&#x2F;2024 |
-| Batman: Gargoyle of Gotham                       | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Batman: Gargoyle of Gotham                       | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Batman: Gargoyle of Gotham                       | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Batman: Gargoyle of Gotham                       | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Batman: Gargoyle of Gotham                       | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Batman: Gargoyle of Gotham                       | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                     | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                     | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Moon Knight: Fist of Khonshu                     | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Harley Quinn                                     | DC Comics             | 46      | 12&#x2F;26&#x2F;2024 |
-| Harley Quinn                                     | DC Comics             | 46      | 12&#x2F;26&#x2F;2024 |
-| Harley Quinn                                     | DC Comics             | 46      | 12&#x2F;26&#x2F;2024 |
-| Harley Quinn                                     | DC Comics             | 46      | 12&#x2F;26&#x2F;2024 |
-| Harley Quinn                                     | DC Comics             | 46      | 12&#x2F;26&#x2F;2024 |
-| Harley Quinn                                     | DC Comics             | 46      | 12&#x2F;26&#x2F;2024 |
-| Iron Man                                         | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Iron Man                                         | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Iron Man                                         | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Geiger                                           | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Geiger                                           | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Geiger                                           | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Redcoat                                          | Image Comics          | 8       | 12&#x2F;26&#x2F;2024 |
-| Redcoat                                          | Image Comics          | 8       | 12&#x2F;26&#x2F;2024 |
-| Redcoat                                          | Image Comics          | 8       | 12&#x2F;26&#x2F;2024 |
-| Batman: The Brave and the Bold                   | DC Comics             | 20      | 12&#x2F;26&#x2F;2024 |
-| Batman: The Brave and the Bold                   | DC Comics             | 20      | 12&#x2F;26&#x2F;2024 |
-| Batman: The Brave and the Bold                   | DC Comics             | 20      | 12&#x2F;26&#x2F;2024 |
-| Spider-Boy                                       | Marvel Comics         | 14      | 12&#x2F;25&#x2F;2024 |
-| Spider-Boy                                       | Marvel Comics         | 14      | 12&#x2F;25&#x2F;2024 |
-| Spider-Boy                                       | Marvel Comics         | 14      | 12&#x2F;25&#x2F;2024 |
-| Spider-Boy                                       | Marvel Comics         | 14      | 12&#x2F;25&#x2F;2024 |
-| Spider-Boy                                       | Marvel Comics         | 14      | 12&#x2F;25&#x2F;2024 |
-| Mystique                                         | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Mystique                                         | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| West Coast Avengers                              | Marvel Comics         | 2       | 12&#x2F;25&#x2F;2024 |
-| West Coast Avengers                              | Marvel Comics         | 2       | 12&#x2F;25&#x2F;2024 |
-| West Coast Avengers                              | Marvel Comics         | 2       | 12&#x2F;25&#x2F;2024 |
-| West Coast Avengers                              | Marvel Comics         | 2       | 12&#x2F;25&#x2F;2024 |
-| Green Lantern: Dark                              | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Green Lantern: Dark                              | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Green Lantern: Dark                              | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Green Lantern: Dark                              | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Green Lantern: Dark                              | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Black Canary: Best of the Best                   | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Black Canary: Best of the Best                   | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Black Canary: Best of the Best                   | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Power Girl                                       | DC Comics             | 16      | 12&#x2F;26&#x2F;2024 |
-| Power Girl                                       | DC Comics             | 16      | 12&#x2F;26&#x2F;2024 |
-| Power Girl                                       | DC Comics             | 16      | 12&#x2F;26&#x2F;2024 |
-| Timeslide                                        | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Timeslide                                        | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Timeslide                                        | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Timeslide                                        | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Timeslide                                        | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Timeslide                                        | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Blade: Red Band                                  | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Blade: Red Band                                  | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Blade: Red Band                                  | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Metamorpho: The Element Man                      | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Metamorpho: The Element Man                      | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Metamorpho: The Element Man                      | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Metamorpho: The Element Man                      | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Metamorpho: The Element Man                      | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Hellhunters                                      | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Hellhunters                                      | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Hellhunters                                      | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Hellhunters                                      | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Hellhunters                                      | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Hellhunters                                      | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Rogue Sun                                        | Image Comics          | 24      | 12&#x2F;26&#x2F;2024 |
-| G.I. Joe: A Real American Hero                   | Image Comics          | 31      | 12&#x2F;26&#x2F;2024 |
-| G.I. Joe: A Real American Hero                   | Image Comics          | 31      | 12&#x2F;26&#x2F;2024 |
-| G.I. Joe: A Real American Hero                   | Image Comics          | 31      | 12&#x2F;26&#x2F;2024 |
-| G.I. Joe: A Real American Hero                   | Image Comics          | 31      | 12&#x2F;26&#x2F;2024 |
-| DC Horror Presents...                            | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| DC Horror Presents...                            | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Batman &#x2F; Santa Claus: Silent Knight Returns      | DC Comics             | 5       | 12&#x2F;26&#x2F;2024 |
-| Batman &#x2F; Santa Claus: Silent Knight Returns      | DC Comics             | 5       | 12&#x2F;26&#x2F;2024 |
-| Batman &#x2F; Santa Claus: Silent Knight Returns      | DC Comics             | 5       | 12&#x2F;26&#x2F;2024 |
-| Hello Darkness                                   | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Hello Darkness                                   | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Hello Darkness                                   | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Hello Darkness                                   | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Rat City                                         | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Rat City                                         | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Rat City                                         | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Sabretooth: The Dead Don&#39;t Talk                  | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Sabretooth: The Dead Don&#39;t Talk                  | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Sabretooth: The Dead Don&#39;t Talk                  | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Sabretooth: The Dead Don&#39;t Talk                  | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Sabretooth: The Dead Don&#39;t Talk                  | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Sabretooth: The Dead Don&#39;t Talk                  | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Star Wars: Battle of Jakku – Last Stand          | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Star Wars: Battle of Jakku – Last Stand          | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Star Wars: Battle of Jakku – Last Stand          | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Ultraman X Avengers                              | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Ultraman X Avengers                              | Marvel Comics         | 3       | 12&#x2F;25&#x2F;2024 |
-| Kidpool &amp; Spider-Boy                             | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Kidpool &amp; Spider-Boy                             | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Kidpool &amp; Spider-Boy                             | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Kidpool &amp; Spider-Boy                             | Marvel Comics         | 1       | 12&#x2F;25&#x2F;2024 |
-| Violator: Origin                                 | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Violator: Origin                                 | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Creepshow                                        | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Creepshow                                        | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Creepshow                                        | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Sam and Twitch: Case Files                       | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Sam and Twitch: Case Files                       | Image Comics          | 9       | 12&#x2F;26&#x2F;2024 |
-| Hornsby &amp; Halo                                   | Image Comics          | 2       | 12&#x2F;26&#x2F;2024 |
-| Hornsby &amp; Halo                                   | Image Comics          | 2       | 12&#x2F;26&#x2F;2024 |
-| Hornsby &amp; Halo                                   | Image Comics          | 2       | 12&#x2F;26&#x2F;2024 |
-| Batman: Wayne Family Adventures                  | DC Comics             | 14      | 12&#x2F;26&#x2F;2024 |
-| Uncanny Valley                                   | BOOM! Studios         | 7       | 12&#x2F;25&#x2F;2024 |
-| Uncanny Valley                                   | BOOM! Studios         | 7       | 12&#x2F;25&#x2F;2024 |
-| Uncanny Valley                                   | BOOM! Studios         | 7       | 12&#x2F;25&#x2F;2024 |
-| Dust to Dust                                     | Image Comics          | 1       | 12&#x2F;26&#x2F;2024 |
-| Dust to Dust                                     | Image Comics          | 1       | 12&#x2F;26&#x2F;2024 |
-| Dust to Dust                                     | Image Comics          | 1       | 12&#x2F;26&#x2F;2024 |
-| The Creeping Below                               | BOOM! Studios         | 2       | 12&#x2F;25&#x2F;2024 |
-| The Creeping Below                               | BOOM! Studios         | 2       | 12&#x2F;25&#x2F;2024 |
-| The Creeping Below                               | BOOM! Studios         | 2       | 12&#x2F;25&#x2F;2024 |
-| The Creeping Below                               | BOOM! Studios         | 2       | 12&#x2F;25&#x2F;2024 |
-| The Creeping Below                               | BOOM! Studios         | 2       | 12&#x2F;25&#x2F;2024 |
-| The Creeping Below                               | BOOM! Studios         | 2       | 12&#x2F;25&#x2F;2024 |
-| DC Connect                                       | DC Comics             | 56      | 12&#x2F;26&#x2F;2024 |
-| Violent Flowers                                  | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Violent Flowers                                  | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Violent Flowers                                  | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Violent Flowers                                  | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| Violent Flowers                                  | Image Comics          | 4       | 12&#x2F;26&#x2F;2024 |
-| It&#39;s Jeff! Infinity Comic                        | Marvel Comics         | 41      | 12&#x2F;27&#x2F;2024 |
-| Previews                                         | Diamond Publications  | 43      | 12&#x2F;25&#x2F;2024 |
-| Lawful                                           | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Lawful                                           | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Lawful                                           | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Lawful                                           | BOOM! Studios         | 6       | 12&#x2F;25&#x2F;2024 |
-| Jim Henson&#39;s Labyrinth                           | BOOM! Studios         | 4       | 12&#x2F;25&#x2F;2024 |
-| Jim Henson&#39;s Labyrinth                           | BOOM! Studios         | 4       | 12&#x2F;25&#x2F;2024 |
-| Jim Henson&#39;s Labyrinth                           | BOOM! Studios         | 4       | 12&#x2F;25&#x2F;2024 |
-| Jim Henson&#39;s Labyrinth                           | BOOM! Studios         | 4       | 12&#x2F;25&#x2F;2024 |
-| The Autumn Kingdom                               | Oni Press             | 4       | 12&#x2F;26&#x2F;2024 |
-| The Autumn Kingdom                               | Oni Press             | 4       | 12&#x2F;26&#x2F;2024 |
-| The Autumn Kingdom                               | Oni Press             | 4       | 12&#x2F;26&#x2F;2024 |
-| The Sickness                                     | Uncivilized Books     | 6       | 12&#x2F;25&#x2F;2024 |
-| The Sickness                                     | Uncivilized Books     | 6       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| Vampirella Helliday 2024 Special                 | Dynamite              | 1       | 12&#x2F;25&#x2F;2024 |
-| One Piece                                        | VIZ Media             | 11      | 12&#x2F;22&#x2F;2024 |
-| Final Fight                                      | UDON                  | 3       | 12&#x2F;25&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Batman: Gargoyle of Gotham – Noir Edition        | DC Comics             | 3       | 12&#x2F;26&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Dandadan                                         | VIZ Media             | 17      | 12&#x2F;23&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| The Wrong Earth: Dead Ringers                    | Ahoy Comics           | 5       | 12&#x2F;26&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Comic Shop News                                  | Comic Shop News       | 19      | 12&#x2F;26&#x2F;2024 |
-| Battle Action                                    | Rebellion             | 5       | 12&#x2F;25&#x2F;2024 |
-| Avengers Academy: Marvel&#39;s Voices Infinity Comic | Marvel Comics         | 27      | 12&#x2F;24&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Sakamoto Days                                    | VIZ Media             | 19      | 12&#x2F;22&#x2F;2024 |
-| Avengers United Infinity Comic                   | Marvel Comics         | 62      | 12&#x2F;26&#x2F;2024 |
-| House of Harkness Infinity Comic                 | Marvel Comics         | 15      | 12&#x2F;25&#x2F;2024 |
-| Marvel Rivals Infinity Comic                     | Marvel Comics         | 2       | 12&#x2F;23&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Katabasis                                        | BlackBox Comics       | 1       | 12&#x2F;25&#x2F;2024 |
-| Katabasis                                        | BlackBox Comics       | 1       | 12&#x2F;25&#x2F;2024 |
-| Katabasis                                        | BlackBox Comics       | 1       | 12&#x2F;25&#x2F;2024 |
-| Katabasis                                        | BlackBox Comics       | 1       | 12&#x2F;25&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 2       | 12&#x2F;26&#x2F;2024 |
-| Tribute: The Notorious B.I G.                    | TidalWave Productions | 1       | 12&#x2F;25&#x2F;2024 |
-| Tribute: The Notorious B.I G.                    | TidalWave Productions | 1       | 12&#x2F;25&#x2F;2024 |
-| Critter                                          | Antarctic Press       | 6       | 12&#x2F;25&#x2F;2024 |
-| Godslap                                          | Bad Egg Publishing    | 7       | 12&#x2F;25&#x2F;2024 |
-| Godslap                                          | Bad Egg Publishing    | 7       | 12&#x2F;25&#x2F;2024 |
-| Absolute Batman                                  | DC Comics             | 1       | 12&#x2F;26&#x2F;2024 |
-| Kagurabachi                                      | VIZ Media             | 62      | 12&#x2F;22&#x2F;2024 |
-| The Human Fly                                    | IPI Comics            | 2       | 12&#x2F;25&#x2F;2024 |
-| Ninja High School                                | Antarctic Press       | 19      | 12&#x2F;25&#x2F;2024 |
-| Transformers                                     | Image Comics          | 1       | 12&#x2F;25&#x2F;2024 |
-| Gachiakuta                                       | Kodansha              | 12      | 12&#x2F;24&#x2F;2024 |
-| Returned by the King                             | Webtoon               | 43      | 12&#x2F;28&#x2F;2024 |
-| A Couple of Obligations                          | Webtoon               | 39      | 12&#x2F;26&#x2F;2024 |
-| Archie Milestones Jumbo Comics Digest            | Archie Comics         | 27      | 12&#x2F;25&#x2F;2024 |
-| Rat City                                         | Image Comics          | 7       | 12&#x2F;26&#x2F;2024 |
-| Transformers                                     | Image Comics          | 1       | 12&#x2F;25&#x2F;2024 |
-| Violator: Origin                                 | Image Comics          | 2       | 12&#x2F;26&#x2F;2024 |
-| Violator: Origin                                 | Image Comics          | 3       | 12&#x2F;26&#x2F;2024 |
-| I Hate Fairyland                                 | Image Comics          | 16      | 12&#x2F;26&#x2F;2024 |
-| The Rocketfellers                                | Image Comics          | 1       | 12&#x2F;26&#x2F;2024 |
-| I Didn&#39;t Sign Up to be a Nanny!                  | Webtoon               | 32      | 12&#x2F;27&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Kids These Days                                  | Keenspot              | 1       | 12&#x2F;25&#x2F;2024 |
-| Tower of God: Season 3                           | Webtoon               | 22      | 12&#x2F;23&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                     | IDW Publishing        | 4       | 12&#x2F;27&#x2F;2024 |
-| Zinnober                                         | Scout Comics          | 1       | 12&#x2F;26&#x2F;2024 |
-| Ichi the Witch                                   | VIZ Media             | 16      | 12&#x2F;22&#x2F;2024 |
-| Teenage Mutant Ninja Turtles                     | IDW Publishing        | 4       | 12&#x2F;27&#x2F;2024 |
-| Marvel Previews                                  | Marvel Comics         | 40      | 12&#x2F;25&#x2F;2024 |
-| Centuria                                         | Shueisha              | 35      | 12&#x2F;22&#x2F;2024 |
-| Do You Like Tomboys?                             | Webtoon               | 25      | 12&#x2F;22&#x2F;2024 |
-| Ordeal                                           | Webtoon               | 11      | 12&#x2F;27&#x2F;2024 |
-| Чумной Доктор                                    | Bubble Comics         | 43      | 12&#x2F;25&#x2F;2024 |
-| Shinobi Undercover                               | VIZ Media             | 15      | 12&#x2F;22&#x2F;2024 |
-| Selfish Romance                                  | Webtoon               | 25      | 12&#x2F;27&#x2F;2024 |
-| Drama Queen                                      | Shueisha              | 4       | 12&#x2F;22&#x2F;2024 |
-| The Last Adventurer                              | Webtoon               | 40      | 12&#x2F;22&#x2F;2024 |
-| Return of the Living Dead                        | American Mythology    | 1       | 12&#x2F;25&#x2F;2024 |
-| Рысь. Книга 3. Доверяй, но проверяй. Глава 2     | Bubble Comics         | 0       | 12&#x2F;27&#x2F;2024 |
-| BUBBLE ГАМ                                       | Bubble Comics         | 12      | 12&#x2F;25&#x2F;2024 |
-| Magnus                                           | GodHood Comics        | 5       | 12&#x2F;25&#x2F;2024 |
-| Astonishing Spider-Man Infinity Comic            | Marvel Comics         | 10      | 12&#x2F;24&#x2F;2024 |
-| Astonishing X-Men Infinity Comic                 | Marvel Comics         | 4       | 12&#x2F;23&#x2F;2024 |
-| 나 혼자만 레벨업 : 라그나로크                                | Other                 | 34      | 12&#x2F;25&#x2F;2024 |
-| Reality Quest                                    | Webtoon               | 13      | 12&#x2F;23&#x2F;2024 |
-| So Buttons                                       | Other                 | 14      | 12&#x2F;25&#x2F;2024 |
-| Solo Leveling: Ragnarok                          | Other                 | 22      | 12&#x2F;28&#x2F;2024 |
-| U-Knighted                                       | Other                 | 1       | 12&#x2F;22&#x2F;2024 |
-| ダンダダン                                            | Shueisha              | 17      | 12&#x2F;24&#x2F;2024 |
-| 週刊少年ジャンプ (Weekly Shonen Jump) 2025               | Shueisha              | 4-      | 12&#x2F;23&#x2F;2024 |
-| 신의 탑: 시즌 3                                       | Webtoon               | 22      | 12&#x2F;22&#x2F;2024 |
-| 왕의 힘으로 회귀한다                                      | Webtoon               | 62      | 12&#x2F;27&#x2F;2024 |
-| 이기적 연애론                                          | Webtoon               | 31      | 12&#x2F;24&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 0       | 12&#x2F;27&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 1       | 12&#x2F;27&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 2       | 12&#x2F;27&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 3       | 12&#x2F;27&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 4       | 12&#x2F;27&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 5       | 12&#x2F;27&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 6       | 12&#x2F;27&#x2F;2024 |
-| The Academy’s Sashimi Sword Master               | Webtoon               | 7       | 12&#x2F;27&#x2F;2024 |
-| My Life as a Loser 2                             | Webtoon               | 33      | 12&#x2F;22&#x2F;2024 |
-| 月刊少年シリウス (Monthly Shonen Sirius) 2025            | Kodansha              | 2       | 12&#x2F;25&#x2F;2024 |
-| 부부의 의무를 원하신다면                                    | Webtoon               | 39      | 12&#x2F;25&#x2F;2024 |
-| 현실 퀘스트                                           | Webtoon               | 14      | 12&#x2F;25&#x2F;2024 |
-| Bubbles                                          | Bubbles Zine          | 21      | 12&#x2F;25&#x2F;2024 |
-| ドラマクイン                                           | Shueisha              | 4       | 12&#x2F;23&#x2F;2024 |
-| 週刊少年マガジン (Weekly Shonen Magazine) 2025           | Kodansha              | 4-      | 12&#x2F;25&#x2F;2024 |
-| 인생 존망2                                           | Webtoon               | 50      | 12&#x2F;27&#x2F;2024 |
-| 최후의 모험가                                          | Webtoon               | 41      | 12&#x2F;28&#x2F;2024 |
+| Name                                                 | Publisher                   | Issue # | Date       |
+| ---------------------------------------------------- | --------------------------- | ------- | ---------- |
+| Batman                                               | DC Comics                   | 15      | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 15      | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 15      | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 15      | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 15      | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 15      | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 15      | 01&#x2F;01&#x2F;2025 |
+| Saga                                                 | Image Comics                | 71      | 01&#x2F;01&#x2F;2025 |
+| Absolute Superman                                    | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Absolute Superman                                    | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Absolute Superman                                    | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Absolute Superman                                    | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Absolute Superman                                    | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| The Ultimates                                        | Marvel Comics               | 8       | 01&#x2F;01&#x2F;2025 |
+| The Ultimates                                        | Marvel Comics               | 8       | 01&#x2F;01&#x2F;2025 |
+| The Ultimates                                        | Marvel Comics               | 8       | 01&#x2F;01&#x2F;2025 |
+| Miles Morales: Spider-Man                            | Marvel Comics               | 28      | 01&#x2F;01&#x2F;2025 |
+| Miles Morales: Spider-Man                            | Marvel Comics               | 28      | 01&#x2F;01&#x2F;2025 |
+| Miles Morales: Spider-Man                            | Marvel Comics               | 28      | 01&#x2F;01&#x2F;2025 |
+| The Avengers                                         | Marvel Comics               | 22      | 01&#x2F;01&#x2F;2025 |
+| The Avengers                                         | Marvel Comics               | 22      | 01&#x2F;01&#x2F;2025 |
+| The Avengers                                         | Marvel Comics               | 22      | 01&#x2F;01&#x2F;2025 |
+| The Avengers                                         | Marvel Comics               | 22      | 01&#x2F;01&#x2F;2025 |
+| Poison Ivy                                           | DC Comics                   | 29      | 01&#x2F;01&#x2F;2025 |
+| Poison Ivy                                           | DC Comics                   | 29      | 01&#x2F;01&#x2F;2025 |
+| Poison Ivy                                           | DC Comics                   | 29      | 01&#x2F;01&#x2F;2025 |
+| Poison Ivy                                           | DC Comics                   | 29      | 01&#x2F;01&#x2F;2025 |
+| Poison Ivy                                           | DC Comics                   | 29      | 01&#x2F;01&#x2F;2025 |
+| Poison Ivy                                           | DC Comics                   | 29      | 01&#x2F;01&#x2F;2025 |
+| Daredevil                                            | Marvel Comics               | 17      | 01&#x2F;01&#x2F;2025 |
+| Daredevil                                            | Marvel Comics               | 17      | 01&#x2F;01&#x2F;2025 |
+| Daredevil                                            | Marvel Comics               | 17      | 01&#x2F;01&#x2F;2025 |
+| Spawn                                                | Image Comics                | 36      | 01&#x2F;01&#x2F;2025 |
+| Spawn                                                | Image Comics                | 36      | 01&#x2F;01&#x2F;2025 |
+| Spawn                                                | Image Comics                | 36      | 01&#x2F;01&#x2F;2025 |
+| Spawn                                                | Image Comics                | 36      | 01&#x2F;01&#x2F;2025 |
+| Batgirl                                              | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Batgirl                                              | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Batgirl                                              | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Birds of Prey                                        | DC Comics                   | 17      | 01&#x2F;01&#x2F;2025 |
+| Birds of Prey                                        | DC Comics                   | 17      | 01&#x2F;01&#x2F;2025 |
+| Birds of Prey                                        | DC Comics                   | 17      | 01&#x2F;01&#x2F;2025 |
+| Birds of Prey                                        | DC Comics                   | 17      | 01&#x2F;01&#x2F;2025 |
+| The Spectacular Spider-Men                           | Marvel Comics               | 11      | 01&#x2F;01&#x2F;2025 |
+| The Spectacular Spider-Men                           | Marvel Comics               | 11      | 01&#x2F;01&#x2F;2025 |
+| X-Force                                              | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| X-Force                                              | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| X-Force                                              | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| X-Force                                              | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| X-Force                                              | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| JSA                                                  | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| JSA                                                  | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| JSA                                                  | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| JSA                                                  | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| X-Factor                                             | Marvel Comics               | 6       | 01&#x2F;01&#x2F;2025 |
+| X-Factor                                             | Marvel Comics               | 6       | 01&#x2F;01&#x2F;2025 |
+| X-Factor                                             | Marvel Comics               | 6       | 01&#x2F;01&#x2F;2025 |
+| Shazam!                                              | DC Comics                   | 19      | 01&#x2F;01&#x2F;2025 |
+| Shazam!                                              | DC Comics                   | 19      | 01&#x2F;01&#x2F;2025 |
+| Shazam!                                              | DC Comics                   | 19      | 01&#x2F;01&#x2F;2025 |
+| Batman: Full Moon                                    | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Batman: Full Moon                                    | DC Comics                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Spider-Gwen: The Ghost-Spider                        | Marvel Comics               | 9       | 01&#x2F;01&#x2F;2025 |
+| Spider-Gwen: The Ghost-Spider                        | Marvel Comics               | 9       | 01&#x2F;01&#x2F;2025 |
+| Spider-Gwen: The Ghost-Spider                        | Marvel Comics               | 9       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Deadpool &#x2F; Wolverine                                 | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Two-Face                                             | DC Comics                   | 2       | 01&#x2F;01&#x2F;2025 |
+| Two-Face                                             | DC Comics                   | 2       | 01&#x2F;01&#x2F;2025 |
+| Two-Face                                             | DC Comics                   | 2       | 01&#x2F;01&#x2F;2025 |
+| The Walking Dead Deluxe                              | Image Comics                | 10      | 01&#x2F;01&#x2F;2025 |
+| The Walking Dead Deluxe                              | Image Comics                | 10      | 01&#x2F;01&#x2F;2025 |
+| The Walking Dead Deluxe                              | Image Comics                | 10      | 01&#x2F;01&#x2F;2025 |
+| Werewolf by Night                                    | Marvel Comics               | 6       | 01&#x2F;01&#x2F;2025 |
+| Werewolf by Night                                    | Marvel Comics               | 6       | 01&#x2F;01&#x2F;2025 |
+| Justice League: The Atom Project                     | DC Comics                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Justice League: The Atom Project                     | DC Comics                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Justice League: The Atom Project                     | DC Comics                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Justice League: The Atom Project                     | DC Comics                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Justice League: The Atom Project                     | DC Comics                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Justice League: The Atom Project                     | DC Comics                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Cable: Love and Chrome                               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Sam Wilson: Captain America                          | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Sam Wilson: Captain America                          | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Sam Wilson: Captain America                          | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Sam Wilson: Captain America                          | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Sam Wilson: Captain America                          | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Sam Wilson: Captain America                          | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Sam Wilson: Captain America                          | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Star Wars: Ahsoka                                    | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| Star Wars: Ahsoka                                    | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| Star Wars: Ahsoka                                    | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| Star Wars: Ahsoka                                    | Marvel Comics               | 7       | 01&#x2F;01&#x2F;2025 |
+| DC Horror Presents: Creature Commandos               | DC Comics                   | 4       | 01&#x2F;01&#x2F;2025 |
+| DC Horror Presents: Creature Commandos               | DC Comics                   | 4       | 01&#x2F;01&#x2F;2025 |
+| What If...? Galactus Transformed Hulk?               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| What If...? Galactus Transformed Hulk?               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| What If...? Galactus Transformed Hulk?               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| What If...? Galactus Transformed Hulk?               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| What If...? Galactus Transformed Hulk?               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| What If...? Galactus Transformed Hulk?               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| What If...? Galactus Transformed Hulk?               | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Batman: Wayne Family Adventures                      | DC Comics                   | 14      | 01&#x2F;02&#x2F;2025 |
+| Knights vs Samurai                                   | Image Comics                | 4       | 01&#x2F;01&#x2F;2025 |
+| Knights vs Samurai                                   | Image Comics                | 4       | 01&#x2F;01&#x2F;2025 |
+| Savage Dragon                                        | Image Comics                | 27      | 01&#x2F;01&#x2F;2025 |
+| Savage Dragon                                        | Image Comics                | 27      | 01&#x2F;01&#x2F;2025 |
+| Savage Dragon                                        | Image Comics                | 27      | 01&#x2F;01&#x2F;2025 |
+| Something Crawled Out                                | Vault Comics                | 3       | 01&#x2F;01&#x2F;2025 |
+| Something Crawled Out                                | Vault Comics                | 3       | 01&#x2F;01&#x2F;2025 |
+| Something Crawled Out                                | Vault Comics                | 3       | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| Vampirella                                           | Dynamite                    | 67      | 01&#x2F;01&#x2F;2025 |
+| It&#39;s Jeff! Infinity Comic                            | Marvel Comics               | 42      | 01&#x2F;03&#x2F;2025 |
+| Chainsaw Man                                         | VIZ Media                   | 18      | 12&#x2F;31&#x2F;2024 |
+| The Sickness                                         | Uncivilized Books           | 6       | 01&#x2F;01&#x2F;2025 |
+| The Sickness                                         | Uncivilized Books           | 6       | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 60      | 01&#x2F;01&#x2F;2025 |
+| When I Lay My Vengeance Upon Thee                    | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| When I Lay My Vengeance Upon Thee                    | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| When I Lay My Vengeance Upon Thee                    | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| When I Lay My Vengeance Upon Thee                    | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| When I Lay My Vengeance Upon Thee                    | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| When I Lay My Vengeance Upon Thee                    | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| When I Lay My Vengeance Upon Thee                    | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| Something is Killing the Children Scriptbook         | BOOM! Studios               | 1       | 12&#x2F;31&#x2F;2024 |
+| DC Comics Presents                                   | DC Comics                   | 26      | 01&#x2F;01&#x2F;2025 |
+| Zenescope 2024 Pinup Special                         | Zenescope                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Calavera P.I.                                        | Oni Press                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Calavera P.I.                                        | Oni Press                   | 3       | 01&#x2F;01&#x2F;2025 |
+| Vampiress Carmilla Annual                            | Warrant Publishing          | 25      | 01&#x2F;01&#x2F;2025 |
+| Night of the Slashers                                | Magma Comix                 | 3       | 01&#x2F;01&#x2F;2025 |
+| Night of the Slashers                                | Magma Comix                 | 3       | 01&#x2F;01&#x2F;2025 |
+| Dandadan                                             | VIZ Media                   | 17      | 12&#x2F;30&#x2F;2024 |
+| Batman                                               | DC Comics                   | 60      | 01&#x2F;01&#x2F;2025 |
+| Back Issue                                           | TwoMorrows                  | 15      | 01&#x2F;01&#x2F;2025 |
+| Terror and Fury                                      | Zenescope                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Terror and Fury                                      | Zenescope                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Terror and Fury                                      | Zenescope                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Terror and Fury                                      | Zenescope                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Terror and Fury                                      | Zenescope                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Sakamoto Days                                        | VIZ Media                   | 19      | 01&#x2F;03&#x2F;2025 |
+| Rick and Morty: New Year, New Rick Special           | Oni Press                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Rick and Morty: New Year, New Rick Special           | Oni Press                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Rick and Morty: New Year, New Rick Special           | Oni Press                   | 1       | 01&#x2F;01&#x2F;2025 |
+| Hell&#39;s Half Acre                                     | Magma Comix                 | 2       | 01&#x2F;01&#x2F;2025 |
+| Hell&#39;s Half Acre                                     | Magma Comix                 | 2       | 01&#x2F;01&#x2F;2025 |
+| Hell&#39;s Half Acre                                     | Magma Comix                 | 2       | 01&#x2F;01&#x2F;2025 |
+| The Amazing Spider-Man                               | Marvel Comics               | 61      | 01&#x2F;01&#x2F;2025 |
+| DC Comics Presents                                   | DC Comics                   | 26      | 01&#x2F;01&#x2F;2025 |
+| The Amazing Spider-Man                               | Marvel Comics               | 61      | 01&#x2F;01&#x2F;2025 |
+| Psylocke                                             | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Mark Spears Monsters                                 | Keenspot                    | 1       | 01&#x2F;01&#x2F;2025 |
+| Jungle Comics                                        | Antarctic Press             | 30      | 01&#x2F;01&#x2F;2025 |
+| Cryptology                                           | TwoMorrows                  | 2       | 01&#x2F;01&#x2F;2025 |
+| Aliens vs. Avengers                                  | Marvel Comics               | 2       | 01&#x2F;01&#x2F;2025 |
+| Fence Challengers: Sweet Sixteen                     | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| Fence Challengers: Sweet Sixteen                     | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| Fence Challengers: Sweet Sixteen                     | BOOM! Studios               | 1       | 01&#x2F;01&#x2F;2025 |
+| Batman                                               | DC Comics                   | 60      | 01&#x2F;01&#x2F;2025 |
+| Rocketeer: Pavlichenko Special Art Edition           | Crusade Comics              | 1       | 12&#x2F;31&#x2F;2024 |
+| Aliens vs. Avengers                                  | Marvel Comics               | 2       | 01&#x2F;01&#x2F;2025 |
+| Jack Kirby Collector                                 | TwoMorrows                  | 92      | 01&#x2F;01&#x2F;2025 |
+| Psylocke                                             | Marvel Comics               | 1       | 01&#x2F;01&#x2F;2025 |
+| Returned by the King                                 | Webtoon                     | 44      | 01&#x2F;04&#x2F;2025 |
+| Like Father, Like Daughter: The Five Stages of Grief | Lifeline Comics             | 1       | 01&#x2F;01&#x2F;2025 |
+| Mob Princess                                         | Lifeline Comics             | 1       | 01&#x2F;01&#x2F;2025 |
+| Mob Princess                                         | Lifeline Comics             | 1       | 01&#x2F;01&#x2F;2025 |
+| Mob Princess                                         | Lifeline Comics             | 1       | 01&#x2F;01&#x2F;2025 |
+| Mob Princess                                         | Lifeline Comics             | 1       | 01&#x2F;01&#x2F;2025 |
+| A Couple of Obligations                              | Webtoon                     | 40      | 01&#x2F;02&#x2F;2025 |
+| チェンソーマン (Chainsaw Man)                               | Shueisha                    | 18      | 01&#x2F;01&#x2F;2025 |
+| I Didn&#39;t Sign Up to be a Nanny!                      | Webtoon                     | 33      | 01&#x2F;03&#x2F;2025 |
+| DC Comics Presents                                   | DC Comics                   | 26      | 01&#x2F;01&#x2F;2025 |
+| Thundercats                                          | Dynamite                    | 11      | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| 10° Mutant                                           | Red Sea Comics              | 1       | 01&#x2F;01&#x2F;2025 |
+| Tower of God: Season 3                               | Webtoon                     | 22      | 12&#x2F;30&#x2F;2024 |
+| Thundercats                                          | Dynamite                    | 11      | 01&#x2F;01&#x2F;2025 |
+| Ichi the Witch                                       | VIZ Media                   | 17      | 01&#x2F;03&#x2F;2025 |
+| Centuria                                             | Shueisha                    | 36      | 12&#x2F;29&#x2F;2024 |
+| Do You Like Tomboys?                                 | Webtoon                     | 26      | 12&#x2F;29&#x2F;2024 |
+| DuckTales                                            | Dynamite                    | 2       | 01&#x2F;01&#x2F;2025 |
+| Ordeal                                               | Webtoon                     | 11      | 01&#x2F;03&#x2F;2025 |
+| Shinobi Undercover                                   | VIZ Media                   | 16      | 01&#x2F;03&#x2F;2025 |
+| Beast &amp; Snow                                         | Lifeline Comics             | 2       | 01&#x2F;01&#x2F;2025 |
+| The Last Adventurer                                  | Webtoon                     | 41      | 12&#x2F;29&#x2F;2024 |
+| Private Dance                                        | Space Between Entertainment | 1       | 01&#x2F;01&#x2F;2025 |
+| Drama Queen                                          | Shueisha                    | 5       | 12&#x2F;29&#x2F;2024 |
+| Selfish Romance                                      | Webtoon                     | 26      | 01&#x2F;03&#x2F;2025 |
+| Demon Summoner Gash Gash                             | Strangers Publishing        | 0       | 01&#x2F;01&#x2F;2025 |
+| Jonny Quest                                          | Dynamite                    | 5       | 01&#x2F;01&#x2F;2025 |
+| True Believer                                        | Other                       | 1       | 01&#x2F;01&#x2F;2025 |
+| Разумовский и Волков. Дорога в никуда                | Bubble Comics               | 2       | 12&#x2F;31&#x2F;2024 |
+| 나 혼자만 레벨업 : 라그나로크                                    | Other                       | 35      | 01&#x2F;01&#x2F;2025 |
+| 왕의 힘으로 회귀한다                                          | Webtoon                     | 63      | 01&#x2F;03&#x2F;2025 |
+| :Metaphoria                                          | For Your Eyes To Eat        | 1       | 12&#x2F;31&#x2F;2024 |
+| The Academy’s Sashimi Sword Master                   | Webtoon                     | 8       | 01&#x2F;03&#x2F;2025 |
+| Horde: Dark Contract Saga                            | Webtoon                     | 5       | 01&#x2F;04&#x2F;2025 |
+| Mad                                                  | Shueisha                    | 16      | 12&#x2F;30&#x2F;2024 |
+| Solo Leveling: Ragnarok                              | Other                       | 23      | 01&#x2F;04&#x2F;2025 |
+| Vicious Circus: Christmas Special 2024               | Inverse Press               | 1       | 01&#x2F;01&#x2F;2025 |
+| ダンダダン                                                | Shueisha                    | 17      | 12&#x2F;31&#x2F;2024 |
+| 부부의 의무를 원하신다면                                        | Webtoon                     | 40      | 01&#x2F;01&#x2F;2025 |
+| 신의 탑: 시즌 3                                           | Webtoon                     | 23      | 12&#x2F;29&#x2F;2024 |
+| 이기적 연애론                                              | Webtoon                     | 32      | 12&#x2F;31&#x2F;2024 |
+| 현실 퀘스트                                               | Webtoon                     | 14      | 01&#x2F;01&#x2F;2025 |
+| My Life as a Loser 2                                 | Webtoon                     | 34      | 12&#x2F;29&#x2F;2024 |
+| Точка Невозврата. Красная Фурия                      | Bubble Comics               | 1       | 12&#x2F;31&#x2F;2024 |
+| 인생 존망2                                               | Webtoon                     | 51      | 01&#x2F;03&#x2F;2025 |
+| 최후의 모험가                                              | Webtoon                     | 42      | 01&#x2F;04&#x2F;2025 |
+| Comics Blogger                                       | Other                       | 11      | 01&#x2F;01&#x2F;2025 |
+| Yerrr!                                               | For Your Eyes To Eat        | 1       | 12&#x2F;31&#x2F;2024 |
+| Космические рестлеры-старики из космоса              | Drugoe Izdatelstvo          | 1       | 12&#x2F;31&#x2F;2024 |
+| Космические рестлеры-старики из космоса              | Drugoe Izdatelstvo          | 1       | 12&#x2F;31&#x2F;2024 |
+| Космические рестлеры-старики из космоса              | Drugoe Izdatelstvo          | 1       | 12&#x2F;31&#x2F;2024 |
+| Космические рестлеры-старики из космоса              | Drugoe Izdatelstvo          | 1       | 12&#x2F;31&#x2F;2024 |
+| Космические рестлеры-старики из космоса              | Drugoe Izdatelstvo          | 1       | 12&#x2F;31&#x2F;2024 |
+| Космические рестлеры-старики из космоса              | Drugoe Izdatelstvo          | 1       | 12&#x2F;31&#x2F;2024 |
+| Космические рестлеры-старики из космоса              | Drugoe Izdatelstvo          | 1       | 12&#x2F;31&#x2F;2024 |
+| ドラマクイン                                               | Shueisha                    | 5       | 12&#x2F;30&#x2F;2024 |
 
 </details>
