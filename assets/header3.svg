@@ -52,10 +52,9 @@
   <text x="904" y="190" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600">TypeScript</text>
   <text x="904" y="220" fill="white" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600">Design Systems</text>
 
-  <circle cx="1134" cy="110" r="6" fill="#2DD4BF"/>
-  <circle cx="1134" cy="140" r="6" fill="#67E8F9"/>
-  <circle cx="1134" cy="170" r="6" fill="#A5F3FC"/>
-  <circle cx="1134" cy="200" r="6" fill="#CCFBF1"/>
+  <circle cx="1134" cy="153" r="6" fill="#2DD4BF"/>
+  <circle cx="1134" cy="183" r="6" fill="#67E8F9"/>
+  <circle cx="1134" cy="213" r="6" fill="#A5F3FC"/>
 
   <rect x="72" y="234" width="180" height="4" rx="2" fill="url(#accent)"/>
 </svg>
