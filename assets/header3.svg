@@ -40,12 +40,9 @@
   <path d="M1054 77C992 136 948 185 912 256" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
 
   <rect x="40" y="40" width="1200" height="240" rx="24" fill="url(#panel)" stroke="white" stroke-opacity="0.12"/>
-  <rect x="72" y="72" width="390" height="56" rx="28" fill="white" fill-opacity="0.08"/>
-  <text x="102" y="108" fill="#CCFBF1" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">AVAILABLE FOR COLLABORATION</text>
-
-  <text x="72" y="160" fill="white" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700">Miguel Correa</text>
-  <text x="72" y="198" fill="#A5F3FC" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600">Front-End Developer</text>
-  <text x="72" y="234" fill="#D1D5DB" font-family="'Segoe UI', Arial, sans-serif" font-size="20">Crafting modern interfaces, thoughtful systems, and clean product experiences.</text>
+  <text x="72" y="142" fill="white" font-family="'Avenir Next', 'Segoe UI', Arial, sans-serif" font-size="56" font-weight="700">Miguel Correa</text>
+  <text x="72" y="180" fill="#A5F3FC" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600">Front-End Developer</text>
+  <text x="72" y="216" fill="#D1D5DB" font-family="'Segoe UI', Arial, sans-serif" font-size="20">Crafting modern interfaces, thoughtful systems, and clean product experiences.</text>
 
   <rect x="880" y="82" width="286" height="154" rx="22" fill="#020617" fill-opacity="0.42" stroke="white" stroke-opacity="0.14"/>
   <rect x="904" y="106" width="96" height="28" rx="14" fill="#14B8A6" fill-opacity="0.18"/>
@@ -60,5 +57,5 @@
   <circle cx="1134" cy="170" r="6" fill="#A5F3FC"/>
   <circle cx="1134" cy="200" r="6" fill="#CCFBF1"/>
 
-  <rect x="72" y="252" width="180" height="4" rx="2" fill="url(#accent)"/>
+  <rect x="72" y="234" width="180" height="4" rx="2" fill="url(#accent)"/>
 </svg>
