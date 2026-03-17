@@ -1,4 +1,4 @@
-<img width="100%" alt="Miguel Correa profile header" src="./assets/header3.svg">
+<img width="100%" alt="Miguel Correa profile header" src="./assets/header3.svg?v=3">
 
 <div align="center">
   <a href="https://miguelcorrea.dev">
